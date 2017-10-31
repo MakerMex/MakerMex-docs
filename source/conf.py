@@ -332,7 +332,3 @@ texinfo_documents = [
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #
 # texinfo_no_detailmenu = False
-
-#Internationalization
-locale_dirs = ['../build/locale/']   # path is example but recommended.
-gettext_compact = False     # optional.
