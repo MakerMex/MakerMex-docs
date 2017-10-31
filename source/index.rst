@@ -20,7 +20,7 @@ Contents:
    componentes.rst
 
 
-Indices and tables
+Indices y tablas
 ==================
 
 * :ref:`genindex`
