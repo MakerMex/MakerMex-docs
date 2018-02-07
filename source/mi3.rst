@@ -2,7 +2,7 @@
 Impresora 3D Mi3
 **********************
 
-General
+Generales
 ==================
 
 MANUAL DE ENSAMBLADO Mi3

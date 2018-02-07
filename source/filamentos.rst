@@ -8,7 +8,7 @@ Módulos compatibles con éste filamento:
   Módulo sencillo.
   Módulo doble.
 
-**Parámetros recomendados**
+**Parámetros recomendados.**
   Filamento de 2.85mm y boquilla de 0.4mm:
     +-------------------------+---------------+
     | Temperatura             | 200 a 215 °C  |
@@ -35,10 +35,7 @@ EL PLA o tambien conocido como ácido poliláctico, es un polímero constituido 
 
   Se utiliza ampliamente en la impresión 3D bajo el proceso FDM.
 
-
-**¿Cómo imprimo el PLA?**
-
-
+**¿Cómo imprimo el PLA?.**
 Para poder imprimir este filamento es importante saber que los rangos de temperatura varian considerablemente de un rollo de filamento a otro,
   dependiendo el color y diametro del mismo, se recomienda realizar pruebas con una pieza donde sea facil percibir los cambios de temperatura
   a una altura determinada con cada rollo y probar variando las temperaturas al imprimir, esto desde 190°C hasta 220°C y de esta manera identificar
@@ -50,14 +47,12 @@ Para este filamento, recomendamos que tenga un flujo de aire adecuado para un ch
 Post procesos en piezas de PLA.
   Despues de la impresión de las piezas se pueden realizar los diferentes procesos de acabado en ellas por ejemplo:
 
-1 pulido con lija de agua grano suave, posteriormente acabado con grano fino.
+1 Pulido con lija de agua grano suave, posteriormente acabado con grano fino.
 
+2 Distintos acabados ya sea con resanador de madera, pasta automotriz, plasti-loka, pasta nitrocelulosa, etc, cualquier pasta resanadora
+  para mejorar el acabado y la adhesión de pinturas.
 
-2 distintos acabados ya sea con resanador de madera, pasta automotriz, plasti-loka, pasta nitrocelulosa, etc. Cualquier pasta resanadora
-    para mejorar el acabado y la adhesión de pinturas.
-
-
-4 aplicasión de fondos para acabados mate o preparación para pinturas.
+4 Aplicasión de fondos para acabados mate o preparación para pinturas.
 
 5 aplicasión de pintura, la pintura o laca, puede ser del color mas deseado, se han usado pinturas en aerosol, de agua, de aceite y hasta automotriz.
 
