@@ -387,6 +387,121 @@ Listo asi quedo nuestro carro del eje Y
 
 .. figure:: /imagenes/mi3/ensamblado/nmi31.JPG
 
+En seguida montaremos el motor del eje Y
+
+Necesitamos lo siguiente:
+
+* 1 polea dentada
+* 2 opresores para la polea
+* 4 tornillos M3x10mm
+* 2 tornillos M3x40mm
+* 6 rondanas M3
+* 2 tuercas M3 normales
+* 1 motor
+* 1 pieza plástica F
+
+.. figure:: /imagenes/mi3/ensamblado/nmi33.JPG
+
+colocamos la pieza F sobre el motor como se muestra en la imagen, es muy importante colocarla como se aprecia.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi34.JPG
+
+colocamos los tornillos M3x10mm con sus rondanas y los colocamos en los orificios de la pieza plastica y los atornillamos.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi35.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi36.JPG
+
+ahora tomamos la polea y los opresores y con la llave plateada que se incluye, colocamos los opresores son apretarlos asi como se ve en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi37.JPG
+
+colocamos la polea en el eje del motor procurando que un opresor quede en la parte plana del eje, asi como se ve en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi38.JPG
+
+nos resta apretar el opresor dejando la polea como se ve en la imagen
+
+.. figure:: /imagenes/mi3/ensamblado/nmi39.JPG
+
+ya que tenemos nuestro motor con la pieza plastica y polea ubicamos el perfil B2 y justo donde estan las dosperforaciones como las que se muestran en la imagen colocaremos ahi nuestro motor.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi40.JPG
+
+montamos nuestro motor sobre el perfil y ajustamos la pieza plastica para que las perforaciones del perfil B2 coincidan con las de la pieza pieza plástica, tomamos los tornillos M3x35mm con su rondana y lo aornillamos asi como se en las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi41.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi42.JPG
+
+y para terminar colocamos las tuercas M3 en la parte trasera y apretamos los tornillos asi como se ve en las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi43.JPG
+
+ahora montaremos una polea para la la banda del eje Y
+
+necesitaremos lo siguiente:
+
+* 1 balero 608
+* 2 tuercas 5/16
+* 2 rondanas 5/16
+* 2 rondanas 5/16 grandes
+* 1 perno roscado de 50mm
+* 2 tornillos M3x25mm
+* 2 tuercas M3 de seguridad
+* 1 pieza plastica E
+
+.. figure:: /imagenes/mi3/ensamblado/nmi44.JPG
+
+bien tomamos la pieza plastica y la colocamos sobre el perfil F2 como se muetsra en la imagen
+
+.. figure:: /imagenes/mi3/ensamblado/nmi45.JPG
+
+colocamos los tornillos M3x25mm en los orificios de la pieza como se muestra en la imagen
+
+.. figure:: /imagenes/mi3/ensamblado/nmi46.JPG
+
+ con ayuda de unas pinzas de punta y una llave allen para tornillo M3 apretamos como se ve en la imagen
+
+ .. figure:: /imagenes/mi3/ensamblado/nmi47.JPG
+
+ .. figure:: /imagenes/mi3/ensamblado/nmi48.JPG
+
+enseguida tomaremos el perno roscado,la rondana 5/16 grande y el balero y lo colocaremos como se ve en la imagen
+
+.. figure:: /imagenes/mi3/ensamblado/nmi49.JPG
+
+ahora colocamos la segunda rondana 5/16 grande y centramos el perno roscado de 50mm y colocamos una ronda y tuerca 5/16, asi como se muestra en la imagen y apretamos .
+
+.. figure:: /imagenes/mi3/ensamblado/nmi50.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi51.JPG
+
+Ahora montaremos la cama de acrilico de 6mm
+
+
+.. NOTE::
+   Antes de colocar el acrilico es importante retirar la cuebierta protectora del acrilico, esto es para todos los acrilicos.
+
+
+necesitaremos lo siguiente:
+
+* 8 tornillos M3x20mm
+* 4 tornillos M3x30mm
+* 12 rondanas M3
+* 8 tuercas M3 de seguridad
+* 4 tuercas M3 normales
+* 1 pieza plastica P
+* 2 piezas plasticas Q
+* 1 placa de acrilico de 6mm
+* 1 tramo de banda de ?????
+
+.. figure:: /imagenes/mi3/ensamblado/nmi52.JPG
+
+con ayuda de unas pinzas de punta colocamos las tuercas M3 normales en las piezas Q asi como se ve en la imagen
+
+.. figure:: /imagenes/mi3/ensamblado/nmi52.JPG
+
 
 Durante el montaje de tu impresora Mi3, haremos referencia a la posición de las piezas siguiendo este esquema para colocarlas correctamente.
 
