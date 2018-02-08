@@ -216,47 +216,47 @@ MANUAL DE ENSAMBLADO Mi3
 
           1 PAR DE PIEZAS - X
 
-ENSAMBLADO DE LA BASE DE PERFILES
+ENSAMBLADO DE ESTRUCTURA INFERIOR
 -----------------------------------
 
 Para comenzar con este paso es importaente conocer el material con el que vamos a trabajar, bien observemos lo que vamos a ocupar:
 
-* ocuparemos los perfiles: F1,F2,F3,M3,B1,B2,B3.
-* 4 Piezas Plasticas A
-* 2 Piezas Plasticas B
-* 10 tornillos M3x25mm
-* 10 rondanas M3
-* 10 tuercas M3 de seguridad
+* Ocuparemos los perfiles: F1,F2,F3,M3,B1,B2 y B3.
+* 4 Piezas Plasticas A.
+* 2 Piezas Plasticas B.
+* 10 tornillos M3x25mm.
+* 10 rondanas M3.
+* 10 tuercas M3 de seguridad.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi1.JPG
 
 : Paso 1
 
-Vamos a colocar los perfiles y las piezas Plasticas en el siguiente orden,colocando las piezas plasticas con el cubo mas pequeño hacia abajo asi como se muestra en la imagen.
+Vamos a colocar los perfiles y las piezas plásticas en el siguiente orden, colocando las piezas plasticas con el cubo mas pequeño hacia abajo asi como se muestra en la imagen.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi2.JPG
 
-bien comencemos uniendo las 2 piezas A con el perfil F2 asi como se muestra en la imagen, la cara con mas perforaciones debe de quedar tal cual se muetra en esta imagen.
+Comencemos uniendo las 2 piezas A con el perfil F2 así como se muestra en la imagen, la cara con más perforaciones debe de quedar tal como se muestra en esta imagen.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi3.JPG
 
-enseguida colocamos los perfiles F1 y F3 en el extremo de la pieza A como se ve en la imagen, formando un marco
+Enseguida colocamos los perfiles F1 y F3 en el extremo de la pieza A como se ve en la imagen, formando un marco.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi4.JPG
 
-seguimos con el Perfil M3 y las 2 piezas B, colocando las piezas como se aprecia en la imagen, observa el orden de las perferaciones de este perfil.
+Seguimos con el perfil M3 y las 2 piezas B, colocando las piezas como se aprecia en la imagen, observa el orden de las perforaciones de este perfil.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi5.JPG
 
-ya que esta unido lo bajamos cerrando el marco que habiamos formado con los perfiles F1,F2,F3; observa bien la imagen.
+Ya que esta unido lo bajamos cerrando el marco que habíamos formado con los perfiles F1,F2 y F3; observa bien la imagen.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi6.JPG
 
-enseguida colocamos los perfiles B1 y B3 en el extremo de la pieza B como se muestra en la imagen.
+Enseguida colocamos los perfiles B1 y B3 en el extremo de la pieza B como se muestra en la imagen.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi7.JPG
 
-por ultimo colocamos las 2 piezas A en el perfil B2, observa la imagen.
+Por ultimo colocamos las 2 piezas A en el perfil B2, observa la imagen.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi8.JPG
 
@@ -264,30 +264,30 @@ Listo cerramos el marco de toda nuestra base asi como se ve en la imagen.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi9.JPG
 
-Ahora coloquemos en cada esquina de nuestra base un tornillo M3x25mm con su respectiva rondama M3 y Tuerca M3 de seguridad asi como se muestra en la imagen.
+Ahora coloquemos en cada esquina de nuestra base un tornillo M3x25mm con su respectiva rondana M3 y tuerca M3 de seguridad, así como se muestra en la imagen.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi10.JPG
 
-en la imagen de Abajo se muestra la perforacion donde colocaremos los tornillos
+En la imagen de Abajo se muestra la perforación donde colocaremos los tornillos.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi11.JPG
 
-en algunos agujeros puede ser que el tornillo entre forsado, para evitar esto podemos apoyarnos a limpiar el agujero de la pieza, con ayuda de un taladro y una broca de 1/8.
-puedes limpiar todos los agujeros si lo deseas.
+En algunos agujeros puede ser que el tornillo entre forzado, para evitar esto podemos apoyarnos a limpiar el agujero de la pieza, con ayuda de un taladro y una broca de 1/8".
+
+Puedes limpiar todos los agujeros si lo deseas.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi12.JPG
 
 .. tip::
-    puedes colocar todos los tornillos con su tuerca y despues apretarlos, con una llave allen de 2.5mm y una pinzas de punta o como tu te acomodes,
-    esto te ayudara a agilizar tu ensamblado.
+    puedes colocar todos los tornillos con su tuerca y despues apretarlos, con una llave allen de 2.5mm y una pinzas de punta, esto te ayudara a agilizar tu ensamblado.
 
-ya que estan apretados los tornillos  la base se vera asi como la imagen.
+ya que estan apretados los tornillos la base se verá asi como la imagen.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi13.JPG
 
 : PASO 2
 
-Coloquemos los motores de nuestro Eje Z. Para esto necesitaremos el sieguiente material
+Coloquemos los motores de nuestro Eje Z. Para esto necesitaremos el siguiente material
 
 Ocuparemos:
 
@@ -300,7 +300,7 @@ Ocuparemos:
 
 .. figure:: /imagenes/mi3/ensamblado/nmi14.JPG
 
-vamos a colocar las piezas I y J encima del motor como se ve en la imagen y vamos a colocar los tornillos M3x10mm co su rondana. observa las imagenes
+vamos a colocar las piezas I y J encima del motor como se ve en la imagen y vamos a colocar los tornillos M3x10mm con su rondana. observa las imagenes
 
 .. figure:: /imagenes/mi3/ensamblado/nmi15.JPG
 
@@ -310,7 +310,7 @@ vamos a colocar las piezas I y J encima del motor como se ve en la imagen y vamo
 
                 imagen 2
 
-y asi quedaran las piezas I y J con su motor colocado
+y asi quedarán las piezas I y J con su motor colocado.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi17.JPG
 
@@ -342,7 +342,6 @@ y listo ya estan montados los motores de nuestro Eje Z. observa como deben de ve
 
 .. figure:: /imagenes/mi3/ensamblado/nmi23.JPG
 
-Y asi se vera nuetro ensamble hasta ahora.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi24.JPG
 
@@ -359,7 +358,7 @@ Montaremos el carro del eje Y en la base. Para este paso necesitaremos el siguie
 
 .. figure:: /imagenes/mi3/ensamblado/nmi25.JPG
 
-lo Primero que haremos es colocar los baleros en la pieza U, para realizar esto lo podemos hacer un ayuda de una varilla y presionar hasta que entre el balero y enbone correctamente en la pieza U, asi como se ve en la imagen.
+lo Primero que haremos es colocar los baleros en la pieza U, para realizar esto lo podemos hacer un ayuda de una varilla y presionar hasta que entre el balero y embone correctamente en la pieza U, asi como se ve en la imagen.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi26.JPG
 
@@ -367,15 +366,15 @@ ya listos los baleros debemos acomodarlos en la varilla M8 de340mm como se ve en
 
 .. figure:: /imagenes/mi3/ensamblado/nmi27.JPG
 
-enseguida colocaremos las varillas en las piezas E, una en cada extremo y con los baleros ya colocados con el roden que ya vimos.
+Enseguida colocaremos las varillas en las piezas E, una en cada extremo y con los baleros ya colocados con el roden que ya vimos.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi28.JPG
 
-asi debe de verse cada varilla antes de montar en la base.
+Así debe de verse cada varilla antes de montar en la base.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi29.JPG
 
-pues bien montemos el carro del Eje Y como se ve en la imagen tornillo por arriba y tuerca abajo, observa bien la imagen las piezas E deben de ser fijadas en las perforaciones que se muestran en la imagen.
+Pues bien montemos el carro del Eje Y como se ve en la imagen tornillo por arriba y tuerca abajo, observa bien la imagen las piezas E deben de ser fijadas en las perforaciones que se muestran en la imagen.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi30.JPG
 
@@ -383,7 +382,7 @@ observa como debe verse por la parte de abajo, asi podras ver mejor el orden de 
 
 .. figure:: /imagenes/mi3/ensamblado/nmi32.JPG
 
-Listo asi quedo nuestro carro del eje Y
+Listo así quedo nuestro carro del eje Y
 
 .. figure:: /imagenes/mi3/ensamblado/nmi31.JPG
 
@@ -420,27 +419,27 @@ colocamos la polea en el eje del motor procurando que un opresor quede en la par
 
 .. figure:: /imagenes/mi3/ensamblado/nmi38.JPG
 
-nos resta apretar el opresor dejando la polea como se ve en la imagen
+nos resta apretar el opresor dejando la polea como se ve en la imagen.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi39.JPG
 
-ya que tenemos nuestro motor con la pieza plastica y polea ubicamos el perfil B2 y justo donde estan las dosperforaciones como las que se muestran en la imagen colocaremos ahi nuestro motor.
+Ya que tenemos nuestro motor con la pieza plastica y polea ubicamos el perfil B2 y justo donde estan las dos perforaciones como las que se muestran en la imagen colocaremos ahi nuestro motor.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi40.JPG
 
-montamos nuestro motor sobre el perfil y ajustamos la pieza plastica para que las perforaciones del perfil B2 coincidan con las de la pieza pieza plástica, tomamos los tornillos M3x35mm con su rondana y lo aornillamos asi como se en las imagenes.
+Montamos nuestro motor sobre el perfil y ajustamos la pieza plástica para que las perforaciones del perfil B2 coincidan con las de la pieza plástica, tomamos los tornillos M3x35mm con su rondana y lo atornillamos así como se ve en las imagenes.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi41.JPG
 
 .. figure:: /imagenes/mi3/ensamblado/nmi42.JPG
 
-y para terminar colocamos las tuercas M3 en la parte trasera y apretamos los tornillos asi como se ve en las imagenes.
+Y para terminar colocamos las tuercas M3 en la parte trasera y apretamos los tornillos asi como se ve en las imagenes.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi43.JPG
 
-ahora montaremos una polea para la la banda del eje Y
+ahora montaremos una polea para la la banda del eje Y.
 
-necesitaremos lo siguiente:
+Necesitaremos lo siguiente:
 
 * 1 balero 608
 * 2 tuercas 5/16
@@ -453,25 +452,26 @@ necesitaremos lo siguiente:
 
 .. figure:: /imagenes/mi3/ensamblado/nmi44.JPG
 
-bien tomamos la pieza plastica y la colocamos sobre el perfil F2 como se muetsra en la imagen
+Tomamos la pieza plastica y la colocamos sobre el perfil F2 como se muestra en la imagen.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi45.JPG
 
-colocamos los tornillos M3x25mm en los orificios de la pieza como se muestra en la imagen
+Colocamos los tornillos M3x25mm en los orificios de la pieza como se muestra en la imagen.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi46.JPG
 
- con ayuda de unas pinzas de punta y una llave allen para tornillo M3 apretamos como se ve en la imagen
+
+Con ayuda de unas pinzas de punta y una llave allen para tornillo M3 apretamos como se ve en la imagen
 
  .. figure:: /imagenes/mi3/ensamblado/nmi47.JPG
 
  .. figure:: /imagenes/mi3/ensamblado/nmi48.JPG
 
-enseguida tomaremos el perno roscado,la rondana 5/16 grande y el balero y lo colocaremos como se ve en la imagen
+Enseguida tomaremos el perno roscado,la rondana 5/16 grande y el balero y lo colocaremos como se ve en la imagen
 
 .. figure:: /imagenes/mi3/ensamblado/nmi49.JPG
 
-ahora colocamos la segunda rondana 5/16 grande y centramos el perno roscado de 50mm y colocamos una ronda y tuerca 5/16, asi como se muestra en la imagen y apretamos .
+Ahora colocamos la segunda rondana 5/16 grande y centramos el perno roscado de 50mm y colocamos una ronda y tuerca 5/16, asi como se muestra en la imagen y apretamos .
 
 .. figure:: /imagenes/mi3/ensamblado/nmi50.JPG
 
@@ -481,10 +481,10 @@ Ahora montaremos la cama de acrilico de 6mm
 
 
 .. NOTE::
-   Antes de colocar el acrilico es importante retirar la cuebierta protectora del acrilico, esto es para todos los acrilicos.
+   Antes de colocar el acrilico es importante retirar la cubierta protectora del acrílico, esto es para todos los acrilicos.
 
 
-necesitaremos lo siguiente:
+Necesitaremos lo siguiente:
 
 * 8 tornillos M3x20mm
 * 4 tornillos M3x30mm
@@ -494,11 +494,11 @@ necesitaremos lo siguiente:
 * 1 pieza plastica P
 * 2 piezas plasticas Q
 * 1 placa de acrilico de 6mm
-* 1 tramo de banda de ?????
+* 1 tramo de banda.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi52.JPG
 
-con ayuda de unas pinzas de punta colocamos las tuercas M3 normales en las piezas Q asi como se ve en la imagen
+con ayuda de unas pinzas de punta colocamos las tuercas M3 normales en las piezas Q así como se ve en la imagen
 
 .. figure:: /imagenes/mi3/ensamblado/nmi52.JPG
 
@@ -524,7 +524,7 @@ PARTE UNO ENSAMBLADO DE LA ESTRUCTURA
 +----------------+
 
 
-material que se ocuṕara en el preceso.
+material que se ocupara en el preceso.
 
 
 * 16 tornillos M3x25mm
@@ -690,25 +690,11 @@ B3.
 Obtenido dos ensambles de arco similares.
 
 
-.. figure:: /imagenes/mi3/i23.png
-                  :width: 1000px
-
-
 Después se procede a unir estos ensambles resultantes con el primer armado del
 perfil M3 que se realizó al principio.
 
-
-.. figure:: /imagenes/mi3/i24.png
-                  :width: 1000px
-
-
 Al unir los ensambles con la unión central plástica, se debe tener cuidado que la
 parte más pequeña quede hacia abajo en ambos lados de los ensambles.
-
-
-.. figure:: /imagenes/mi3/i25.png
-                  :width: 1000px
-
 
 Al unir los arcos al perfil central se debe observar que los perfiles a unir deben
 tener la cara con dos perforaciones con vista a los laterales, y uno de ellos debe
@@ -3262,10 +3248,6 @@ Paso 2
 .. figure:: /imagenes/mi3/pi22.png
 
 
-.. figure:: /imagenes/mi3/pi23.png
-
-
-.. figure:: /imagenes/mi3/pi24.png
 
 
 Listo Amigo ya tienes listo tu primer código G, ahora vas a retirar la tarjeta SD, y la vas a colocar en la pantalla de tu impresora. La enciendes y sigues las instrucciones que te indique al principio no te acuerdas te las paso otra vez
