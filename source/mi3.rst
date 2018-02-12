@@ -500,7 +500,41 @@ Necesitaremos lo siguiente:
 
 con ayuda de unas pinzas de punta colocamos las tuercas M3 normales en las piezas Q así como se ve en la imagen
 
-.. figure:: /imagenes/mi3/ensamblado/nmi52.JPG
+.. figure:: /imagenes/mi3/ensamblado/nmi53.JPG
+
+vamos a colocar el acrilico de 6mm en la mesa donde ensambles y revisa que las perforaciones esten como se muestra en la imagen y coloca los 4 tornillos m3x30mm con su rondana sobre los 4 orificios centrales como se ve en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi54.JPG
+
+enseguida levanta el acrilico y coloca la pieza plastica P como se muestraen la iamgen y despues coloca las piezas Q y atornillalas un poco como se muestra en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi55.JPG
+
+vamos a colocar el acrilico encima de las 4 piezas con los baleros que estan en las varillas lisas observa bien como estan las piezas con los baleros y como se coloca el acrilico.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi56.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi57.JPG
+
+en la imagen siguiente podemos ver como el acrilico esta encima de las piezas con los baleros de manera correcta y como estan suspendidas las piezas plasticas P y Q del centro con sus tornillos. asie s como debe de quedar.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi58.JPG
+
+ya esta listo coloca los 8 Tornillos M3x20mm con su ronda M3 y la tuerca M3 de seguridad,si observas bien van a ir 2 tornillos en cada orificio del acrilico y estos orificios deben de cioncidir con los orificios de las piezas plasticas de los baleros.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi59.JPG
+
+apretamos las tuercas con tu llave allen y unas pinzas de punta, observa como
+
+.. figure:: /imagenes/mi3/ensamblado/nmi60.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi61.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi62.JPG
+
+el sieguiente paso es para colocar la banda toma la banda detanda y colocauna punta entre las piezas  P y Q 
+
+
 
 
 Durante el montaje de tu impresora Mi3, haremos referencia a la posición de las piezas siguiendo este esquema para colocarlas correctamente.
