@@ -532,1084 +532,154 @@ apretamos las tuercas con tu llave allen y unas pinzas de punta, observa como
 
 .. figure:: /imagenes/mi3/ensamblado/nmi62.JPG
 
-el sieguiente paso es para colocar la banda toma la banda detanda y colocauna punta entre las piezas  P y Q 
+el sieguiente paso es para colocar la banda toma la banda detanda y colocauna punta entre las piezas  P y Q, despues con ayuda de una llave alllen aprita los tornillos para la banda quede bien sujeta entre las piezas, asi como se muestra en las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi63.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi64.JPG
+
+enseguida pasa la banda sobre el balero de la polea y dbe de pasar por la parte inferior como se muetsra en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi65.JPG
+
+lleva la banda hasta pasar por encima de los dientes la polea dentada que esta en el motor del eje Y, observa las imágenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi66.JPG
+
+
+.. NOTE::
+   podemos girar la polea para ajustar la banda si fuera necesario, debe de quedar bienalineada.
+.. figure:: /imagenes/mi3/ensamblado/nmi67.JPG
+.. figure:: /imagenes/mi3/ensamblado/nmi68.JPG
+
+ya que hemeos alienado la banda entre las dos poleas, podemos apretar la otra punta de la banda asi como se muestra en la imagen,para este paso te puede servir mucho la ayuda de otra persona y que la estructura que llevas ensamblado la coloques como en la primer imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi72.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi69.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi70.JPG
+
+observemeos la siguiente imagen que nos muestra como debe de verse la banda, entre las dos poleas en especial la polea dentada del motor,que es la que puede ajustarse.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi71.JPG
+
+por ultimo no olvides alinera la banda y apretar los opresors de la polea dentada asi como se meustra en la imegen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi73.JPG
+
+asi se vera tu resultado
+
+.. figure:: /imagenes/mi3/ensamblado/nmi74.JPG
+
+como ultimo paso vamos a colocar los esquineros de acrilico en la estructura.
+
+vamos a necesitar:
+
+* 4 esquineros de acrilico pequeños
+* 8 tornillos M3x25mm
+* 8 rondamas M3
+* 8 tuercas M3 de seguridad
+
+.. figure:: /imagenes/mi3/ensamblado/nmi75.JPG
+
+coloca en cada esquina un acrilico como se aprecia en la imagen e inserta un tornillo M3x25mm con su rondana.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi76.JPG
+
+despues con ayuda de unas pinzas de punta y una llave allen coloca las tuercas M3 de seguridad y apritalas sin fracturar el acrilico.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi77.JPG
+
+y listo asi se vera nuestra estructura inferior de la impresora con nuetsro carro del eje Y ya montado.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi78.JPG
+
+
+ENSAMBLADO DEL EJE X y Z.
+--------------------------
+
+para ensamblar el eje combinado de X y Z necesitaremos:
+
+* 1 pieza plastica H
+* 1 pieza plastica I
+* 1 pieza plastica J
+* 2 piezas plasticas K
+* 1 polea dentada
+* 2 opresores para polea
+* 1 banda dentada de ???????
+* 1 perno roscadpo de 50mm
+* 2 tuercas 5/16
+* 4 rondanas 5/16
+* 1 balero 688
+* 1 motor nema 17
+* 4 baleros LMK8LUU
+* 16 tornillos M3x10mm
+* 16 tuercas M3 normales
+* 2 tornillos M3x16mm
+* 2 tuercas M3 de seguridad
+* 2 rondanas M3
+* 4 tuercas M5
+* 2 varillas lisas M8x340mm
+
+.. figure:: /imagenes/mi3/ensamblado/nmi79.JPG
+
+Tomamos la pieza plastica H y con ayuda de unas pinzas de punta tomamos una tuerca M3 normal y la colocamos como se ve en la imagen, procura tomarla de tal manera que las caras planas de la tuerca entren paralelas a las caras planas de la pieza plastica mira bien la imagen y colocalas como se ve en las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi80.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi81.JPG
+
+ahora colocamos 4 tornillos M3x10mm en los orificios de un balero LMK8LUU y lo introducimos en la pieza H como se ve en las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi82.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi83.JPG
+
+ya que lo colocaste solo aprieta los tornillos con ayuda de una llave allen, recuerda no apretar con demasiada fuerza ya que puedes dañar las piezas plasticas.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi84.JPG
+
+de la misma manera lo hacemos con la pieza plastica I y aapretamos al final sus tornillos observa las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi85.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi86.JPG
+
+y por tercera vez lo hacemos con la pieza J pero esta vez colocaremos dos baleros LMK8LUU en la pieza Plastica, observa bien las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi87.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi88.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi89.JPG
+
+en el siguiente paso vamos a colocar una polea en la pieza plastica I, toma el material que se muestra en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi90.JPG
+
+colca el perno roscado de 50mm  en el orificio de la pieza Plastica y dentro una rondana 5/16 y el balero 688 como se muestra en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi91.JPG
+
+ introduce mas el perno roscado y colca una rondana 5/16 en cada extremo y despues una tuerca 5/16 en cada extremo
+
+ .. figure:: /imagenes/mi3/ensamblado/nmi92.JPG
+
+por ultimo nos resta apretar las tuercas al tope de la pieza plastica I asi como se ve en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi93.JPG
+
+
+
+
 
 
 
 
 Durante el montaje de tu impresora Mi3, haremos referencia a la posición de las piezas siguiendo este esquema para colocarlas correctamente.
 
-
-Además, se identificará cada perfil de la forma siguiente.
-
-
-
 .. figure:: /imagenes/mi3/i2.png
-
-
-
-
-PARTE UNO ENSAMBLADO DE LA ESTRUCTURA
----------------------------------------
-
-
-+----------------+
-|Paso 1          |
-+----------------+
-
-
-material que se ocupara en el preceso.
-
-
-* 16 tornillos M3x25mm
-* 16 tuercas M3 de seguridad
-* 16 rondanas M3
-* 6 perfiles de aluminio de 20x20x380mm (F2,M1,M2,M3,M4 y B2.)
-* 4 perfiles de Aluminio de 20x20x150mm (F1,F3,B1,B3.)
-* 4 piezas PLasticas A
-* 2 piezas plasticas B
-* 1 pieza plastica c1
-* 1 pieza plastica C2
-
-
-
-.. figure:: /imagenes/mi3/i4.png
-
-
-Para el ensamble de la estructura de tú impresora Mi3 primero se procede a
-preparar las piezas impresas que la componen, mediante una lima se limpian las
-imperfecciones que puedan contener.
-
-
-
-
-El siguiente procedimiento es ensamblar la base, por lo cual se unirán los perfiles
-F2, F3, B3, B2, B1, F1 y M3 con las uniones plásticas en el siguiente orden.
-Comenzamos con ensamblar las uniones plásticas centrales en el perfil M3.
-
-
-
-.. figure:: /imagenes/mi3/i5.png
-
-
-
-Teniendo la precaución de que la parte más pequeña de la unión plástica central
-quede hacia abajo y las perforaciones del perfil orientadas hacia arriba.
-
-
-.. figure:: /imagenes/mi3/i6.png
-                        :width: 500px
-
-
-.. figure:: /imagenes/mi3/i7.png
-                       :width: 500px
-
-
-.. figure:: /imagenes/mi3/i8.png
-                         :width: 500px
-
-
-En caso de que surja dificultad al momento de ensamblar la pieza plástica con su
-respectivo perfil se puede apoyar como se muestra a continuación para aplicar
-presión hacia abajo, en caso de requerirlo se puede auxiliar en dar pequeños
-golpes en la parte superior del perfil, de preferencia con un martillo de goma.
-(imagen 3)
-
-
-
-.. figure:: /imagenes/mi3/i9.png
-                :width: 1000px
-
-
-Se mete la pieza en el perfil hasta que tope, y además que los orificios del perfil
-tanto como el de la pieza plástica coincidan.
-
-
-
-.. figure:: /imagenes/mi3/i10.png
-                    :width: 1000px
-
-
-
-Se hace esto en ambos lados del perfil M3 dejando por el momento este
-ensamble.
-
-
-
-.. figure:: /imagenes/mi3/i11.png
-                  :width: 1000px
-
-
-
-
-Después se procede a ensamblar las uniones de las esquinas en el perfil F2
-
-
-.. figure:: /imagenes/mi3/i12.png
-                  :width: 1000px
-
-
-
-Teniendo la precaución de que la parte más pequeña de la unión plástica de la
-esquina quede hacia abajo y el lado con mayor número de perforaciones en el
-perfil queden orientadas hacia arriba.
-
-
-.. figure:: /imagenes/mi3/i13.png
-                  :width: 1000px
-
-
-
-
-Después se unen los perfiles F1 y F3 al ensamble anterior tomando en cuenta que
-el perfil F1 debe quedar al lado derecho y en consecuente el perfil F3 en el
-izquierdo, esto basándose en el sistema de referencia mostrado al comienzo.
-
-
-.. figure:: /imagenes/mi3/i14.png
-                  :width: 1000px
-
-
-
-.. NOTE::
-   Cuidando que al ensamblar el perfil se debe observar que el lado que solo
-   contenga una perforación será orientado hacia arriba.
-
-
-
-
-
-.. figure:: /imagenes/mi3/i15.png
-
-
-Se realiza el paso anterior en ambos lados del perfil F2.
-
-
-
-.. figure:: /imagenes/mi3/i16.png
-                  :width: 1000px
-
-
-Resultando un ensamble de arco como se muestra a continuación.
-
-
-.. figure:: /imagenes/mi3/i17.png
-                  :width: 1000px
-
-
-Siguiendo los pasos anteriores toca realizar el ensamble con los perfiles B1, B2 y
-B3.
-
-
-.. figure:: /imagenes/mi3/i18.png
-                  :width: 1000px
-
-
-.. figure:: /imagenes/mi3/i19.png
-                      :width: 500px
-
-
-.. figure:: /imagenes/mi3/i20.png
-                        :width: 500px
-
-
-.. figure:: /imagenes/mi3/i21.png
-                        :width: 500px
-
-
-.. figure:: /imagenes/mi3/i22.png
-                        :width: 500px
-
-
-Obtenido dos ensambles de arco similares.
-
-
-Después se procede a unir estos ensambles resultantes con el primer armado del
-perfil M3 que se realizó al principio.
-
-Al unir los ensambles con la unión central plástica, se debe tener cuidado que la
-parte más pequeña quede hacia abajo en ambos lados de los ensambles.
-
-Al unir los arcos al perfil central se debe observar que los perfiles a unir deben
-tener la cara con dos perforaciones con vista a los laterales, y uno de ellos debe
-coincidir con el orificio de la unión central.
-
-
-.. figure:: /imagenes/mi3/i26.png
-                      :width: 500px
-
-
-.. figure:: /imagenes/mi3/i27.png
-                        :width: 500px
-
-Algunos casos será necesario aplicar una fuerza relativamente grande para poder
-juntar a tope los dos elementos a unir.
-
-
-
-.. figure:: /imagenes/mi3/i28.png
-                  :width: 500px
-
-
-Aquí se muestra terminada la base de perfiles de la estructura de la impresora.
-
-
-.. figure:: /imagenes/mi3/i29.png
-                  :width: 500px
-
-
-Ahora se procede a ensamblar el soporte superior de la estructura usando los
-perfiles Mi1, M2 y M4 quedando el armado respectivamente derecha, superior e
-izquierda; y uniéndolos con los soportes superiores plásticos.
-
-
-.. figure:: /imagenes/mi3/i30.png
-                  :width: 500px
-
-Acoplando en primera instancia los perfiles laterales M1 y M4 en las uniones
-superiores plásticas.
-
-
-.. figure:: /imagenes/mi3/i31.png
-                  :width: 500px
-
-
-.. figure:: /imagenes/mi3/i32.png
-                  :width: 500px
-
-
-Y después se acoplará el perfil superior central M2 a los ensambles anteriores.
-
-
-.. figure:: /imagenes/mi3/i33.png
-                  :width: 500px
-
-
-.. figure:: /imagenes/mi3/i34.png
-                 :width: 500px
-
-Cuidando que los oficios de los perfiles coincidan con los de las uniones
-superiores.
-
-
-.. figure:: /imagenes/mi3/i35.png
-                 :width: 500px
-
-Además, en base al sistema de referencia, las bases que tienen las uniones
-superiores deben de quedar orientadas hacia la parte posterior de la impresora.
-
-
-.. figure:: /imagenes/mi3/i36.png
-                 :width: 500px
-
-
-.. NOTE::
-   Los perfiles M1 y M4 deben estar orientados con el mayor número de
-   perforaciones hacia los laterales derecha e izquierda basándose al sistema de
-   referencia.
-
-
-
-.. figure:: /imagenes/mi3/i37.png
-                 :width: 500px
-
-
-Una vez se tenga armado el arco superior, se procede a ensamblarlo en la parte
-central de la base de perfiles.
-
-
-.. figure:: /imagenes/mi3/i38.png
-                 :width: 500px
-
-
-Cuidado que las bases superiores quedan hacia la parte posterior de la estructura
-ensamblada.
-
-
-.. figure:: /imagenes/mi3/i39.png
-                 :width: 500px
-
-
-Una vez ensamblada, se procede a atornillar los perfiles con las uniones plásticas
-usando tornillos M3X25 con sus respectivas tuercas de seguridad y rondanas.
-
-
-.. figure:: /imagenes/mi3/i40.png
-                 :width: 500px
-
-
-Para apretar la tornillería se recomienda usar desarmador y pinzas de punta y/o
-mecánicas.
-
-
-.. figure:: /imagenes/mi3/i41.png
-                 :width: 500px
-
-En la parte inferior de la estructura solo se atornillará por el momento en donde se
-indica en la imagen siguiente.
-
-
-.. figure:: /imagenes/mi3/i42.png
-                 :width: 500px
-
-
-De la parte central solo se atornillará con los dos tornillos que se muestran a
-continuación por ambos lados.
-
-
-.. figure:: /imagenes/mi3/i43.png
-                 :width: 500px
-
-
-.. figure:: /imagenes/mi3/i44.png
-                :width: 500px
-
-
-
-Mientras que en las esquinas se atornillara como se muestra a continuación.
-
-
-.. figure:: /imagenes/mi3/i45.png
-                      :width: 500px
-
-
-.. figure:: /imagenes/mi3/i46.png
-                        :width: 500px
-
-
-.. figure:: /imagenes/mi3/i47.png
-                      :width: 500px
-
-
-.. figure:: /imagenes/mi3/i48.png
-                        :width: 500px
-
-
-En la parte superior de la estructura, por el momento solamente será atornillado el
-perfil M2 en ambos lados como se muestra a continuación.
-
-
-.. figure:: /imagenes/mi3/i49.png
-                   :width: 500px
-
-
-Dejando libre el orificio inferior.
-
-
-.. figure:: /imagenes/mi3/i50.png
-                   :width: 500px
-
-
-Finalizando el ensamblaje de la estructura resultando como se aprecia en la
-siguiente imagen.
-
-
-.. figure:: /imagenes/mi3/i51.png
-                   :width: 2000px
-
-
-
-+------+
-|PASO 2|
-+------+
-
-
-ENSAMBLADO DEL EJE Y.
-----------------------
-
-
-.. figure:: /imagenes/mi3/i52.png
-
-
-Material que se ocuprá en el Proceso
-
-
-* 11 tornillos M3x30mm
-* 8 tornillos M3x20mm
-* 4 tornillos M3x25mm
-* 4 tornillos M3x10mm
-* 2 tornillos cabeza plana M3x10mm
-* 4 tornillos cabeza plana M3x35mm
-* 27 tuercas M3 de seguridad
-* 2 tuercas M3
-* 2 tuercas 5/16
-* 27 rondanas M3
-* 4 piezas plasticas D
-* 1 pieza plastica E
-* 1 pieza Plastica F
-* 4 piezas plasticas K
-* 1 pieza plastica I
-* 2 piezas plasticas j
-* 1 pieza plastica Q
-* 1 motor nema + cable
-* 1 polea gt2
-* 1 balero 608
-* 4 baleros LM8LUU
-* 1 cama caliente MK3
-* 1 banda T2 de 86mm
-* 2 varillas M8x 390mm
-* 4 resortes de 6.5x15mm
-
-
-
-
-.. figure:: /imagenes/mi3/i53.png
-                   :width: 2000px
-
-
-En este paso el siguiente procedimiento es ensamblar el eje Y, el cual consta de la
-cama caliente donde se va depositando el material fundido y se forma la pieza a
-imprimir.
-Para comenzar, se preparan los carros que mueven la cama, lo cual es empotrar
-el cojinete lineal LM8LUU en su respectiva base plástica, para ello nos
-ayudaremos de la varilla del eje Y que usaremos también más adelante.
-
-
-
-.. figure:: /imagenes/mi3/i54.png
-                   :width: 2000px
-
-
-Tomamos la varilla para alinear el cojinete y con los pulgares lo presionamos para
-empotrarlo en la base.
-
-.. figure:: /imagenes/mi3/i55.png
-                   :width: 2000px
-
-Una vez fijo el cojinete en la base nos asegurándonos que también quede lo más
-lineal y derecho posible.
-
-
-
-.. figure:: /imagenes/mi3/i56.png
-              :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i57.png
-                :width: 2000px
-
-Realizando este mismo procedimiento para los cuatro carros que componen la
-base de la cama caliente.
-
-
-
-.. figure:: /imagenes/mi3/i58.png
-                :width: 2000px
-
-Ahora tomamos la base acrílica de la cama caliente, y si aún tiene la calcomanía
-protectora se procede a quitársela.
-
-
-.. figure:: /imagenes/mi3/i59.png
-                :width: 2000px
-
-
-Una vez preparados los carros de la base, se procede a fijarlos en el acrílico.
-
-
-.. figure:: /imagenes/mi3/i60.png
-                :width: 2000px
-
-
-Haciendo coincidir los orificios de los carros con las perforaciones de la base
-acrílica.
-
-
-.. figure:: /imagenes/mi3/i61.png
-                :width: 2000px
-
-
-Luego se les coloca sus tornillos M3X20 con sus respectivas tuerca y rondanas
-M3.
-
-
-.. figure:: /imagenes/mi3/i62.png
-                :width: 2000px
-
-
-Dejando los carros por el momento flojos.
-
-
-.. figure:: /imagenes/mi3/i63.png
-                :width: 2000px
-
-
-Cuando se pongan los carros, asegurarse que la parte curva de las piezas
-plásticas se orienten hacia el centro, dejando la cara plana hacia afuera.
-Una vez hecho esto se inserta una varilla del eje Y como se muestra, asegurándose de que
-se deslice libremente.
-
-
-.. figure:: /imagenes/mi3/i64.png
-                :width: 2000px
-
-Cuando se asegure de que la varilla no se atora y se deslice fácil, se aprietan los
-tornillos para fijar los carros permanentemente.
-
-
-.. figure:: /imagenes/mi3/i65.png
-                :width: 2000px
-
-
-En caso de observar que la varilla no se desliza adecuadamente se afloja de
-nuevo solo un tornillo por carro y se acomodan hasta cumplir con el objetivo, una
-vez hecho se aprietan de nuevo. Se repiten estos pasos para los otros carros
-sobrantes.
-
-
-
-.. figure:: /imagenes/mi3/i66.png
-                :width: 2000px
-
-Una vez estén fijos todos los carros, se monta la base central la cual sujeta la
-banda del eje Y.
-
-
-.. figure:: /imagenes/mi3/i67.png
-                :width: 2000px
-
-
-Primero se insertan los tornillos M3X25 con sus rondanas M3 en las prensas de la
-banda.
-
-
-.. figure:: /imagenes/mi3/i68.png
-                :width: 2000px
-
-Luego se coloca un extremo de la banda entre la prensa y la base.
-
-
-.. figure:: /imagenes/mi3/i69.png
-                :width: 2000px
-
-
-Y se inserta el ensamble en la base acrílica guiándose por los orificios.
-
-
-.. figure:: /imagenes/mi3/i70.png
-                :width: 2000px
-
-
-Se roscan las tuercas de seguridad M3 al otro lado de la base acrílica.
-
-
-.. figure:: /imagenes/mi3/i71.png
-                :width: 2000px
-
-
-Por el momento solo se pondrá solo una prensa.
-
-
-.. figure:: /imagenes/mi3/i72.png
-                :width: 2000px
-
-
-Y se aprietan los tornillos para fijar el ensamble de la banda y prensarla entre la
-prensa y la base.
-
-
-.. figure:: /imagenes/mi3/i73.png
-                :width: 2000px
-
-
-Ahora se ensamblarán las bases que sostienen todo el sistema del eje Y de la
-cama caliente.
-
-
-.. figure:: /imagenes/mi3/i74.png
-                :width: 2000px
-
-
-Primero se ubicarán dos de las bases en el perfil F2, observando que se dejó un
-orificio a los laterales y cuatro en el centro, además de que las bases están
-orientadas con el agujero de las varillas hacia uno, viendo la impresora desde la
-parte posterior de la impresora guiándonos por el sistema de referencia.
-
-
-.. figure:: /imagenes/mi3/i75.png
-                :width: 2000px
-
-
-A continuación, se puede observar con más detalle el sentido que deben tener las
-bases.
-
-
-.. figure:: /imagenes/mi3/i76.png
-                :width: 2000px
-
-
-Cuando se tenga bien confirmada la posición y orientación de las bases en el perfil
-F2, se atornillarán al mismo con tornillos M3X30 y sus respectivas rondanas M3,
-por lo que se recomienda “acostar” las estructura quedando el perfil verticalmente,
-esto para facilitar el proceso.
-
-
-.. figure:: /imagenes/mi3/i77.png
-                :width: 2000px
-
-
-Por el momento solo se atornillarán dos bases, dejando las otras dos para un paso
-más adelante.
-
-
-.. figure:: /imagenes/mi3/i78.png
-                :width: 2000px
-
-
-Ahora se reúnen los componentes del tensor para la banda del eje Y.
-
-
-.. figure:: /imagenes/mi3/i79.png
-                :width: 2000px
-
-
-Comenzando por preparar el tensor de banda, con unas pinzas se agarra una
-tuerca M3 de una de sus esquinas y se posiciona en una de las hendiduras que
-tiene la pieza cuidando que dos de las caras laterales planas de la tuerca entren
-paralelas a la pieza.
-
-
-.. figure:: /imagenes/mi3/i80.png
-                :width: 2000px
-
-
-Una vez que empiece a entrar.
-
-
-.. figure:: /imagenes/mi3/i81.png
-                :width: 2000px
-
-
-Con la punta de las pinzas se presiona la tuerca hasta que entre por completo.
-
-
-.. figure:: /imagenes/mi3/i82.png
-                :width: 2000px
-
-.. figure:: /imagenes/mi3/i83.png
-                :width: 2000px
-
-
-En caso de ser necesario, con un clemero se acomoda la tuerca dándole
-pequeños golpecitos para lograr que los orificios coincidan.
-
-
-.. figure:: /imagenes/mi3/i84.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i85.png
-                :width: 2000px
-
-Ahora se toma la base del tensor, la cual sostiene la pieza tensora, el cojinete, el
-eje y la respectiva banda.
-
-
-.. figure:: /imagenes/mi3/i86.png
-                :width: 2000px
-
-
-Y se monta el tensor sobre la base.
-
-
-.. figure:: /imagenes/mi3/i87.png
-                :width: 2000px
-
-
-Ahora se inserta el eje roscado sin atravesar las dos piezas, solo llegado hasta
-donde se muestra.
-
-
-.. figure:: /imagenes/mi3/i88.png
-                :width: 2000px
-
-
-Se toma el cojinete y se inserta entre las piezas plásticas.
-
-
-.. figure:: /imagenes/mi3/i89.png
-                :width: 2000px
-
-
-Y se atraviesa todo el conjunto con el eje roscado.
-
-
-.. figure:: /imagenes/mi3/i90.png
-                :width: 2000px
-
-
-Observando que el achaflanado (cara inclinada) del tensor quede hacia arriba
-como se indica.
-
-
-.. figure:: /imagenes/mi3/i91.png
-                :width: 2000px
-
-
-Enseguida se insertan los tornillos M3X10 de cara plana en los orificios del tensor
-y solamente se allegan sin apretar. Estos tornillos son los que nos ayudaran a
-tensar la banda del eje Y cuando sea necesario.
-
-
-.. figure:: /imagenes/mi3/i92.png
-                :width: 2000px
-
-
-Después se monta sobre el perfil F2 ubicándolo en las dos perforaciones del
-centro y se procede a atornillar.
-
-
-.. figure:: /imagenes/mi3/i93.png
-                :width: 2000px
-
-
-Para atornillar el sistema del tensor para la banda del eje Y, es recomendable
-mover hacia un lado el eje roscado sin sacarlo completamente, quedando su cara
-lateral al ras del tensor.
-
-
-.. figure:: /imagenes/mi3/i94.png
-                :width: 2000px
-
-
-Para así poder colocar el tornillo M3X30 con sus rondanas M3 con facilidad y
-poder apretarlo con las herramientas indicadas.
-
-
-.. figure:: /imagenes/mi3/i95.png
-                :width: 2000px
-
-
-Realizando este paso para ambos tornillos y finalizando con regresar al eje
-roscado a su posición original.
-
-
-.. figure:: /imagenes/mi3/i96.png
-                :width: 2000px
-
-Una vez estén las bases y el tensor fijos en el perfil F2, se procede a colocar la
-base de la cama.
-
-
-.. figure:: /imagenes/mi3/i97.png
-                :width: 2000px
-
-
-Para este paso, se toman las dos bases restantes que anteriormente no se habían
-usado y se les inserta la varilla del eje Y a cada uno.
-
-
-.. figure:: /imagenes/mi3/i98.png
-                :width: 2000px
-
-
-Una vez que cada varilla tenga su respectiva base, se deslizaran en los carros de
-la base acrílica.
-
-
-.. figure:: /imagenes/mi3/i99.png
-                :width: 2000px
-
-.. figure:: /imagenes/mi3/i100.png
-                :width: 2000px
-
-Cuando ambas varillas estén colocadas, se girará la base 180°, con los pulgares
-detendremos el acrílico y con los dedos sobrantes, las varillas para que ningún
-elemento se deslice al momento de trasladar el sistema.
-
-
-.. figure:: /imagenes/mi3/i101.png
-                :width: 2000px
-
-
-Se procederá a colocar el sistema de la cama en la estructura, de tal forma que los
-extremos de las varillas que no tienen bases entren en las que ya estén fijas, y las
-bases que no están atornilladas se ubiquen en sus respectivos orificios del perfil
-B2.
-
-
-.. figure:: /imagenes/mi3/i102.png
-                :width: 2000px
-
-
-Inserción de las varillas en las bases ya previamente fijas.
-
-
-.. figure:: /imagenes/mi3/i103.png
-                :width: 2000px
-
-
-Se ubican las bases que no se habían atornillado en sus respectivos orificios.
-
-
-.. figure:: /imagenes/mi3/i104.png
-                :width: 2000px
-
-
-Cuando las bases del perfil B2 estén ubicadas correctamente, se procede a
-atornillarlas con tornillos M3X30 y sus rondanas M3, fijando definitivamente la
-base de la cama cliente con tuerca de seguridad M3.
-
-
-.. figure:: /imagenes/mi3/i105.png
-                :width: 2000px
-
-
-Ahora se toma el extremo de la banda que no está fijo a la base, y se pasa por la
-parte superior del cojinete ubicado en el tensor.
-
-
-.. figure:: /imagenes/mi3/i106.png
-                :width: 2000px
-
-
-Y de nuevo se inserta por la parte inferior, de tal forma que la banda este
-“abrazando” al cojinete.
-
-
-.. figure:: /imagenes/mi3/i107.png
-                :width: 2000px
-
-
-Por ahora se deja el extremo de la banda libre, y se empieza a preparar el motor
-que moverá el eje Y.
-
-
-.. figure:: /imagenes/mi3/i108.png
-                :width: 2000px
-
-Para ello se colocará el motor con su conexión hacia la lateral izquierda viéndolo
-desde el eje, como se muestra.
-
-
-.. figure:: /imagenes/mi3/i109.png
-                :width: 2000px
-
-
-Y se le montara la base que lo mantiene fijo en el perfil B2.
-
-
-.. figure:: /imagenes/mi3/i110.png
-                :width: 2000px
-
-
-Se atornilla con tornillos M3X10 la base en el motor.
-
-
-.. figure:: /imagenes/mi3/i111.png
-                :width: 2000px
-
-
-Y en el orificio que tiene en el soporte izquierdo se le coloca una tuerca de
-seguridad.
-
-
-.. figure:: /imagenes/mi3/i112.png
-                :width: 2000px
-
-
-Ayudándonos de las pinzas para presionar la tuerca.
-
-
-.. figure:: /imagenes/mi3/i113.png
-                :width: 2000px
-
-Y empotrarla de manera correcta.
-
-
-.. figure:: /imagenes/mi3/i114.png
-                :width: 2000px
-
-
-Ahora se monta el conjunto sobre el perfil B2, insertándole un tornillo M3X30 y su
-rondana M3.
-
-
-.. figure:: /imagenes/mi3/i115.png
-                :width: 2000px
-
-
-Se atornilla la base que sostiene al motor y se aprieta hasta que no se mueva.
-
-
-.. figure:: /imagenes/mi3/i116.png
-                :width: 2000px
-
-
-Una vez fijo el motor del eje Y, se le acopla una polea para mover la banda,
-teniendo en cuenta que uno de los opresores debe quedar sobre la cara pana del
-eje del motor, y luego se aprietan ambos opresores.
-
-
-.. figure:: /imagenes/mi3/i117.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i118.png
-                :width: 2000px
-
-
-Ahora que se tienen listos los componentes que mueven la banda del eje Y, se
-procede a fijarla, para ello por comodidad se recomienda acostar la estructura de
-lado como se muestra, y tomamos el extremo suelto de la banda.
-
-
-.. figure:: /imagenes/mi3/i119.png
-                :width: 2000px
-
-
-Como se puede apreciar, se pasa la banda por la polea del motor del eje Y.
-
-
-.. figure:: /imagenes/mi3/i120.png
-                :width: 2000px
-
-Y se posiciona la punta de la banda entre la base de las prensas y las mismas
-prensas.
-
-
-.. figure:: /imagenes/mi3/i121.png
-                :width: 2000px
-
-
-Ahora, se le insertan los tornillos M3X25 y sus rondanas M3 a las prensas, y con
-un desarmador se jala la banda sin aflojarla.
-
-.. figure:: /imagenes/mi3/i122.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i123.png
-                :width: 2000px
-
-
-Ahora, para el siguiente paso, se recomienda para más comodidad y simplicidad,
-ayuda extra, mientras una persona detiene la estructura y con unas pinzas jala la
-banda sin dejar de tensarla, otra, con un desarmador y otras pinzas aprieta los
-tornillos de las prensas, para así fijar por completo la banda del eje Y.
-
-
-.. figure:: /imagenes/mi3/i124.png
-                :width: 2000px
-
-
-Una vez que la banda del eje Y quede completamente fija, se procede a tensarla.
-Para ello nos ubicamos donde se encuentra el tensor del eje Y.
-
-
-.. figure:: /imagenes/mi3/i125.png
-                :width: 2000px
-
-
-Una vez se ubique el tensor, se apretarán los torillos frontales de la pieza.
-
-.. figure:: /imagenes/mi3/i126.png
-                :width: 2000px
-
-Hasta llegar a una tensión favorable, checando la rigidez de la banda con los
-dedos.
-
-
-.. figure:: /imagenes/mi3/i127.png
-                :width: 2000px
-
-
-Cuando se tenga la base de acrílica montada sobre la estructura, se prosigue a
-montar la cama caliente sobre la mencionada base.
-
-
-.. figure:: /imagenes/mi3/i128.png
-                :width: 2000px
-
-
-Se comienza con tomar la cama caliente ya prepara con su respectiva termo
-resistencia y su cable de alimentación, y se le insertan los tornillos M3X35 de
-cabeza plana en las cuatro esquinas.
-
-
-.. figure:: /imagenes/mi3/i129.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i130.png
-                :width: 2000px
-
-
-Después se pone la cama con la cara plateada hacia abajo y con las puntas de los
-torillos hacia arriba y se monta el tapete automotriz.
-
-
-.. figure:: /imagenes/mi3/i131.png
-                :width: 2000px
-
-
-Después a cada esquina se le agrega una rondana M4
-
-
-.. figure:: /imagenes/mi3/i132.png
-                :width: 2000px
-
-
-Y un muelle.
-
-
-.. figure:: /imagenes/mi3/i133.png
-                :width: 2000px
-
-
-Enseguida se procede a montar la cama caliente en la base acrílica, pero antes se
-recomienda poner un poco de cinta en cada tornillo, para cuando se manipule la
-cama caliente estos no se salgan de sus orificios.
-
-
-.. figure:: /imagenes/mi3/i134.png
-                :width: 2000px
-
-
-Después se ubica la cama caliente en la base de acrílico, haciendo coincidir los
-tornillos con sus respectivos orificios cuidando que los cables de la cama queden
-hacia atrás.
-
-
-.. figure:: /imagenes/mi3/i135.png
-                :width: 2000px
-
-
-Una vez insertados los torillos, se les agrega su tuerca de seguridad M3.
-
-
-.. figure:: /imagenes/mi3/i136.png
-                :width: 2000px
-
-
-Se le desprende la cinta a cada tornillo.
-
-
-.. figure:: /imagenes/mi3/i137.png
-                :width: 2000px
-
-
-Y se enrosca el tornillo de tal forma que solo entre en la tuerca de seguridad,
-apenas apretando el resorte.
-
-
-.. figure:: /imagenes/mi3/i138.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i139.png
-                :width: 2000px
-
-
-Hasta aquí se finaliza el ensamblado del eje Y, resultado el sistema como se
-muestra a continuación.
-
-
-.. figure:: /imagenes/mi3/i140.png
-                :width: 2000px
-
-
-
 
 +-------+
 |PASO 3 |
