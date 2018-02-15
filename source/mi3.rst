@@ -664,970 +664,163 @@ colca el perno roscado de 50mm  en el orificio de la pieza Plastica y dentro una
 
  introduce mas el perno roscado y colca una rondana 5/16 en cada extremo y despues una tuerca 5/16 en cada extremo
 
- .. figure:: /imagenes/mi3/ensamblado/nmi92.JPG
+.. figure:: /imagenes/mi3/ensamblado/nmi92.JPG
 
 por ultimo nos resta apretar las tuercas al tope de la pieza plastica I asi como se ve en la imagen.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi93.JPG
 
+enseguida vamos a colocar en la pieza plastica H un motor nema 17 observa la imagen y toma el material que se necesitara.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi94.JPG
 
+lo que vamos a colocar primero, es la polea dentada como se ve en la imagen, el opresor debe de quedar en la parte plana del eje del motor. y despues apretamos.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi95.JPG
 
+.. figure:: /imagenes/mi3/ensamblado/nmi96.JPG
 
+ahora colocamos dos tornillos M3x10mm en la pieza plastica H como se ve en la imagen.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi97.JPG
 
-Durante el montaje de tu impresora Mi3, haremos referencia a la posición de las piezas siguiendo este esquema para colocarlas correctamente.
+y  tambien colocamos 1 tornillo en el orificio redondo de la pieza plastica H
 
-.. figure:: /imagenes/mi3/i2.png
+.. figure:: /imagenes/mi3/ensamblado/nmi98.JPG
 
-+-------+
-|PASO 3 |
-+-------+
+observa como debe de colocarse la pieza H en el motor, y ya que lo colocaste como se ve en la imagen aprieta los tornillos.
 
-ENSAMBLADO DEL EJE Z.
-----------------------
+.. figure:: /imagenes/mi3/ensamblado/nmi99.JPG
 
-Material que se ocupará en el proceso
+enseguida vamos a colocar,las varillas lisas M8x340mm en las piezas H e I y en el centro la pieza plastica J observa bien las imagenes.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi100.JPG
 
-* 16 tornillos M3x10mm
-* 6 tornillos M3x25mm
-* 3 tornillos M3x16mm
-* 6 tuercas M3 de seguridad
-* 8 tuercas M3
-* 4 tuercas M5
-* 2 tuercas 5/16
-* 8 rondanas M3
-* 2 varillas M8x390mm
-* 2 varillas M5
-* 2 trozos de manguera neumática
-* 2 baleros lineales LMK8LUU
-* 1 motor nema 17 + cable
-* 1 polea gt2
-* 1 pieza plastica G1
-* 1 pieza plastica G2
-* 1 pieza plastica L
-* 1 pieza plastica M
+metemos las dos varillas en la pieza H, despues la pieza J la colocamos en las dos varillas, y por ultimo la pieza I.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi101.JPG
 
-.. figure:: /imagenes/mi3/i141.png
-                :width: 2000px
+.. figure:: /imagenes/mi3/ensamblado/nmi102.JPG
 
+.. figure:: /imagenes/mi3/ensamblado/nmi103.JPG
 
-En este paso primero se comienza preparando los motores del eje Z, se toma una
-varilla roscada de 5 mm y se le monta un tramo de 30 mm de tubo neumático
-dándole pequeños golpes hasta que la varilla entre a la mitad.
+y debera quedar asi
 
+.. figure:: /imagenes/mi3/ensamblado/nmi104.JPG
 
-.. figure:: /imagenes/mi3/i142.png
-                :width: 2000px
+enseguida vamos a colocar la banda dentada, toma una punta y pasala por la polea de la pieza I como se ve en la imagen.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi105.JPG
 
-.. figure:: /imagenes/mi3/i143.png
-              :width: 2000px
+enseguida colocamos la punta que no tomaste en le paso anterior, y la ponemos en la pieza J como se ve en la imagen.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi106.JPG
 
-Ahora, con unas pinzas de punta, se introducen en la manguera neumática y se
-abren un poco las pinzas rotando la manguera al mismo tiempo, esto para aflojar
-un poco la entrada de la manguera.
+tomamos una pieza K y la colocamos con laparte en diagonal hacia dentro de la pieza J encima de la banda y con un tornillo M3x16MM con su rondana M3 y tuerca M3 de seguridad apretamos la banda.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi107.JPG
 
-.. figure:: /imagenes/mi3/i144.png
-              :width: 2000px
+.. figure:: /imagenes/mi3/ensamblado/nmi108.JPG
 
+como siguiente paso aflojamos el tornillo del orificio redondo, y el superior de la pieza H asi como se ve en la imagen.
 
-Después, antes de que la manguera vuelva a su estado normal, se monta sobre el
-eje del motor.
+.. figure:: /imagenes/mi3/ensamblado/nmi109.JPG
 
+volvemos a pasar la punta de la banda del primer paso y la pasamos por la polea dentada como se ve en la imagen y apretamos en la pieza J con una pieza K como en el paso anterior, dejala la punta al ras de la pestaña de la pieza K como se ve en la imagen.
 
-.. figure:: /imagenes/mi3/i145.png
-              :width: 2000px
+.. figure:: /imagenes/mi3/ensamblado/nmi110.JPG
 
+.. figure:: /imagenes/mi3/ensamblado/nmi111.JPG
 
-.. figure:: /imagenes/mi3/i146.png
-                :width: 2000px
+para terminar este ensamble regresamos el motor a su posicion original y apretamos los tornillos.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi112.JPG
 
-Realizando este proceso para ambos motores.
+observa como debe de quedar la banda.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi113.JPG
 
-.. figure:: /imagenes/mi3/i147.png
-                :width: 2000px
+solo nos resta colocar las tuercas M5 en los orificios de rectangulares de las piezas H e I.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi114.JPG
 
-Después se les montara su base plástica cuidando que los conectores del motor,
-queden hacia atrás de la pestaña que contiene solo un orificio para tornillo.
+.. figure:: /imagenes/mi3/ensamblado/nmi115.JPG
 
+.. figure:: /imagenes/mi3/ensamblado/nmi116.JPG
 
-.. figure:: /imagenes/mi3/i148.png
-                :width: 2000px
+y asi se ve el eje X Z ya terminado.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi117.JPG
 
-.. figure:: /imagenes/mi3/i149.png
-                :width: 2000px
+siguiendo el manual vamos a colocar los coples de manguera neumatica en los motores del eje Z, toma los dos coples como se ve en la imagen.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi118.JPG
 
-Después se les pondrá tornillería M3X10 con su rondana M3.
+con ayuda de unas pinzas de punta vamos a abrir uno de los dos extremos del cople.observa la imagen.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi119.JPG
 
-.. figure:: /imagenes/mi3/i150.png
-                :width: 2000px
+levantamos las pinzas con el comple dentro de la punta y abrimos las pinzas para que se vaya ensanchando, observa la imagen
 
-Y se aprietan los tornillos.
+.. figure:: /imagenes/mi3/ensamblado/nmi120.JPG
 
+.. figure:: /imagenes/mi3/ensamblado/nmi121.JPG
 
-.. figure:: /imagenes/mi3/i151.png
-                :width: 2000px
+volvemos a meter mas las pinzas un poco mas hasta llegar casi a la mitad y repetimos el abrirlas.
 
-Resultando el ensamble de los motores como se muestra.
+.. figure:: /imagenes/mi3/ensamblado/nmi122.JPG
 
+enseguida de que hicimos esto sacamos el cople de la punta de las pinzas y lo metemos a el eje del motor.
 
-.. figure:: /imagenes/mi3/i152.png
-                :width: 2000px
+.. figure:: /imagenes/mi3/ensamblado/nmi123.JPG
 
-Una vez listos los motores del eje Z, se comienzan a ensamblar los carros del eje Z.
+repetimos el mismo paso para el segundo cople.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi124.JPG
 
-.. figure:: /imagenes/mi3/i153.png
-                :width: 2000px
+ahora vamos a tomar nuestro eje X,Z y las varillas rosacadas M5x345mm
 
+.. figure:: /imagenes/mi3/ensamblado/nmi125.JPG
 
-Primero se armará el carro que contiene el motor del eje X, comenzando con
-preparar el mencionando motor poniéndole su polea.
+debes de colocar las varillas por la parte superior de las piezas H e I y atornillar la virra M5 observa las imagenes.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi126.JPG
 
-.. figure:: /imagenes/mi3/i154.png
-                :width: 2000px
+.. figure:: /imagenes/mi3/ensamblado/nmi127.JPG
 
+debes de dejar la varilla roscada entre 15cm de distancia para que el eje quede centrado.
 
-Cuidando que uno de los opresores quede sobre la cara plana del eje del motor, y
-se procede a apretarlos.
+.. figure:: /imagenes/mi3/ensamblado/nmi128.JPG
 
+para poner nuestro eje X,Z tenemos que colocar los perfiles M1 y M4 junto con las varillas lisas M8x390mm
 
-.. figure:: /imagenes/mi3/i155.png
-                :width: 2000px
+.. figure:: /imagenes/mi3/ensamblado/nmi129.JPG
 
+colocamso el perfil M1 del lado izquierdo como se en la imagen es muy importante que veas el sentido de las perforaciones.
 
-Cuando la polea esta lista, se monta el respectivo carro sobre el motor y se
-atornilla con tornillos M3X16 fijándolo completamente.
+.. figure:: /imagenes/mi3/ensamblado/nmi130.JPG
 
+con ayuda de un maso de goma lo metemos hasta el tope y hacemos lo mismo con el perfil M4 del lado derecho cuidando el roden de las perforaciones.
 
-.. figure:: /imagenes/mi3/i156.png
-                :width: 2000px
+.. figure:: /imagenes/mi3/ensamblado/nmi131.JPG
 
+.. figure:: /imagenes/mi3/ensamblado/nmi132.JPG
 
-Tres tornillos sujetando el carro en el motor.
+enseguida tomamos una varilla y la colocamos en el orificio de cada pieza de motor del eje Z como se ve en las imagenes.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi133.JPG
 
-.. figure:: /imagenes/mi3/i157.png
-                :width: 2000px
+.. figure:: /imagenes/mi3/ensamblado/nmi134.JPG
 
-Ahora, se toman dos tuercas M4, y con las pinzas se sujetan de una esquina, y
-con sus lados planos en forma vertical se ubican en los orificios que se muestran.
+despues colocamos un tornillo M3x35mm con su rondana en el orificio que esta al centro del perfil M4 como se ve en  la imagen debe de enetrar por donde esta la varilla.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi135.JPG
 
-.. figure:: /imagenes/mi3/i158.png
-                :width: 2000px
+para terminar aseguramos los perfiles con un tornillo M3x25mm su rondana y tuerca M3 de seguridad, lo colocamaos en la perforacion inferior de los perfiles observa las imagenes.
 
+.. figure:: /imagenes/mi3/ensamblado/nmi136.JPG
 
-Después con la punta de las pinzas se empujan.
-
-
-.. figure:: /imagenes/mi3/i159.png
-                :width: 2000px
-
-
-Hasta que las tuercas entren por completo.
-
-
-.. figure:: /imagenes/mi3/i160.png
-                :width: 2000px
-
-
-Realizando los mismo pasos anteriores, se aplican para insertar las tuercas M3 en
-las ranuras del cojinete LM8KLUU que se muestran.
-
-
-.. figure:: /imagenes/mi3/i161.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i162.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i163.png
-                :width: 2000px
-
-
-Cuando las cuatro tuercas M3 estén empotradas en el carro, se procede a
-ensamblar el cojinete lineal LMK8LUU, donde se prepara poniendo los tornillos
-M3X10 y dos Orings salteados.
-
-
-.. figure:: /imagenes/mi3/i164.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i165.png
-                :width: 2000px
-
-
-Después se mete el cojinete lineal en el orificio del carro.
-
-
-.. figure:: /imagenes/mi3/i166.png
-                :width: 2000px
-
-Y se atornilla.
-
-
-.. figure:: /imagenes/mi3/i167.png
-                :width: 2000px
-
-
-Ahora se preparará el otro carro Z, el cual contiene una polea para la banda del
-mismo eje.
-
-
-.. figure:: /imagenes/mi3/i168.png
-                :width: 2000px
-
-
-Realizando los mismos pasos para el carro anterior, se ensambla el cojinete lineal
-del otro carro Z.
-
-
-.. figure:: /imagenes/mi3/i169.png
-                :width: 2000px
-
-
-De igual forma, se empotran las tuercas M4.
-
-
-.. figure:: /imagenes/mi3/i170.png
-                :width: 2000px
-
-
-Una vez el carro tenga toda su tornillería y tuercas listas, se ensamblará la polea
-del carro. Tomando el cojinete 688 entre las dos rondanas 5/16. como se muestra.
-
-
-.. figure:: /imagenes/mi3/i171.png
-                :width: 2000px
-
-Una vez insertadas las piezas, se introduce el eje roscado atrabezando las
-rondanas y el cojinete.
-
-
-.. figure:: /imagenes/mi3/i172.png
-                :width: 2000px
-
-
-Y fijando el ensamble con dos tuercas 5/16
-
-
-.. figure:: /imagenes/mi3/i173.png
-                :width: 2000px
-
-Cuando se tengan preparados los carros, se enroscarán las varillas roscadas en
-las tuercas M4 insertadas previamente,
-
-
-.. figure:: /imagenes/mi3/i174.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i175.png
-                :width: 2000px
-
-
-Dejando ambos carros a una altura media de las varillas.
-
-
-.. figure:: /imagenes/mi3/i176.png
-                :width: 2000px
-
-
-Después, por la parte superior, se deslizarán las varillas del eje Z hasta topar
-dentro de los orificios que se encuentran en las bases de los motores del mismo
-eje.
-
-
-.. figure:: /imagenes/mi3/i177.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i178.png
-                :width: 2000px
-
-
-Terminando de ensamblar el eje Z como se presenta a continuación.
-
-
-.. figure:: /imagenes/mi3/i179.png
-                :width: 2000px
-
-
-
-
-+------+
-|PASO 4|
-+------+
-
-ENSAMBLADO DEL EJE X.
-----------------------
-
-
-.. figure:: /imagenes/mi3/i180.png
-                :width: 2000px
-
-
-Material que se va a ocupar en el Proceso.
-
-
-* 6 tornillos M3x25mm
-* 11 tornillos M3x16mm
-* 3 tornillos M3x30mm
-* 12 tuercas M3
-* 8 tuercas M3 de seguridad
-* 1 tuerca M6
-* 12 rondas M3
-* 1 rondana M4
-* 2 varillas M8 de 330mm
-* 2 baleros lineales LMK8LUU
-* 1 motor nema 17
-* 1 kit de boquilla Hexagon de 3mm
-* 2 ventiladores de 25x25mm de 12v
-* 1 sensor inductivo
-* 1 conector neumático
-* 1 Banda t2 de 700mm
-* 1 pieza plastica N
-* 1 pieza plastica O
-* 2 piezas P
-
-
-.. figure:: /imagenes/mi3/i181.png
-                :width: 2000px
-
-
-Para este paso, primero se prepara el modulo del carro X ensamblando todos los
-componentes mecánicos y electrónicos. Empezando primero por insertar un
-tornillo M3X25 y su rondana M3 en el módulo frontal del carro en la parte inferior.
-
-
-.. figure:: /imagenes/mi3/i182.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i183.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i184.png
-                 :width: 2000px
-
-
-Luego se preparará la parte posterior del carro X como se ha mostrado en los
-pasos anteriores, ensamblando los cojinetes lineales LMK8LUU.
-
-
-
-
-.. figure:: /imagenes/mi3/i185.png
-          :width: 320px
-
-          paso 1
-
-.. figure:: /imagenes/mi3/i186.png
-          :width: 320px
-
-          paso 2
-
-.. figure:: /imagenes/mi3/i187.png
-          :width: 320px
-
-          paso 3
-
-.. figure:: /imagenes/mi3/i188.png
-          :width: 320px
-
-          paso 4
-
-.. figure:: /imagenes/mi3/i189.png
-          :width: 320px
-
-          paso 5
-
-.. figure:: /imagenes/mi3/i190.png
-          :width: 320px
-
-          paso 6
-
-
-Una vez lista la parte posterior del carro, se continua por armar ahora la parte
-frontal del mismo, comenzando por ensamblar la boquilla extrusora.
-Teniendo en cuenta que los cables deben de salir por el recuadro del modulo.
-
-
-.. figure:: /imagenes/mi3/i191.png
-                 :width: 2000px
-
-.. figure:: /imagenes/mi3/i192.png
-                :width: 2000px
-
-
-Después se ensambla el soporte de aluminio en la hendidura, cuidando que la
-guía coincida con el cuello de la boquilla.
-
-
-
-.. figure:: /imagenes/mi3/i193.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i194.png
-                :width: 2000px
-
-
-Después se insertan dos tornillos M3X20 con sus respectivas rondanas M3, sobre
-el soporte de aluminio.
-
-
-.. figure:: /imagenes/mi3/i195.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i196.png
-                :width: 2000px
-
-
-Y por debajo del mismo, se insertan tuercas de seguridad.
-
-
-.. figure:: /imagenes/mi3/i197.png
-                :width: 2000px
-
-Para posteriormente, con ayuda de unas pinzas y desarmador, apretar bien la
-pieza.
-
-
-.. figure:: /imagenes/mi3/i198.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i199.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i200.png
-                :width: 2000px
-
-
-Después, por donde introdujimos la tuerca de seguridad para el soporte de
-aluminio, se ensamblarán los ventiladores de 20X20 mm a cada lado del módulo.
-
-
-.. figure:: /imagenes/mi3/i201.png
-                :width: 2000px
-
-
-Se les inserta tornillería M3X10.
-
-
-.. figure:: /imagenes/mi3/i202.png
-                :width: 2000px
-
-
-Y se aprietan hasta fijar por completo los ventiladores.
-
-
-.. figure:: /imagenes/mi3/i203.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i204.png
-                 :width: 2000px
-
-
-Quedando el ensamble con un ventilador para la punta de la boquilla, y el otro
-para el disipador de la misma.
-
-
-.. figure:: /imagenes/mi3/i205.png
-                 :width: 2000px
-
-
-Enseguida se procede a colocar el sensor inductivo, por lo que primero se
-embrocan las tuercas del sensor en la base del módulo. Una arriba y la otra
-debajo.
-
-
-.. figure:: /imagenes/mi3/i206.png
-                 :width: 2000px
-
-
-Tuerca embrocada parte superior.
-
-
-.. figure:: /imagenes/mi3/i207.png
-              :width: 2000px
-
-
-Tuerca embrocada parte inferior.
-
-
-.. figure:: /imagenes/mi3/i208.png
-              :width: 2000px
-
-
-Después, por la tuerca de la parte superior se enrosca el sensor inductivo hasta
-que la punta azul casi coincida con la punta de la boquilla.
-
-
-.. figure:: /imagenes/mi3/i209.png
-              :width: 2000px
-
-.. figure:: /imagenes/mi3/i210.png
-              :width: 2000px
-
-Enseguida se enrosca el conector neumático en la parte superior de la boquilla.
-
-
-.. figure:: /imagenes/mi3/i211.png
-              :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i212.png
-              :width: 2000px
-
-
-Resultando por el momento el módulo frontal de esta manera.
-
-
-.. figure:: /imagenes/mi3/i213.png
-              :width: 2000px
-
-
-Ahora se unirán los módulos posterior y frontal, pero para ello antes se deben
-acomodar los cables de los componentes electrónicos en las guías con las que
-cuenta el módulo frontal.
-
-
-.. figure:: /imagenes/mi3/i214.png
-              :width: 2000px
-
-
-Una vez acomodados los cables, mediante el torillo que se puso al principio de
-este paso y otros dos a utilizar de M3X25 con sus rondanas, se unen las dos
-partes del módulo.
-
-
-.. figure:: /imagenes/mi3/i215.png
-              :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i216.png
-              :width: 2000px
-
-
-Resultando el módulo X ensamblado como se muestra a continuación.
-
-
-.. figure:: /imagenes/mi3/i217.png
-              :width: 2000px
-
-
-Una vez terminado el carro del módulo X, se insertarán las varillas de acero por
-los cojinetes lineales.
-
-
-.. figure:: /imagenes/mi3/i218.png
-              :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i219.png
-              :width: 2000px
-
-
-Colocando ambas varillas.
-
-
-.. figure:: /imagenes/mi3/i220.png
-              :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i221.png
-              :width: 2000px
-
-
-Terminando por armar todo el carro del eje X.
-
-
-.. figure:: /imagenes/mi3/i222.png
-              :width: 2000px
-
-
-+------+
-|PASO 5|
-+------+
-
-MONTAJE DEL EJE X EN EL EJE Z.
----------------------------------
-
-
-.. figure:: /imagenes/mi3/i223.png
-              :width: 2000px
-
-Una vez se tengan los ensambles completos del eje X y el eje Z, se procederá a
-unirlos.
-Para ello se tomara el ensamble X y con cuidado sin que las varillas se salgan del
-carro, se meten en los orificios laterales de los carros Z como se puede apreciar a
-continuación.
-
-
-.. figure:: /imagenes/mi3/i224.png
-              :width: 2000px
-
-
-Haciendo esto para los dos carros del eje Z.
-
-
-.. figure:: /imagenes/mi3/i225.png
-              :width: 2000px
-
-
-Formando un nuevo ensamble X-Z.
-
-
-.. figure:: /imagenes/mi3/i226.png
-              :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i227.png
-              :width: 2000px
-
-
-A continuación, se presentara el ensamble X-Z a la estructura.
-
-
-.. figure:: /imagenes/mi3/i228.png
-              :width: 2000px
-
-
-Para ello, se quitara el perfil superior M3, el cual se había dejado suelto en los
-pasos anteriores.
-
-
-.. figure:: /imagenes/mi3/i229.png
-              :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i230.png
-              :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i231.png
-              :width: 2000px
-
-
-Y se montaran las bases de los motores del eje Z sobre los perfiles B1, B3 y M3,
-cuidando que los orificios de los perfiles coincidan con los de las bases.
-
-
-.. figure:: /imagenes/mi3/i232.png
-              :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i233.png
-               :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i234.png
-                :width: 2000px
-
-
-Después, se colocara de nuevo el perfil superior M2.
-
-
-.. figure:: /imagenes/mi3/i235.png
-                :width: 2000px
-
-
-Cuidando que las varillas roscadas y lisas, entren en sus respectivas guías
-ubicadas en las bases superiores de la estructura.
-
-
-.. figure:: /imagenes/mi3/i236.png
-                :width: 2000px
-
-
-Donde será necesario presionar con la mano para empotrar las bases superiores
-en el perfil y en las varillas.
-
-
-.. figure:: /imagenes/mi3/i237.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i238.png
-               :width: 2000px
-
-
-Terminando el ensambldo X-Z en la estructura.
-
-
-.. figure:: /imagenes/mi3/i240.png
-               :width: 2000px
-
-
-Ahora si, se puede apretar todos los tornillos que faltan y que se habian dejado
-flojos en pasos anteriores.
-Insertando los tornillos M3X20 del pefirl superior M2,con su respectiva tuerca y rondana.
-
-
-.. figure:: /imagenes/mi3/i241.png
-               :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i242.png
-                :width: 2000px
-
-
-Apretando los tornillos con desarmador y pinzas.
-
-
-.. figure:: /imagenes/mi3/i243.png
-                 :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i244.png
-                :width: 2000px
-
-
-Tambien se les colocara sus tuercas de seguridad a los tornillos que mantienen
-unidos los ensambles del modulo del eje X.
-
-
-.. figure:: /imagenes/mi3/i245.png
-                :width: 2000px
-
-
-Se aprieta la tornilleria para mantener fijas las piezas.
-
-
-.. figure:: /imagenes/mi3/i246.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i247.png
-                :width: 2000px
-
-
-Ahora se procede a poner la banda del eje X que moverá su respectivo carro. Para
-ello nos posicionamos en la parte posterior del carro X.
-
-
-.. figure:: /imagenes/mi3/i248.png
-                :width: 2000px
-
-
-Se colocan los tornillos M3X30 en las bases de los motores del eje Z y su tuerca
-de seguridad por debajo.
-
-
-.. figure:: /imagenes/mi3/i249.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i250.png
-                :width: 2000px
-
-
-Se aprieta la tornillería con ayuda de pinzas y desarmador.
-
-
-.. figure:: /imagenes/mi3/i251.png
-                :width: 2000px
-
-
-Resultando el acomodo inferior de los motores, como se muestra a continuación.
-
-
-.. figure:: /imagenes/mi3/i252.png
-                :width: 2000px
-
-
-Después tomamos todos los elementos que componen el sistema de la banda.
-
-
-.. figure:: /imagenes/mi3/i253.png
-                :width: 2000px
-
-
-Tomamos un extremo de la banda y con la parte dentada hacia abajo la colocamos
-sobre una de las bases ubicadas en la parte posterior del carro X.
-
-
-.. figure:: /imagenes/mi3/i254.png
-                :width: 2000px
-
-
-Ahora ponemos la plaquita tensora sobre la banda.
-
-
-.. figure:: /imagenes/mi3/i255.png
-                :width: 2000px
-
-
-Insertamos un tornillo M3x16 con su respectiva rondana.
-
-
-.. figure:: /imagenes/mi3/i256.png
-                :width: 2000px
-
-
-Después una tuerca de seguridad.
-
-
-.. figure:: /imagenes/mi3/i257.png
-                :width: 2000px
-
-
-Y apretamos con ayuda de un desarmador y pinzas, fijando por completo la
-banda.
-
-
-.. figure:: /imagenes/mi3/i258.png
-                :width: 2000px
-
-
-Después, al carro Z del cojinete, se aflojan las tuercas M3X20, se saca el eje
-roscado.
-
-
-.. figure:: /imagenes/mi3/i259.png
-                :width: 2000px
-
-
-Y con los dedos índice y pulgar, sacamos el cojinete y las tuercas como se
-muestran.
-
-
-.. figure:: /imagenes/mi3/i260.png
-                :width: 2000px
-
-
-Se toma lel extremo libre de la banda y se pasa alrededor del cojinete como se
-muestra.
-
-
-.. figure:: /imagenes/mi3/i261.png
-                :width: 2000px
-
-
-Se inserta el cojinete y sus respectivas rondans, junto con la banda a su
-hendidura.
-
-
-.. figure:: /imagenes/mi3/i262.png
-                :width: 2000px
-
-
-Se sostienen las piezas y se introduce de nuevo el eje roscado.
-
-
-.. figure:: /imagenes/mi3/i263.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i264.png
-                :width: 2000px
-
-
-Se asegura con las tuercas.
-
-
-.. figure:: /imagenes/mi3/i265.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i266.png
-                :width: 2000px
-
-
-Después, se toma de nuevo el extremo libre de la banda una vez que se paso por
-el cojinete del carro Z, y se procede a pasar la banda por debajo de la polea del
-carro Z del motor.
-
-
-.. figure:: /imagenes/mi3/i267.png
-                :width: 2000px
-
-
-Sacándola por encima de la polea.
-
-
-.. figure:: /imagenes/mi3/i268.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i269.png
-                :width: 2000px
-
-
-Y jalándola para sacarla de la polea.
-
-
-.. figure:: /imagenes/mi3/i270.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i271.png
-                :width: 2000px
-
-
-Cuando la banda ya este sobre el cojinete y la polea, se procede a ubicar el
-extremo libre de la banda sobre la base posterior del módulo X.
-
-
-.. figure:: /imagenes/mi3/i272.png
-                :width: 2000px
-
-
-De igual forma se inserta un tornillo M3X16 con su respectiva rondana.
-
-
-.. figure:: /imagenes/mi3/i273.png
-                :width: 2000px
-
-
-Se agrega su tuerca de seguridad.
-
-
-.. figure:: /imagenes/mi3/i274.png
-                :width: 2000px
-
-
-Y con ayuda extra, mientras uno jala la banda para tensarla y mantenerla con la
-tensión deseada; otro aprieta el tornillo y la tuerca para fijar la banda con la
-tensión requerida.
-
-
-.. figure:: /imagenes/mi3/i275.png
-                :width: 2000px
-
-
-.. figure:: /imagenes/mi3/i276.png
-                :width: 2000px
-
-
-Quedando la banda lista para mover el carro X.
-
-
-.. figure:: /imagenes/mi3/i277.png
-                :width: 2000px
+.. figure:: /imagenes/mi3/ensamblado/nmi137.JPG
 
 
 
