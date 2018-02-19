@@ -823,6 +823,78 @@ para terminar aseguramos los perfiles con un tornillo M3x25mm su rondana y tuerc
 .. figure:: /imagenes/mi3/ensamblado/nmi137.JPG
 
 
+UNION DEL EJE  X y Z A LOS MOTORES
+-----------------------------------
+
+En este paso vamos a colocarcon mucho cuidado los baleros dentro d elas varillas lisas M8, deben de entrar con mucho cuidado observa las iamgenes. al meter los baleros en las varillas procura que entren los dos lados en linea recta porque si entran inclinados podrias sacarle los balines a los baleros.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi138.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi139.JPG
+
+debe de verse asi ya que esta dentro las varillas roscadas M5 deben de quedar sobre los coples de manguera neumatica.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi140.JPG
+
+direccionamos las varillas M5 dentro de los coples de manguera neumatica solo la punta.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi141.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi142.JPG
+
+solo te resta ejercer presion en las piezas H e I de la parte del balero para baje la varilla roscada M5 y te quede como en las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi143.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi144.JPG
+
+ahora vamos a colocar nuestros acrilicos laterales para reforzar la union de los ejes.
+Para este paso necesitaremos:
+
+* 1 acrilico lateral de 6mm
+* 1 acrilico lateral de 3mm
+* 5 tornillos M3x30mm
+* 3 tornillos M3x25mm
+* 8 rondanas M3
+* 8 tuercas M3 de seguridad.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi145.JPG
+
+coloca el acrilico lateral de 3mm en el lado izquierdo de la impresora donde los perfiles estan maracdos como F1 y B1, y coloca sus tornillos M3x25mm con su respectiva rondana y tuerca, y aprita con ayuda de unas pinzas de punta y tu llave allen
+
+.. figure:: /imagenes/mi3/ensamblado/nmi146.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi147.JPG
+
+enseguida vamos a colocar el acrilico de 3mm sobre los perfiles F3 y B3, y colocamos solo los 4 tornillos M3x30mm inferiores asi como se en la iamgen, no olvides apretarlos como en el paso anterior.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi148.JPG
+
+listo en la siguiente imagen se puede ver el eje colocado y sus acrilicos laterales.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi149.JPG
+
+INSTALACION DE LA ELECTRONICA
+------------------------------
+
+Para instalar la electronica vamos a necesitar lo siguiente:
+
+* 1 arnes de energia ATX
+* 1 kit de rumba
+* 1 pieza plastica ??????
+* 1 concetor hembra de pines
+* 1 conector hembra de 3pines
+* 1 concetor hembra de 4 pines
+* 2 conectores hembra-hembra para motor de 4 pines
+* 2 conectores hembra de 6 pines
+* 8 tornillos M3x16mm
+* 4 rondanas M3
+* 8 tuercas M3 de seguridad.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi150.JPG
+
+
+
 
 Unboxing
 ==================
