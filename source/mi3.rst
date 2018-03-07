@@ -91,130 +91,156 @@ MANUAL DE ENSAMBLADO Mi3
 .. figure:: /imagenes/mi3/check/pp3.png
 
 
-          1 - PIEZA - C
+          1 - PIEZA - C1
 
 
 .. figure:: /imagenes/mi3/check/pp4.png
 
-          1 - PIEZA - D
+          1 - PIEZA - C2
 
 
 .. figure:: /imagenes/mi3/check/pp5.png
 
 
-          4 - PIEZAS - E
+          4 - PIEZAS - D
 
 
 .. figure:: /imagenes/mi3/check/pp6.png
 
 
-          1 -  PIEZA - F
+          1 -  PIEZA - E
 
 
 .. figure:: /imagenes/mi3/check/pp7.png
 
-          1 - PIEZA - G
+          1 - PIEZA - F
 
 
 .. figure:: /imagenes/mi3/check/pp8.png
 
 
-          1 - PIEZA - H
+          1 - PIEZA - G1
 
 
 .. figure:: /imagenes/mi3/check/pp9.png
 
 
-          1 - PIEZA - I
+          1 - PIEZA - G2
 
 
 .. figure:: /imagenes/mi3/check/pp10.png
 
 
-          1 - PIEZA - J
+          1 - PIEZA - H
 
 
 .. figure:: /imagenes/mi3/check/pp11.png
 
 
-          1 - PIEZA - K
+          1 - PIEZA - I
 
 
 .. figure:: /imagenes/mi3/check/pp12.png
 
 
-          1 - PIEZA - L
+          1 - PIEZA - J
 
 
 .. figure:: /imagenes/mi3/check/pp13.png
 
 
-          2 - PIEZA - M
+          2 - PIEZA - K
 
 
 .. figure:: /imagenes/mi3/check/pp14.png
 
 
-          4 - PIEZAS - N
+          1 - PIEZA - L
 
 
 .. figure:: /imagenes/mi3/check/pp15.png
 
 
-          1 - PIEZA - O
+          1 - PIEZA - M1
+
+
+.. figure:: /imagenes/mi3/check/pp15-1.png
+
+
+          1 - PIEZA - M2
+
+
+.. figure:: /imagenes/mi3/check/pp15-2.png
+
+
+          1 - PIEZA - M3
 
 
 .. figure:: /imagenes/mi3/check/pp16.png
 
 
-          1 - PIEZA - P
+          1 - PIEZA - N
 
 
 .. figure:: /imagenes/mi3/check/pp17.png
 
 
-          1 - PIEZA - Q
+          1 - PIEZA - O
 
 
 .. figure:: /imagenes/mi3/check/pp18.png
 
-          1 - PIEZA - R
+
+          2 - PIEZA - P
 
 
 .. figure:: /imagenes/mi3/check/pp19.png
 
 
-          2 - PIEZA - S
+          1 PAR DE PIEZA - Q
 
 
 .. figure:: /imagenes/mi3/check/pp20.png
 
 
-          1 PAR DE PIEZA - T
+          4 - PIEZAS - R
 
 
 .. figure:: /imagenes/mi3/check/pp21.png
 
 
-          4 - PIEZAS - U
+          1 - PIEZA - S1
 
 
 .. figure:: /imagenes/mi3/check/pp22.png
 
 
-          1 - PIEZA - V
+          1 - PIEZA - S2
 
 
 .. figure:: /imagenes/mi3/check/pp23.png
 
 
-          1 - PIEZA - W
+          1 - PIEZA - T
 
 
 .. figure:: /imagenes/mi3/check/pp24.png
 
 
-          1 PAR DE PIEZAS - X
+          1 - PIEZA - U
+
+
+.. figure:: /imagenes/mi3/check/pp25.png
+
+
+          1 - PIEZA - V
+
+
+.. figure:: /imagenes/mi3/check/pp26.png
+
+
+          1 Módulo de Altas
+
 
 ENSAMBLADO DE ESTRUCTURA INFERIOR
 -----------------------------------
@@ -892,6 +918,82 @@ Para instalar la electronica vamos a necesitar lo siguiente:
 * 8 tuercas M3 de seguridad.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi150.JPG
+
+tomamos la pieza plastica   donde van los conectores observa bien la pieza y fijate que tien dos lados los conectores entra por la parte que se muestra en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi151.JPG
+
+en esta iamgen ya se ve que estan colocados los dos conectores hembra de 6 pines, ahora vamos a conectar el de 4 pines hembra, observa bien la posicion antes de entra y despues cuando ya esta dentro.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi152.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi153.JPG
+
+te dejamos una imagen con todos los conectores dentro observa bien el orden y colocalos como se ve en la iamgen. recuerda que todos son conectores hembras.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi154.JPG
+
+enseguida coloca 4 tornillos M3x16 en los orificios de la pieza plastica como se muestra en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi155.JPG
+
+despues pasa los cables del conector de 6 pines que esta en la parte izquierda pasalos por el orificio que tiene el gravado laser de 1 asi como se ve en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi156.JPG
+
+te dejamos una imagen para que veas el orden de los cables que pasan por los orificios del acrilico de 6mm
+
+.. figure:: /imagenes/mi3/ensamblado/nmi157.JPG
+
+para finalizar este paso solo debes de colocar la tuerca M3 de seguridad como se ve en las images y apretar hasta que la cabeza del tornillo quede como se ve en las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi158.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi159.JPG
+
+y asi es como se debe de ver tus conectores ya colocados en el acrilico.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi160.JPG
+
+enseguida colocaremos la tarjeta controladora rumba pero antes colocaremos los disipadores de calor en los drivers de los motores, toma la bolsa antiestatica con los disipadores y observa las imagenes, ya que se te mostrara como cortar cada cuadro de cinta doble cara par pegarlo.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi161.JPG
+
+en la siguiente imagen mostramos que si colocacas la cinta doble cara podras ver los caudros que tiene esta cinta debes de cortar cada cuadrito para cada driver.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi162.JPG
+
+una vez que cortaste los cuadritos se desperede una capa de papel cafe o protector y lo pegas en el disipador de aluminio despues desprendes la otra cara de papel protector y lo colocas encima del chip del driver asi como se ve en las imagenes, pon mucha atencion, de no dejar el disipador de calor en ningun punto de soldadura, observa mucho las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi163.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi164.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi165.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi166.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi167.JPG
+
+para montar la tarjeta rumba en el acrilico necesitaremos de:
+
+* 4 tornillos M3x16mm
+* 4 Rondanas M3
+* 4 tuercas M3 de seguridad
+
+.. figure:: /imagenes/mi3/ensamblado/nmi168.JPG
+
+coloca los tornillos con su rondana como se ve en la imagen y por el lado interno del acrilico, colocaremos la rumba como se aprecia en las imagenes, y despues solo resta colocra las tuercas y apretar, al momento de apretar procura no hacerlo tan fuerte para que la tarjeta no se dañe, deja un poco flojos cada tornillo.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi169.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi170.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi171.JPG
+
+acontinuacion dejamos el digrama de conexiones de la tarjeta controladora y sus accesorios del circuito, como los motores y los conectores.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi172.JPG
 
 
 
