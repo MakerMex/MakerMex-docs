@@ -996,6 +996,143 @@ acontinuacion dejamos el digrama de conexiones de la tarjeta controladora y sus 
 .. figure:: /imagenes/mi3/ensamblado/nmi172.JPG
 
 
+ENSAMBLE DE LA EXTRUSORA
+-------------------------
+
+Para la ensamblara la extrusora vamos a comenzar con este material
+
+* 1 tornillo Hoobetbolt
+* 4 rondanas 5/16
+* 2 baleros 608
+* 1 tuerca 5/16 de seguridad
+* 1 pieza plastica L
+* 1 pieza plastica O
+
+.. figure:: /imagenes/mi3/ensamblado/nmi173.JPG
+
+bien comieza con colocar una rondana 5/16 y despues el un balero 608 en el tornillo hobbetbolt.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi174.JPG
+
+enseguida introduce el tornillo en la pieza plastica L y coloca un balero 608 y 3 rondanas 5/16 como se ve en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi175.JPG
+
+ahora toma la pieza O e inserta una tuerca 5/16 de seguridda en el centro del engrane
+
+.. figure:: /imagenes/mi3/ensamblado/nmi176.JPG
+
+despues coloca el engrane y latuerca en el tornillo Hobbetbolt como se ve en la imagen y aprita con ayuda de una llave española de 1/2, solo aprieta hasta el tope de las rondandas y no excedas la fuerza debe de girar el engrane.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi177.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi178.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi179.JPG
+
+despues vamos a colocar el conector neumatico y la tuerca M6 en la pieza L
+
+.. figure:: /imagenes/mi3/ensamblado/nmi180.JPG
+
+vamos a colocra la tuerca M6 como se ve en la imagen y con ayuda de una llave española de 1/2 aprieta el conector.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi181.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi182.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi183.JPG
+
+seguimos con el Motor,la pieza plastica N un opresor M3x8mm y una tuerca M3 normal
+
+.. figure:: /imagenes/mi3/ensamblado/nmi184.JPG
+
+coloca la tuerca M3 normal en la pieza N como se ve en la imagen
+
+.. figure:: /imagenes/mi3/ensamblado/nmi185.JPG
+
+despues con ayuda de una tuerca M4 coloca encima el centro del motor y por la parte de a la flecha alinea, la parte plana con el orificio de la pieza N y con ayuda del martillo de goma golpea poco a poco hasta que entre como se ve en las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi186.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi187.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi188.JPG
+
+y por ultimo apretamos el opresor M3x8mm como se ve en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi189.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi190.JPG
+
+ahora vamos a ensmablar la parte final de la extrusora vamos a ocupar las piezas Plasticas M1,M2,M3 el perno de 20mm y 1 balero 608
+
+.. figure:: /imagenes/mi3/ensamblado/nmi191.JPG
+
+colocamos el preno con un balero 608 en la pieza M2 como se ve en la imagen y con ayuda de unas pizas mecanicas lo hacemos bajar.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi192.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi193.JPG
+
+ahora vamos a utilizar los ensambles que llevamos y 2 tornillos M4x50mm, 2 rondanas M4, 2 tuercas M4 normales, 1 tornillo M3x30mm y una tuerca M3 de seguridad, y un resorte de 6.5 x15mm.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi195.JPG
+
+vamos a unir los dos ensambles que llevamos con el tornillo M3x30mm y enseguida colocamos la tuerca M3 de seguridad y apretamos hasta llegar al tope de la pieza plastica recuerda no usar demasiado torque como se ve en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi197.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi198.JPG
+
+corta el resorte justo a la mitad como se ve en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi199.JPG
+
+y coloca una rondama M4 y un resorte en cada tornillo M4x50mm y une las piezas Plasticas M1 y M3
+
+.. figure:: /imagenes/mi3/ensamblado/nmi200.JPG
+
+coloca las tuercas M4 en los orificios de la pieza plastica L como se ve en las imagenes, e introduce los tornillos M4x50mm junto con las piezas M1 y M3, asi como se ve en las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi201.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi202.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi203.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi204.JPG
+
+por ultimo nos queda unir el motor con todo el ensamble observa las imagenes, para esto vas a utilizar 4 tornillos M3x10mm
+
+.. figure:: /imagenes/mi3/ensamblado/nmi205.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi206.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi207.JPG
+
+ya que esta ensamblada vamos a colocarla en su lugar, recordando que en el ensamble de la estructura dejamos un tornillo en un perfil, vamos a colocar la extrusora en ese tornillo y apretamos.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi208.JPG
+
+empareja la pieza de la extrusora y coloca los tornillos M3x40mm en el perfil como se ve en la imagen e inserta 1 tuerca M3 normal en cada tornillo, aprieta los tornillos y listo.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi209.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi210.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi211.JPG
+
+
+ENSAMBLE DE LA PANTALLA
+------------------------
+
+ENSAMBLE DE CAMA CALIENTE
+--------------------------
+
+ENSAMBLE DE MODULO
+-------------------
+
+
 
 
 Unboxing
