@@ -8,240 +8,6 @@ Generales
 MANUAL DE ENSAMBLADO Mi3
 -------------------------
 
-+-----------------------+--------------------------------------+
-| Perfil Cuadrado       | Acrílicos                            |
-+-----------------------+--------------------------------------+
-| * 2 Perfiles de 380mm | * 4 Esquineros de la base de 3mm     |
-| * 4 Perfiles de 390mm | * 2 Laterales de 3mm                 |
-| * 4 Perfiles de 150mm | * 2 Esquineros superiores de 3mm     |
-|                       | * 1 Base rectangular inferior de 3mm |
-|                       | * 1 Cama del eje Y de 6mm            |
-+-----------------------+--------------------------------------+
-
-+-----------------------+-----------------------+----------------------+
-| Varilla roscada M5    | Varilla lisa M8       | Varilla roscada 5/16 |
-+-----------------------+-----------------------+----------------------+
-|                       | * 2 Varillas de 390mm | * 2 Varillas de 55mm |
-| * 2 Varillas de 345mm | * 2 Varillas de 340mm | * 1 Varillas de 77mm |
-|                       | * 2 Varillas de 330mm |                      |
-+-----------------------+-----------------------+----------------------+
-
-+-------------------------------------+------------------------------+
-|Tornillería                          | Tuercas                      |
-+-------------------------------------+------------------------------+
-| * 37 Tornillos M3x10mm              | * 88 Tuercas de seguridad M3 |
-| * 21 Tornillos M3x16mm              | * 34 Tuercas normales M3     |
-| * 13 Tornillos M3x20mm              |                              |
-| * 27 Tornillos M3x30mm              |                              |
-| * 49 Tornillos M3x35mm              |                              |
-| * 3  Tornillos cabeza plana M3x10mm |                              |
-| * 5  Tornillos cabeza plana M3x35mm |                              |
-+-------------------------------------+------------------------------+
-
-+------------------+------------------------------------+---------------------+------------+
-| Rondanas         | Resortes                           | Baleros             | Piñones    |
-+------------------+------------------------------------+---------------------+------------+
-| * 94 Rondanas M3 | * 4 resortes de 8X20mm             | * 4 baleros LMK8LUU |* 1 piñon   |
-| * 7 Rondanas M4  | * 1 resorte de acero estirado duro | * 4 baleros LM8LUU  |  muleteado |
-|                  |                                    | * 1 balero de 608   |            |
-|                  |                                    | * 2 baleros de 688  |            |
-+------------------+------------------------------------+---------------------+------------+
-
-+-------------------------------------------------------+
-| Electronicos y Mecanicos                              |
-+-------------------------------------------------------+
-| * 5 motores nema 17 con cables                        |
-| * 1 Kit controlador Rumba + Cama caliente de aluminio |
-| * 1 Kit de Boquilla Hexagon                           |
-| * 1 banda T2.0 de 700mm                               |
-| * 1 banda T2.0 de 860mm                               |
-| * 2 microswitches mecanicos de rodillo                |
-| * 2 ventiladores de 25x25x10mm 12V                    |
-| * 1 fuente de poder  12v 500w                         |
-| * 2 conectores de manguera neumática                  |
-| * 1 cable Usb mini                                    |
-| * 1 kit de pantalla LCD                               |
-| * 1 malla expandible de 1/2 x 800mm                   |
-+-------------------------------------------------------+
-
-+--------------------------------------------+
-| Otros                                      |
-+--------------------------------------------+
-| * 5 cintillos                              |
-| * 4 o- rings                               |
-| * 1 tubo bowden de 500mm                   |
-| * 2 trozos de manguera neumática de 6x30mm |
-+--------------------------------------------+
-
-+----------------+
-|Piezas Plasticas|
-+----------------+
-
-.. figure:: /imagenes/mi3/check/pp1.png
-
-
-          4- PIEZAS - A
-
-
-.. figure:: /imagenes/mi3/check/pp2.png
-
-          2- PIEZAS - B
-
-
-.. figure:: /imagenes/mi3/check/pp3.png
-
-
-          1 - PIEZA - C1
-
-
-.. figure:: /imagenes/mi3/check/pp4.png
-
-          1 - PIEZA - C2
-
-
-.. figure:: /imagenes/mi3/check/pp5.png
-
-
-          4 - PIEZAS - D
-
-
-.. figure:: /imagenes/mi3/check/pp6.png
-
-
-          1 -  PIEZA - E
-
-
-.. figure:: /imagenes/mi3/check/pp7.png
-
-          1 - PIEZA - F
-
-
-.. figure:: /imagenes/mi3/check/pp8.png
-
-
-          1 - PIEZA - G1
-
-
-.. figure:: /imagenes/mi3/check/pp9.png
-
-
-          1 - PIEZA - G2
-
-
-.. figure:: /imagenes/mi3/check/pp10.png
-
-
-          1 - PIEZA - H
-
-
-.. figure:: /imagenes/mi3/check/pp11.png
-
-
-          1 - PIEZA - I
-
-
-.. figure:: /imagenes/mi3/check/pp12.png
-
-
-          1 - PIEZA - J
-
-
-.. figure:: /imagenes/mi3/check/pp13.png
-
-
-          2 - PIEZA - K
-
-
-.. figure:: /imagenes/mi3/check/pp14.png
-
-
-          1 - PIEZA - L
-
-
-.. figure:: /imagenes/mi3/check/pp15.png
-
-
-          1 - PIEZA - M1
-
-
-.. figure:: /imagenes/mi3/check/pp15-1.png
-
-
-          1 - PIEZA - M2
-
-
-.. figure:: /imagenes/mi3/check/pp15-2.png
-
-
-          1 - PIEZA - M3
-
-
-.. figure:: /imagenes/mi3/check/pp16.png
-
-
-          1 - PIEZA - N
-
-
-.. figure:: /imagenes/mi3/check/pp17.png
-
-
-          1 - PIEZA - O
-
-
-.. figure:: /imagenes/mi3/check/pp18.png
-
-
-          2 - PIEZA - P
-
-
-.. figure:: /imagenes/mi3/check/pp19.png
-
-
-          1 PAR DE PIEZA - Q
-
-
-.. figure:: /imagenes/mi3/check/pp20.png
-
-
-          4 - PIEZAS - R
-
-
-.. figure:: /imagenes/mi3/check/pp21.png
-
-
-          1 - PIEZA - S1
-
-
-.. figure:: /imagenes/mi3/check/pp22.png
-
-
-          1 - PIEZA - S2
-
-
-.. figure:: /imagenes/mi3/check/pp23.png
-
-
-          1 - PIEZA - T
-
-
-.. figure:: /imagenes/mi3/check/pp24.png
-
-
-          1 - PIEZA - U
-
-
-.. figure:: /imagenes/mi3/check/pp25.png
-
-
-          1 - PIEZA - V
-
-
-.. figure:: /imagenes/mi3/check/pp26.png
-
-
-          1 Módulo de Altas
-
-
 ENSAMBLADO DE ESTRUCTURA INFERIOR
 -----------------------------------
 
@@ -973,7 +739,10 @@ una vez que cortaste los cuadritos se desperede una capa de papel cafe o protect
 
 .. figure:: /imagenes/mi3/ensamblado/nmi166.JPG
 
-.. figure:: /imagenes/mi3/ensamblado/nmi167.JPG
+.. Note::
+   recuerda que no deben de tocar los disipadores de calor ningun punto de soldadura observa bien la imagenes
+   .. figure:: /imagenes/mi3/ensamblado/nmi167.JPG
+
 
 para montar la tarjeta rumba en el acrilico necesitaremos de:
 
@@ -1125,12 +894,114 @@ empareja la pieza de la extrusora y coloca los tornillos M3x40mm en el perfil co
 
 ENSAMBLE DE LA PANTALLA
 ------------------------
+ Para el ensamble de la pantalla vamos a utilizar, asi como se ve en la imagen.
+
+* 1 pantalla LCD
+* 1 acrilico para la pantalla LCD
+* 1 Pieza plastica  S1
+* 1 pieza plastica  S2
+* 4 tornilos M3x20mm
+* 4 rondanas M3
+
+.. figure:: /imagenes/mi3/ensamblado/nmi212.JPG
+
+priemero vamos a colocar las piezas S1 y S2 como se muestra en las imagenes, y despues se coloca encima el acrilico, se colocan los tornillos con su rondana y se atornillan hasta dejar las cebezas de los tornillos llegadas al acrilico.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi213.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi214.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi215.JPG
 
 ENSAMBLE DE CAMA CALIENTE
 --------------------------
 
 ENSAMBLE DE MODULO
 -------------------
+
+ En esta parte ensamblaremos el modulo de impresion vamos a necesitar lo siguientes:
+
+ * 1 kit de boquilla hexagon.
+ * 1 sensor inductivo
+ * 1 conector de 3 pines macho
+ * 1 piza plastica para sensor inductivo
+ * 1 pieza plastica de body
+ * 2 tornillos M4x20mm
+ * 2 rondanas M4
+ * 2 tuercas M4
+ * 9 tornillos M3x16mm
+ * 2 tuercas M3
+ * 1 tuerca M3 de seguridad
+
+ .. figure:: /imagenes/mi3/ensamblado/nmi216.JPG
+
+primer paso sera colocar el sensor en la pieza plastica, vamos a colocar un tornillo M3x16mm como se muestra en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi217.JPG
+
+despues colocamos un  tuerca en el sensor lo colocamos en el orificio grande  de la pieza plastica, y despues colocamos una rondana del sensor y la tuerca asi como se ve en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi218.JPG
+
+por ultimo nos resta unir el conector de 3 pines  en el sensor asi como se muetsra en el digrama.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi219.JPG
+
+enseguida tomamos la placa de metal que viene en la caja de la boquilla y colocamos un poco de cinta como se ve en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi220.JPG
+
+despues tomamos la boquilla y le colocamos la placa de metal como se muestra en la imagen y la colocamos en la pieza plastica
+
+.. figure:: /imagenes/mi3/ensamblado/nmi221.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi222.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi223.JPG
+
+ahora vamos a colocar los 2 tornillos M4x20mm y su rondana como se ve en la imagen y despues atornillamos y colocamos las tuercas M4 como se ve en las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi224.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi225.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi226.JPG
+
+enseguida atornillamos lapieza de plastico del sensor inductivo con un tornillo M3x16mm y la tuerca M3 de seguridad.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi227.JPG
+
+ahora vamos a colocar los dos ventiladores pequeños observa bien como los vamos a colocar.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi228.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi229.JPG
+
+ahora coloca las tuercas M3 normales en los orificios asi como se muetsra enla imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi230.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi231.JPG
+
+Para finalizar el armado del modulo vamos  necesitar el ensamble del modulo y tambien 1 cable de 6 pines macho, 1 cable de 2 pines macho termofit cautin y soldadura para realizar las conexiones del modulo como indica el digrama.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi232.JPG
+
+conectamos los 6 pines como se muetsra en la imagen y al final haces la conexion del ventilaor derecho con el conector de 2 pines y con ayuda de un ensendedor ponemos termofit.
+
+ .. figure:: /imagenes/mi3/ensamblado/nmi233.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi234.JPG
+
+por ultimo nos resta colocar las mallas expandibles para que cubran los cables y se vean mas presentables.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi2235.JPG
+
+coloca un cintillo en cada punta de la malla expandible una vez que este colocada en los cables y listo has terminado el modulo.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi236.JPG
+
+
 
 
 
