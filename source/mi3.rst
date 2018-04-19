@@ -446,103 +446,34 @@ y por tercera vez lo hacemos con la pieza J pero esta vez colocaremos dos balero
 
 .. figure:: /imagenes/mi3/ensamblado/nmi89.JPG
 
-en el siguiente paso vamos a colocar una polea en la pieza plastica I, toma el material que se muestra en la imagen.
+ahora vamos a unir las piezas H,I,J entre si con las 2 varillas M8 lisas.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi90.JPG
 
-colca el perno roscado de 50mm  en el orificio de la pieza Plastica y dentro una rondana 5/16 y el balero 688 como se muestra en la imagen.
+primero colca las varillas como se muestra enla imagen
 
 .. figure:: /imagenes/mi3/ensamblado/nmi91.JPG
 
- introduce mas el perno roscado y colca una rondana 5/16 en cada extremo y despues una tuerca 5/16 en cada extremo
+enseguda y con mucho cuidado coloca la siguiente pieza entre las varillas observa muy bien la posicion
 
 .. figure:: /imagenes/mi3/ensamblado/nmi92.JPG
 
-por ultimo nos resta apretar las tuercas al tope de la pieza plastica I asi como se ve en la imagen.
-
-.. figure:: /imagenes/mi3/ensamblado/nmi93.JPG
-
-enseguida vamos a colocar en la pieza plastica H un motor nema 17 observa la imagen y toma el material que se necesitara.
+y por ultimo cierra con la ultima parte observa bien como debe de quedar.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi94.JPG
 
-lo que vamos a colocar primero, es la polea dentada como se ve en la imagen, el opresor debe de quedar en la parte plana del eje del motor. y despues apretamos.
+sigamos colocando las varillas M5 en cada lado de las piezas I, J
 
 .. figure:: /imagenes/mi3/ensamblado/nmi95.JPG
 
-.. figure:: /imagenes/mi3/ensamblado/nmi96.JPG
+en este paso es importante que cada varilla entre de manera libre y que no se atore en las tuercas sigue las imagenes y colocalas.
 
-ahora colocamos dos tornillos M3x10mm en la pieza plastica H como se ve en la imagen.
+.. figure:: /imagenes/mi3/ensamblado/nmi96.JPG
 
 .. figure:: /imagenes/mi3/ensamblado/nmi97.JPG
 
-y  tambien colocamos 1 tornillo en el orificio redondo de la pieza plastica H
-
 .. figure:: /imagenes/mi3/ensamblado/nmi98.JPG
 
-observa como debe de colocarse la pieza H en el motor, y ya que lo colocaste como se ve en la imagen aprieta los tornillos.
-
-.. figure:: /imagenes/mi3/ensamblado/nmi99.JPG
-
-enseguida vamos a colocar,las varillas lisas M8x340mm en las piezas H e I y en el centro la pieza plastica J observa bien las imagenes.
-
-.. figure:: /imagenes/mi3/ensamblado/nmi100.JPG
-
-metemos las dos varillas en la pieza H, despues la pieza J la colocamos en las dos varillas, y por ultimo la pieza I.
-
-.. figure:: /imagenes/mi3/ensamblado/nmi101.JPG
-
-.. figure:: /imagenes/mi3/ensamblado/nmi102.JPG
-
-.. figure:: /imagenes/mi3/ensamblado/nmi103.JPG
-
-y debera quedar asi
-
-.. figure:: /imagenes/mi3/ensamblado/nmi104.JPG
-
-enseguida vamos a colocar la banda dentada, toma una punta y pasala por la polea de la pieza I como se ve en la imagen.
-
-.. figure:: /imagenes/mi3/ensamblado/nmi105.JPG
-
-enseguida colocamos la punta que no tomaste en le paso anterior, y la ponemos en la pieza J como se ve en la imagen.
-
-.. figure:: /imagenes/mi3/ensamblado/nmi106.JPG
-
-tomamos una pieza K y la colocamos con laparte en diagonal hacia dentro de la pieza J encima de la banda y con un tornillo M3x16MM con su rondana M3 y tuerca M3 de seguridad apretamos la banda.
-
-.. figure:: /imagenes/mi3/ensamblado/nmi107.JPG
-
-.. figure:: /imagenes/mi3/ensamblado/nmi108.JPG
-
-como siguiente paso aflojamos el tornillo del orificio redondo, y el superior de la pieza H asi como se ve en la imagen.
-
-.. figure:: /imagenes/mi3/ensamblado/nmi109.JPG
-
-volvemos a pasar la punta de la banda del primer paso y la pasamos por la polea dentada como se ve en la imagen y apretamos en la pieza J con una pieza K como en el paso anterior, dejala la punta al ras de la pestaña de la pieza K como se ve en la imagen.
-
-.. figure:: /imagenes/mi3/ensamblado/nmi110.JPG
-
-.. figure:: /imagenes/mi3/ensamblado/nmi111.JPG
-
-para terminar este ensamble regresamos el motor a su posicion original y apretamos los tornillos.
-
-.. figure:: /imagenes/mi3/ensamblado/nmi112.JPG
-
-observa como debe de quedar la banda.
-
-.. figure:: /imagenes/mi3/ensamblado/nmi113.JPG
-
-solo nos resta colocar las tuercas M5 en los orificios de rectangulares de las piezas H e I.
-
-.. figure:: /imagenes/mi3/ensamblado/nmi114.JPG
-
-.. figure:: /imagenes/mi3/ensamblado/nmi115.JPG
-
-.. figure:: /imagenes/mi3/ensamblado/nmi116.JPG
-
-y asi se ve el eje X Z ya terminado.
-
-.. figure:: /imagenes/mi3/ensamblado/nmi117.JPG
 
 siguiendo el manual vamos a colocar los coples de manguera neumatica en los motores del eje Z, toma los dos coples como se ve en la imagen.
 
@@ -579,8 +510,6 @@ debes de colocar las varillas por la parte superior de las piezas H e I y atorni
 .. figure:: /imagenes/mi3/ensamblado/nmi126.JPG
 
 .. figure:: /imagenes/mi3/ensamblado/nmi127.JPG
-
-debes de dejar la varilla roscada entre 15cm de distancia para que el eje quede centrado.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi128.JPG
 
@@ -741,7 +670,8 @@ una vez que cortaste los cuadritos se desperede una capa de papel cafe o protect
 
 .. Note::
    recuerda que no deben de tocar los disipadores de calor ningun punto de soldadura observa bien la imagenes
-   .. figure:: /imagenes/mi3/ensamblado/nmi167.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi167.JPG
 
 
 para montar la tarjeta rumba en el acrilico necesitaremos de:
@@ -757,8 +687,6 @@ coloca los tornillos con su rondana como se ve en la imagen y por el lado intern
 .. figure:: /imagenes/mi3/ensamblado/nmi169.JPG
 
 .. figure:: /imagenes/mi3/ensamblado/nmi170.JPG
-
-.. figure:: /imagenes/mi3/ensamblado/nmi171.JPG
 
 acontinuacion dejamos el digrama de conexiones de la tarjeta controladora y sus accesorios del circuito, como los motores y los conectores.
 
@@ -915,8 +843,63 @@ priemero vamos a colocar las piezas S1 y S2 como se muestra en las imagenes, y d
 
 ENSAMBLE DE CAMA CALIENTE
 --------------------------
+En este ensamble vamos a necesitar
 
-ENSAMBLE DE MODULO
+* 2 alfombras Mi3
+* 1 cama caliente MK3 + termoresitor.
+* 1 tramo de 55cm de cable de bocina calibre 12
+* 1 cable dupont hembra de 2 pines
+* 4 tornillos M3x35mm cabeza plana
+* 4 tuercas M3 de seguridad
+* 4 resortes de 8x30mm
+
+.. figure:: /imagenes/mi3/ensamblado/nmi237.JPG
+
+como primer paso vamos aindentificar donde va el cable rojo y el negro observa la posicion correcta en la imagen
+
+.. figure:: /imagenes/mi3/ensamblado/nmi238.JPG
+
+con ayuda de cautin y soldadura vamos a estañar las casillas 2 y 3 de la cama, en seguida la 1 y procedemos a colocar los cables como se ve en las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi239.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi240.JPG
+
+ahora vamos a unir el cable dupont de 2 pines con el termoresitor, corta 1 punta del cable coloca un trozo de termofit trenza un cable en cada pin del termoresitor y estaña, una vez que este listo cubre con termofit la union y acerca la floama de un enecendedor para sellar el termofit observa bien las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi241.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi242.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi243.JPG
+
+ahora vamos a colocra un poco de cinta kapton al borde del agujero central, enseguida colca lapunta del termoresitor dentro del agujero y coloca una capa mas de cinta encima del termoresitor, como haciendo un sandwich,procura que no se junten los pines del termoresitor.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi244.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi245.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi246.JPG
+
+para terminar con el cautin solo estañamos la otra punta del cable rojo y negro de la cama caliente observa las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi247.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi248.JPG
+
+Bien ahora solo montamos la cama caliente en la base de acrilico del eje Y,esto lo haremos con los tornillos y los resortes.observa las imagenes
+
+.. figure:: /imagenes/mi3/ensamblado/nmi249.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi250.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi251.JPG
+
+listo asi es como se debera de ver tu impresora hasta este punto.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi252.JPG
+
+ENSAMBLE DE MÓDULO
 -------------------
 
  En esta parte ensamblaremos el modulo de impresion vamos a necesitar lo siguientes:
@@ -934,6 +917,10 @@ ENSAMBLE DE MODULO
  * 1 tuerca M3 de seguridad
 
  .. figure:: /imagenes/mi3/ensamblado/nmi216.JPG
+
+ te dejamos el diagrama de como deberas conectar el Modulo y el sensor inductivo.
+
+ .. figure:: /imagenes/mi3/ensamblado/nmi216-1.JPG
 
 primer paso sera colocar el sensor en la pieza plastica, vamos a colocar un tornillo M3x16mm como se muestra en la imagen.
 
