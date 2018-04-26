@@ -899,6 +899,98 @@ listo asi es como se debera de ver tu impresora hasta este punto.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi252.JPG
 
+Colocacion de pantalla y banda del eje X
+-----------------------------------------
+
+vamos acomenzar tomando el perfil M2 y las piezas plasticas C1 y C2, las unimos con el perfil, despues lo colocaremos en la parte superior asegurando que las dos varillas entren de cada lado como se ve en la imagenes
+
+.. figure:: /imagenes/mi3/ensamblado/nmi253.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi254.JPG
+
+ahora cerraremos el marco de perfiles y colocraemos la pantalla utilizaras lo sigueiente.
+
+* la pantalla previamente ensamblada
+* 2 esquineros de acrilicos
+* 8 tornillos M3x25mm
+* 1 tornillo M3x30mm
+* 9 tuercas M3 de seguridad
+* 9 Rondanas M3
+
+.. figure:: /imagenes/mi3/ensamblado/nmi255.JPG
+
+colocamos los acrilicos como se ve en la imagen y ponemos 2 tornillos M3x25mm con su rondana y su tuerca.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi256.JPG
+
+enseguida colocamos el tornillo M3x30mm con su rondana sobre el lado derecho y colocamos su tuerca, despues cerramos laesquina izquierda con 2 tornillos M3x25mm con su rondana y tuerca.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi257.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi258.JPG
+
+por ultimo colocamos la pantalla y sujetamos con 2 tornillos M3x25mm con su rondana y tuerca observa las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi259.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi260.JPG
+
+Ahora vamos a colocra la banda del eje X, toma un motor y coloca la polea dentada como se ve en la imagen utilizaras 3 tornillos M3x10mm
+
+.. figure:: /imagenes/mi3/ensamblado/nmi261.JPG
+
+coloca el motor sobre la pieza plastica del lado izquierdo como se ve en las imagenes y colaca los tornillos M3x10 y apritalos.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi263.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi264.JPG
+
+sieguiente parte utilizaras:
+
+* la banda dentada
+* 2 piezas plasticas K
+* 1 perno roscado de 5/16 x50mm
+* 3 Rondanas 5/16
+* 2 tuercas 5/16
+* 1 balero 688
+* 2 tornillos M3x16mm
+* 2 tuercas M3 de seguridad
+* 2 rondanas M3
+
+.. figure:: /imagenes/mi3/ensamblado/nmi265.JPG
+
+vamos a sujetar la banda con una pieza plastica K, y un tornillo M3x16mm con su rondana y tuerca, enseguida pasaremos la banda por la polea del motor que colocamos observa las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi266.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi267.JPG
+
+ahora vamos a colocar la banda en forma de U y la introducimos en el orifiocio d ela pieza que se muestra, y enseguida colocaremos una rondana 5/16 con el balero 688, y para asegurar la polea metenos el pernos roscado de 5/16x50mm observa las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi268.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi269.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi270.JPG
+
+solo nos resta colocar las rondanas 5/16 y turecas para asegurar el perno.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi271.JPG
+
+por ultimo cerramos la banda con la otra pieza K y la atornillamos como la primera
+
+.. NOTE::
+   tener mucho cuidado de no tensar de mas la banda solo hay que dar un ajuste donde la banda no quede floja u olgada que se vea estirada sin demasiada tension.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi272.JPG
+
+
+
+
+
+
+
+
 ENSAMBLE DE MÓDULO
 -------------------
 
