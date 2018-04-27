@@ -984,13 +984,6 @@ por ultimo cerramos la banda con la otra pieza K y la atornillamos como la prime
 
 .. figure:: /imagenes/mi3/ensamblado/nmi272.JPG
 
-
-
-
-
-
-
-
 ENSAMBLE DE MÓDULO
 -------------------
 
@@ -1074,15 +1067,190 @@ conectamos los 6 pines como se muetsra en la imagen y al final haces la conexion
 
 por ultimo nos resta colocar las mallas expandibles para que cubran los cables y se vean mas presentables.
 
-.. figure:: /imagenes/mi3/ensamblado/nmi2235.JPG
+.. figure:: /imagenes/mi3/ensamblado/nmi235.JPG
 
 coloca un cintillo en cada punta de la malla expandible una vez que este colocada en los cables y listo has terminado el modulo.
 
 .. figure:: /imagenes/mi3/ensamblado/nmi236.JPG
 
+una vez que terminamos el modulo vamos a colocarlo en su lugar
 
+.. figure:: /imagenes/mi3/ensamblado/nmi273.JPG
 
+colca 2 tornillos M3x20mm con roondana en la parte inferior como se ve en la imagen
 
+.. figure:: /imagenes/mi3/ensamblado/nmi274.JPG
+
+enseguida colocamos el modulo, y apretamos los Tornillos
+
+.. figure:: /imagenes/mi3/ensamblado/nmi275.JPG
+
+ahora colcamos 2 tornillos M3x25mm con su rondana en los orificios superiores del modulo como se ve en la imegen y colocamos dos tuercas M3 de seguridad y apretamos.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi276.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi277.JPG
+
+listo ahora vamos a colocar el porta carrete, ocuparas lo siguiente
+
+* 1 varilla 5/16 x 15mm
+* 1 pieza plastica T
+* 1 pieza plastica U
+* 1 tornillo M3x40mm
+* 1 tuerca M3 normal.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi278.JPG
+
+el ensamble es muy simple coloca la varilla dentro del orificio de la pieza T hasta el tope y en la pieza U de igual manera.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi279.JPG
+
+despues colocaremos la tuerca como se aprecia en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi280.JPG
+
+lo montamos en el lado derecho debajo de la extrusora y colocamos el tornillo M3x40mm
+
+.. figure:: /imagenes/mi3/ensamblado/nmi281.JPG
+
+CONEXIONES FINALES
+-------------------
+
+Comenzamos con los cables de la resistencia de los dos conectores de 6 pines, puedes cortarlos mas pequeños si deseas.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi282.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi283.JPG
+
+ahora conectaremos el arnes de energia corta las dfos puntas hembras y vamos a juntar los cables por pares del mismo colores los descubrimos de la punta y con ayuda del cautin estañamos, no olvides guiarte con el diagrama.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi284.JPG
+
+en esta imagen unimos los dos cables del conector de 4 pines  que sellama CNC con los dos cables amarillos y los dos cables negros que estan aun lado.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi285.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi286.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi287.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi288.JPG
+
+enseguida colocamos la malla expandible a el cable de la cama caliente, coloca un cintillos en cada punrta de la malla.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi289.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi290.JPG
+
+ahora vamos a preparar los micros utilizaras los dos microswitches y un cable dupont de dos pines como el de la imagen
+
+.. figure:: /imagenes/mi3/ensamblado/nmi291.JPG
+
+primero corta el cable a 30cm  u unelo a un micro debes inir el cable rojo en el PIN del Micro N.C. y el cable Negro en el PIN C.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi292.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi293.JPG
+
+y con ayuda del cautin soldamos y colocamos un poco de termofit.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi294.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi295.JPG
+
+y con el cable que sobro une de la misma manera el segundo micro te quedara un micro con un cable largo y otro corto, coloca la malla expandible de 1/4 en los cables cierra las puntas con cintillos y listo te deberan quedar asi como en la imagen.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi296.JPG
+
+ahora con un cintillo vamos a colocar el micro del eje X que es el del cable corto observa como se coloca con el cintillo y su conexion
+
+.. figure:: /imagenes/mi3/ensamblado/nmi297.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi298.JPG
+
+ahora toma el micro del cable largo que corresponde la eje Y este lo colocaras en la pieza plastica frontal del lado derecho como se ve en las imagenes.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi299.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi300.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi301.JPG
+
+pasamos el cable del micro como se ve en la imagen
+
+.. figure:: /imagenes/mi3/ensamblado/nmi302.JPG
+
+y conectamos los dos micros en su lugar correcto siguinedo el diagrama o en la imagen se aprecia x es del lado derecho en -X y el eje Y en -Y
+
+.. figure:: /imagenes/mi3/ensamblado/nmi303.JPG
+
+ahora vamos a colocra los cables de los motores y con cintillos grandes y chicos los vamos a sujetar.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi304.JPG
+
+primero coloca dos cintillos grande en el cable del micro del eje Y
+
+.. figure:: /imagenes/mi3/ensamblado/nmi305.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi306.JPG
+
+ahora vamos a colocar un cable de motor chico en el motor del eje Y y sujeta tanto el cable de la fuente como el cable del motor
+
+.. figure:: /imagenes/mi3/ensamblado/nmi307.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi308.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi309.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi310.JPG
+
+Ahora colocaremos el cablemas largo en el motor del eje X y en seguida conecta los dos motores del eje Z con el cable conbinado y dos cables chicos de motor.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi311.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi312.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi313.JPG
+
+y asi nos quedo la conexion de los cables
+
+.. figure:: /imagenes/mi3/ensamblado/nmi314.JPG
+
+la sigueinte conexion es d ela pantalla, vamos a ocupara los cables cinta de la pantalla, te recomendamos que marques los cables como EXP1 y EXP2, para que puedas conectarlos correctamente, observa las imagenes
+
+.. figure:: /imagenes/mi3/ensamblado/nmi315.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi316.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi317.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi318.JPG
+
+ya para finalizar vamos a conectaremos el extrusor y los cables del módulo,para terminar.
+
+.. figure:: /imagenes/mi3/ensamblado/nmi319.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi320.JPG
+
+y seguimos colocando la cinta
+
+.. figure:: /imagenes/mi3/ensamblado/nmi321.JPG
+
+procura que la cinta no quede encimada una con otra
+
+.. figure:: /imagenes/mi3/ensamblado/nmi322.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi323.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi324.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi325.JPG
+
+conecta la fuente con el arnes d ela impresora y listo hemos terminado
+
+.. figure:: /imagenes/mi3/ensamblado/nmi326.JPG
+
+.. figure:: /imagenes/mi3/ensamblado/nmi327.JPG
 
 
 Unboxing
