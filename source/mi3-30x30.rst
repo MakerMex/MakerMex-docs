@@ -9,11 +9,11 @@ General
 Unboxing
 ===========
 
-Hola MakerAmigos vamos a mostrartles como deben desempacar su impresora
+Hola MakerAmigos vamos a mostrarles como deben desempacar su impresora.
 
 PASO 1
 
-Al resibir tu impresora debes de revisar que la caja este en buen estado que no tenga ningun golpe,ruptura o algun da?o, debe de verse como se muestra en las imagenes
+Al resibir tu impresora debes de revisar que la caja este en buen estado que no tenga ningun golpe,ruptura o algun daño, debe de verse como se muestra en las imagenes
 revisando la parte frontal,lateral,superior e inferior.
 
 .. figure:: /imagenes/mi330x30/mi331.JPG
