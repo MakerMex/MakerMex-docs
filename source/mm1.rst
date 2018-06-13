@@ -7,6 +7,204 @@ MANUAL DE USUARIO
 
 1 - DESEMPAQUE
 ----------------
+para iniciar con el desempaque de la impresora es importate revisar que la caja no contenga algun daño en su parte exterior, te invitamos que revise tu caja como se ve en las imagenes
+
+.. figure:: /imagenes/mm1/desempaque/des1.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des2.JPG
+
+en le siguiente paso vamos a utilizar un destornillador o un desarmador de cruz para retirar las pijas de la tapa superior observa las imagenes.
+
+.. figure:: /imagenes/mm1/desempaque/des3.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des4.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des5.JPG
+
+retira la tapa y veras que hay una tapa de unicel la retiramos y al abri la caja se vera la un infografico
+
+.. figure:: /imagenes/mm1/desempaque/des6.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des7.JPG
+
+saca todos los accesorios como se ve en la imagen
+
+.. figure:: /imagenes/mm1/desempaque/des8.JPG
+
+y en seguida sacaras la impresora MM1
+
+.. figure:: /imagenes/mm1/desempaque/des9.JPG
+
+una vez que la sacaste de su caja procemos a retirar el hule burbuja y el playo observa las imagenes.
+
+.. figure:: /imagenes/mm1/desempaque/des10.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des11.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des12.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des13.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des14.JPG
+
+bien haste este punto vamos retirar los cintillos de seguridad que lleva en las varillas y perfiles superiores
+
+.. figure:: /imagenes/mm1/desempaque/des15.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des16.JPG
+
+para cortar los cintillos te puedes apoyar con unas pinzas de corte, observa bien las images para que identifiques donde estan los cintillos de segurida y no olvides hacerlo con mucho cuidado
+
+.. figure:: /imagenes/mm1/desempaque/des17.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des18.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des19.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des20.JPG
+
+en el sieguiente paso subimos el eje Z para retirar el unicel morado.
+
+.. figure:: /imagenes/mm1/desempaque/des21.JPG
+
+tomamos los 3 cables del modulo y los pasamos por encima del perfil superior izquierdo.
+
+.. figure:: /imagenes/mm1/desempaque/des22.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des23.JPG
+
+en este paso es importate recalacar que el modulo de impresion tiene 1 conector macho de 6 pines que va en el aparatdo 1 el conector de 2 pines va en el apartado del ventilador y el conector de 3 pines va en el aparto de Z, observa las imagenes.
+
+.. figure:: /imagenes/mm1/desempaque/des24.JPG
+
+en la siguinete imagen se muestra donde va la memoria SD
+
+.. figure:: /imagenes/mm1/desempaque/des25.JPG
+
+enseguida tomamos la caja de carton y vamos a colocra la extrusora
+
+.. figure:: /imagenes/mm1/desempaque/des26.JPG
+
+retiramos los tornillos de la extrusora y los vamos a colocra sobre el perfil que se muestra en la imagen monta la extrusora, aprieta los tornillos con una llave allen.
+
+.. figure:: /imagenes/mm1/desempaque/des27.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des28.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des29.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des30.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des31.JPG
+
+vamos a revisar los accesorios que van en la caja de plastico
+
+.. figure:: /imagenes/mm1/desempaque/des32.JPG
+
+cada impresora incluye lo siguiente
+
+* A guia de cables
+
+* B cable miniusb a USB
+
+* C cable de motor para extrusora
+
+* D cable de alimentacion
+
+* E llave española para boquilla
+
+* F juego de 3 thermoresistores
+
+* G llave allen de 1.5 mm y opresores
+
+* H lector sd
+
+* I  juego de 6 calzas antiderrapantes
+
+* J desarmador de ceramica
+
+* K placa de aluminio
+
+* L micro para eje Z
+
+.. figure:: /imagenes/mm1/desempaque/des33.JPG
+
+en las siguiente iamgen te mostramos todos los accesoriso que son refacciones
+
+.. figure:: /imagenes/mm1/desempaque/des34.JPG
+
+ bien continuemos con la conexion del cable de motor de la extrusora, se conecta primero el motor como se ve n la imagen, y despues se conecta en la parte inferior.
+
+.. figure:: /imagenes/mm1/desempaque/des35.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des36.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des37.JPG
+
+ahora mostramos como se conecta el cable de alimentacion
+
+.. figure:: /imagenes/mm1/desempaque/des38.JPG
+
+ahora vemos comos e conecta el cable miniusb
+
+.. figure:: /imagenes/mm1/desempaque/des39.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des40.JPG
+
+en esta parte veremos como conectar el micro del eje Z pero este accesorio solo se conecta cuando se utiliza el modulo CNC o en caso de emergencia si el sensor inductivo del modulo falla
+
+.. figure:: /imagenes/mm1/desempaque/des41.JPG
+
+bien retira el tornillo que tiene y observa la poscion en que debe de ir
+
+.. figure:: /imagenes/mm1/desempaque/des42.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des43.JPG
+
+y se conecta en el apartado que dice Z
+
+.. figure:: /imagenes/mm1/desempaque/des44.JPG
+
+y por ultimo colocas el tornillo y su tuerca
+
+.. figure:: /imagenes/mm1/desempaque/des45.JPG
+
+ahora te mostramos en que parte puedes colocar las calzas antiderrapantes en la parte inferior de la impresora
+
+.. figure:: /imagenes/mm1/desempaque/des46.JPG
+
+continuamos con la colocacion de la guia de cables primero debes de cortar el material de soporte nosotros lo retiramos conn unas pinzas de corte o con un cutter pero con mucho cuidado, despues se coloca sobre el perfil que se ve en la imagen colocas los cables y listo
+
+.. figure:: /imagenes/mm1/desempaque/des47.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des48.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des49.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des50.JPG
+
+en seguida puedes colocar el tubo bowden dwwntro del conector como se ve en la iamgen
+
+.. figure:: /imagenes/mm1/desempaque/des51.JPG
+
+ahora veras como colocar la varilla portacarrete, la retiras de su empaque y la colocas sobre las piezas plasticas que tiene una ranura observa como
+
+.. figure:: /imagenes/mm1/desempaque/des52.JPG
+
+.. figure:: /imagenes/mm1/desempaque/des53.JPG
+
+ya por ultimo te mostramos la mustra gratis de filamneto y los cables de regalo, estos cables pueden servirte en un mantenimiento o como refaccion
+
+.. figure:: /imagenes/mm1/desempaque/des54.JPG
+
+antes de continuar con la impresora te invitamos a que revises la informacion del este infografico sera de mucha ayuda.
+
+.. figure:: /imagenes/mm1/desempaque/des55.JPG
+
+y listo asi se tendra que ver tu impresora ya desempacada
+
+.. figure:: /imagenes/mm1/desempaque/des57.JPG
+
 
 Conexiones de la impresora MM1 V1.5
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
