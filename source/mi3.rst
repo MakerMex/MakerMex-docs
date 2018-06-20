@@ -1256,8 +1256,765 @@ conecta la fuente con el arnes d ela impresora y listo hemos terminado
 -------------------
 
 
+
+Descarga de Software
+^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. figure:: /imagenes/mi3/2020/general/cu.png
+             :width: 150px
+
+
+te dejamos el link donde lo puedes descargar y te recomendamos la version 14.12
+
+
+https://ultimaker.com/en/products/cura-software/list
+
+
+.. figure:: /imagenes/mi3/2020/general/pronterface.png
+             :width: 150px
+
+
+te dejamos el link donde lo puedes descargar
+
+
+http://koti.kapsi.fi/~kliment/printrun/
+
+
+.. figure:: /imagenes/mi3/2020/general/Blender_logo.png
+             :width: 150px
+
+
+te dejamos el link donde lo puedes descargar
+
+
+https://www.blender.org/download/
+
+
+instalar cura y sus parámetros
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Vamos a instalar cura y sus parámetros  para la Mi3
+
+vamos a descargar cura les recomiendo mucho que descarguen la versión 14.12, una vez descargado el software vamos instalar una
+plataforma para poder usar con nuestra impresora Mi3.
+
+
+Paso 1
+
+
+cuando estés en esta ventana da clic en next
+
+
+.. figure:: /imagenes/mi3/2020/cura/cui2.png
+
+
+paso 2
+
+
+te aparecerá una ventana nueva, selecciona la casilla de OTHER  y da clic en next
+
+
+.. figure:: /imagenes/mi3/2020/cura/cui3.png
+
+
+paso 3
+
+
+te aparcera esta ventana selecciona Custom y da clic en next
+
+
+.. figure:: /imagenes/mi3/2020/cura/cui4.png
+
+
+Paso 4
+
+
+una vez que ya hayas llegado hasta esta ventana, coloca la información como se muestra en cada una de las casillas, una vez que hayas
+colocado la información da clic en FINISH
+
+
+.. figure:: /imagenes/mi3/2020/cura/cui5.png
+
+
+paso 5
+
+
+coloca todos los parámetros de Basic,Advanced  y star/endgcode  como se muestra en las imágenes
+
+
+BASIC
+
+.. figure:: /imagenes/mi3/2020/cura/cui6.png
+
+
+ADVANCED
+
+
+.. figure:: /imagenes/mi3/2020/cura/cui7.png
+
+
+.. Note::
+   observa bien la imagen de START, vamos a borrar el numero 3 que aparece en automático y colocar  8 como se muestra en la imagen.
+
+
+.. figure:: /imagenes/mi3/2020/cura/cui8.png
+
+
+
+.. Note::
+   en la parte de END vamos a comentar el código G90 es muy sencillo solo tienes que escribir un punto y coma antes d la G como se ve
+   en la imagen para hacerlo utilizas shift+coma de tu teclado. O puedes copiar y pegar el punto y como de la parte de abajo de G90
+
+
+
+.. figure:: /imagenes/mi3/2020/cura/cui9.png
+
+
+
+
+A continuación se muestran impresiones de pantalla de los parámetros con los que realizamos nuestras piezas en MakerMex, y más
+adelante una explicación de cada parámetro, y como este puede variar.
+
+
+ BASIC.
+
+
+ QUALITY.
+
+
+* Layer Height. Se refiere a la altura que tiene cada capa. Es un ajuste importante para determinar la calidad de la pieza.
+  Un buen   parámetro en relación de calidad/tiempo es 2.0, es lo que nosotros recomendamos y utilizamos en nuestras piezas.
+  El parámetro      máximo recomendado es 0.1 mm, aunque el tiempo de impresión se eleva al doble.
+
+* Shell Thickness. Es el grosor de la capa externa en dirección horizontal, es decir, se incrementar para realizar piezas con un
+  cascarón más resistente en su exterior. Se recomienda dejar los valores predefinidos (0.6 mm) y hasta 1 mm. Este parámetro también
+  puede variar según el material con el que se imprime, ya que ciertos materiales requieren sus propios parámetros de impresión.
+
+* Enable Retraction. Se recomienda ampliamente marcar esta casilla. Este ajuste retrae el filamento, es decir, gira los engranes en
+  sentido contrario cuando la boquilla se mueve sobre una superficie que no requiere impresión. Esto previene de hilos y rebaba
+  excesiva en la pieza final. En ajustes avanzados ajustaremos los parámetros de la retracción.
+
+FILL.
+
+* Bottom/Top Thickness. Ajusta el grosor de la base y el tope del modelo. Debe ser un valor cercano al Shell Thinckess para que se
+  forme una pieza fuerte uniforme en el exterior. Se recomienda dejar los valores predefinidos: 0.6 mm, 0.8 mm y hasta 1 mm.
+
+* Fill Density: Este parámetro es importante para el producto final. Controla el relleno que tendrá la pieza, lo que definirá que tan
+  fuerte resulta. Para piezas visuales sin requerimientos de esfuerzo mecánico se puede probar desde 5% o 10% de relleno; para piezas
+  mecánicas o que requieren mas resistencia se recomienda entre 20% a 40%, aunque pudiera usarse hasta 60% como máximo recomendado. No
+  se recomienda más del 60% ya que sería mucho desperdicio de material y de tiempo de impresión. Es importante recalcar que esto no
+  afecta en nada la calidad externa del modelo. Para un punto de referencia: 40% manejan nuestras piezas que reciben uso mecánico.
+
+ SPEED AND TEMPERATURE.
+
+* Print Speed. Es la velocidad de impresión. Esta velocidad va a depender de varios factores, como calidad y tiempo. 50/60 mm/s es la
+  velocidad que utilizamos y recomendamos. Se puede reducir para obtener una mayor calidad de impresión, aunque a mayor tiempo. De
+  igual forma se puede aumentar si se busca optimizar tiempo, y la resolución no resulta de mucha importancia.
+
+
+* Printing Temperature. Es la temperatura a la que se extruye el material. La temperatura depende en gran medida del material a
+  utilizar. Los principales son: o PLA. 190°C-210°C según el color del filamento, temperatura ambiente, etc. Ej. El color negor se
+  imprime a menor temperatura. Un parámetro promedio recomendado es 207°C. o ABS. 220°C-230°C Al igual que el PLA, algunos factores
+  influyen. Un parámetro recomendado para ABS es 220°C.
+
+
+* Bed Temperature. Esta opción sólo aparece en caso de utilizar cama caliente, y haberla activado a la hora de configurar el Cura.
+  Es la temperatura a la que se calentará la cama caliente. Es necesario revisar las especificaciones de impresión de cada material
+  para definir esta temperatura. En el caso de ABS la temperatura de cama caliente es entre 90-100 °C.
+
+SUPPORT.
+
+* Support Type. Se especifica la estructura en la que se construirá el soporte. Estas estructuras son: o None: No deposita material
+  de soporte en absoluto. o Touching Buildplate: Deposita material de soporte únicamente en los volados que lo requieran a partir de la
+  plataforma de impresión. o Everywhere: Además del "Touching Buildplate", también depositará material incluso sobre las partes del
+  modelo impreso, en caso de tener volados que lo requieran.
+
+* Platform Adhesion Type. Las plataformas de adhesión, son una capa primaria que crean un perímetro del área de impresión de la
+  pieza y facilitan el despegue de ésta. Además funcionan como prevención de que las esquinas se levanten debido al fenómeno "Warping"
+  (Contracción al enfriarse el material extruido). Se recomienda el uso de Raft.
+
+
+FILAMENT.
+
+
+* Diameter. Se refiere al diámetro del filamento que se utilizará como materia prima. Como medidas estándar se manejan 2: 1.75 mm y
+  3.0 mm. Las impresoras MakerMex comúnmente se manejan con material de 3.0 mm.
+
+
+* Flow. Se deja el valor predefinido: 100.0 %.
+
+
+ADVANCED.
+
+MACHINE.
+
+* Nozzle Size. Se refiere al diámetro de la boquilla extrusora. Las dimensión de las boquillas utilizadas en las impresoras MakerMex
+  es comúnmente 0.4 mm. Es importante ajustar el valor correcto, ya que sirve para determinar las líneas de relleno, así como las
+  líneas de grosor en la parte externa de la pieza.
+
+ RETRACTION.
+
+* Speed. Es la velocidad a la que se hace la retracción de filamento.
+
+
+* Distance. Es la distancia que se retraerá el filamento. Ajusta en 0 si quieres ignorar este parámetro.
+
+
+ QUALITY.
+
+
+* Initial Layer Thickness. Ajusta el grosor de la primera capa de la pieza. Una capa inicial más gruesa permite una mejor adherencia
+  a la plataforma. Ajusta en 0 para ignorar este parámetro y la capa inicial tenga el mismo grosor que las demás capas.
+
+
+
+Cut Off Object Bottom. Sumerge el objeto en la plataforma a la distancia que se le indique. Esto funciona para objetos que tengan
+errores en el diseño y/o no tengan una cara plana en la base.
+
+* Dual Extrusion Overlap. Añade una cantidad de material sobrepuesta en las impresiones que se hagan con doble extrusora, esto con el
+  fin de unir los diferentes colores o materiales en una sola pieza.
+
+
+SPEED.
+
+* Travel Speed. Es la velocidad a la que se mueve la extrusora cuando no está depositando material. El valor predefinido es muy
+  recomendable.
+
+* Bottom Layer Speed. Esto controla la velocidad a la que se hace la primera capa. al imprimirse más despacio, se adhiere de mejor
+  forma sobre la superficie. El valor predefinido es muy recomendable.
+
+
+* Infill Speed. Es la velocidad a la que se imprime el relleno de la pieza. Se recomienda situar este valor en 0, con esto el relleno
+  se deposita a la misma velocidad predefinida en "Print speed".
+
+
+* Outer Shell Speed. Controla la velocidad a la que se imprimen la capa exterior de la pieza. Imprimir esta parte a una menor
+  velocidad, mejorará el resultado final en cuanto resolución. Al situar este valor en 0, la velocidad a la que se hace es la misma
+  que se definió en "Print speed", esto genera buenos resultados.
+
+* Inner Shell speed. Controla la velocidad a la que se imprimen la capa interna de la pieza. Al situar este valor en 0, la velocidad
+  a la que se hace es la misma que se definió en "Print speed". Es importante que este parámetro y el “Outter Shell Speed” no tengan un
+  amplio rango de diferencia.
+
+
+COOL.
+
+* Minimal Layer Time. Es el tiempo mínimo que tardará en realizarse una capa, sin importar que la dimensión de ésta sea muy pequeño.
+  Esto permitirá que se enfríe lo suficiente antes de depositar la siguiente capa. El parámetro predefinido (5 seg.) funciona de gran
+  forma.
+
+* Enable Cooling Fan. A menos que el material que se está imprimiendo, es importante que esta casilla se encuentre marcada
+  permanentemente, ya que activa la ventilación durante la impresión.
+
+Es importante recalcar que los parámetros que nosotros especificamos en este documento pueden servir como base, pero cada usuario
+debe experimentar y definir los parámetros que mejor le acomoden a lo que busca en sus piezas, por lo que los exhortamos a realizar
+sus propias impresiones y buscar los valores perfectos para sus modelos. De igual forma hacer notar que cada nueva versión del
+software Cura normalmente contiene nuevos parámetros, por lo que es importante revisar dichos parámetros, y su función, aunado a que
+los parámetros mostrados en este documento son los más importantes.
+
+
+Como usar Cura
+^^^^^^^^^^^^^^^^
+
+
+En este manual aprenderás a usar cura u saber que es lo que hace cada una de sus herramientas,es importante seguir los pasos que mencionamos en este manual.
+
+
+Para comenzar debes saber que puedes imprimir usando  el cable USB o una tarjeta SD.
+En el caso de la SD, podemos mandar a imprimir de dos maneras con un auto0.g o seleccionando el código que hayamos guardado en la tarjeta SD.
+
+
+Para el cable USB es importante que lo conectes a tu impresora y después a la computadora y después enciendas la impresora, después abres cura y manadas a imprimir como se muestra en este manual.
+
+
+El auto0.g se utiliza para imprimir cuando no se cuenta con una pantalla LCD y solo se cuenta con el lector micro SD o lector SD  según sea el caso. Este comando es el re-nombramiento del código G que hayamos realizado en cura es decir: gurdas un código G en la tarjeta para imprimirlo, pero como no tienes pantalla LCD pero tu impresora tiene un lector SD o micro SD, pues no te preocupes solo tienes que renombrar tu código G como auto0.g
+
+ejemplo cubo.gcode cambias el nombre a auto0.g
+
+
+Y  listo cierras tu carpeta de la memoria, sacas tu tarjeta micro SD o SD de la computadora  la insertas en el lector de tu impresora y ella comenzara a leer el código para imprimirlo.
+Cuando se hace uso de esta opción para imprimir es de suma importancia que estés enterado que solo podrás imprimir este código cada vez que des un reset a la impresora o apagues y enciendas la impresora puedes tener los códigos que quieras almacenados en la tarjeta, pero deberás renombrar el código que quieras imprimir. Importante solo se usa cundo no tienes pantalla LCD
+
+
+En el caso de tener pantalla LCD solo es necesario gradar bien el código G en la tarjeta SD o micro SD, y retirar la tarjeta de la computadora introducirla en la pantalla o bien en el caso de la MM1 colocarla en su lugar. Después encender la impresora e irnos al menú de nuestra pantalla dando un clic en la perilla, giramos para posicionarnos en la opción de Print  From SD, das un clic y se abrirá la carpeta de la tarjeta en donde puedes seleccionar el código G que desees imprimir.
+Cuando se cuenta con la pantalla LCD puedes guardar todos los códigos G que quieras en tu tarjeta y solo el que tu selecciones desde la pantalla LCD se va a imprimir.
+
+
+¿ Que es un Código G?
+Un código G es una serie de coordenadas en X,Y,Z que realiza la impresora para realizar una pieza física, al mismo tiempo indica cuanto material debe de inyectar y donde debe de hacerlo.
+
+
+El código G se realiza a partir de un modelo 3D hecho en un software de modelado 3D, este modelo se coloca en un software como Cura que trasforma el modelo 3D en coordenadas.
+Hay gran variedad de software que trasforman los modelos 3D en coordenadas, al igual que los Software de modelado.
+
+
+Para que el software cura realice el código G bien, necesita que el modelo 3D sea exportado como .STL u .OBJ, así que amigos recuerden exportar sus archivos de esta manera .
+
+
+¿Como utilizo cura ?
+
+
+Para que te sientas mas cómodo al usar este nuevo programa te recomendamos utilizar un Mouse
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi1.png
+
+
+*  1 clic izquierdo
+
+
+*  2 clic derecho
+
+
+*  3 scroll o la bolita del mouse (solo hace el zoom si giras lo giras)
+
+
+el clic izquierdo sirve obvio para seleccionar, abrir ventanas posicionar el cursor etc. Pero en cura sirve para mover los STL en la plataforma. Para realizar esto lo hacemos dando clic izquierdo sobre la pieza y sosteniéndolo movemos nuestro mouse y la pieza se moverá.
+Y al soltar el clic se queda en la posición donde soltamos el clic.
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi2.png
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi3.png
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi4.png
+
+
+El clic derecho sirve para dos cosas mover la plataforma azul en 360° por cualquier dirección, para abrir un menú.
+Como mover la plataforma en 360° das clic sobre la plataforma azul y sostienes el clic y al mismo tiempo mueves el mouse en cualquier dirección y veras como gira la pantalla azul.
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi5.png
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi6.png
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi7.png
+
+
+Para abrir el menú das clic derecho sobre el STL y se abrirá una ventanilla como esta
+
+ y te da opciones como ves en esta ventana puedes centrar la pieza si la moviste, puedes borrar el STL para poder colocar otro,puedes multiplicar el stl para imprimir varias piezas a la ves,separar el stl, si tienes varias piezas las puedes borrar todas.
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi8.png
+
+
+
+En cura tenemos varias herramientas te las mostramos
+
+
+1
+
+
+al seleccionar el STL con clic izquierdo se pone un contorno blanco al rededor de la pieza, y aparecen tres iconos en la parte inferir el primero es rotar
+nos permite acomodar la pieza para una mejor impresión, ya que en ocasiones las piezas pueden cargarse acostadas con esta herramienta la podemos levantar como se ve en las imágenes.
+Animate y revisa que hace cada una de ellas.
+Para mover los aros de colores das clic izquierdo sostenido sobre el aro que selecciones y mueve el mouse como tu desees
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi9.png
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi10.png
+
+
+2
+
+
+en la segunda opción manipulas la escala. 1 a 1 y te la da en mm también.
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi11.png
+
+
+3
+
+
+En la tercera opción te la herramienta de espejear tu pieza si lo deseas.
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi12.png
+
+
+También tenemos diferente tipo de vistas
+
+
+vista normal
+
+
+es la que se muestra desde un principio, cuando cargamos nuestro STL color amarillo.
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi13.png
+
+
+vista de ángulos menores a 45 grados
+
+
+esta vista nos permite revisar que no haya ángulos que se vayan a desplomar al momento de estar imprimiendo si los hubiese podemos colocar material de soporte.
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi14.png
+
+
+Vista trasparente
+
+
+esta vista nos ayuda a ver dentro de nuestro archivo STL par revisar que este bien es decir que no tenga ningún algún agujero o este mal modelado o que se haya exportado con otra pieza al interior.
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi15.png
+
+
+Vista rayos X
+
+
+Esta vista es muy similar a la vista de trasparente solo que es mas potente, revisa que la maya con que esta hecha el STL este bien cerrada. Si tuviera un error la pieza se marca en color Rojo.
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi16.png
+
+
+Vista de capas
+
+
+esta vista nos muestra gráficamente como se realizara el código G en nuestra impresora es decir nos muestra los pasos que dará la impresora la momento de estar imprimiendo la pieza capa por capa.
+Esta herramienta tien una barra que puedes subir y ajar par ver estas capas.
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi17.png
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi18.png
+
+
+Listo vamos a realizar nuestro primer código G para imprimirlo en nuestra  impresora
+
+
+paso 1
+
+
+damos clic en el icono de cargar para poder buscar nuestro STL y darle abrir para que se cargue a cura, veamos la imagen.
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi19.png
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi20.png
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi21.png
+
+
+Paso 2
+
+ ya que colocamos los parámetros del manual anterior solo vamos a introducir nuestra tarjeta SD a la computadora y cuando el icono de guardar cambie a la tarjeta SD se le da clic sobre el y se guardara el código en automático una vez que este guardado el código te aparecerá una leyenda en la parte inferir de la pantalla que te indica que ya puedes retirar tu tarjeta de la computadora.
+
+
+.. figure:: /imagenes/mi3/2020/primeraimpresion/pi22.png
+
+
+
+
+Listo Amigo ya tienes listo tu primer código G, ahora vas a retirar la tarjeta SD, y la vas a colocar en la pantalla de tu impresora. La enciendes y sigues las instrucciones que te indique al principio no te acuerdas te las paso otra vez
+
+
+da clic en la perilla elige la opción de print from SD y da clic, después elige tu código G y cuando des clic en la perilla la impresora comenzara a calentar la boquilla o la cama caliente gracias a los parámetros que colocaste en el manual anterior, y cundo llegue a la temperatura que le hayas colocado comenzara a imprimir.
+
+Después de guardar tu código G en la tarjeta para poder comenzar a imprimir debes de realizar estos pasos
+
+
+paso 1
+
+
+enciende la impresora, introduce tu tarjeta SD en la pantalla,y da un clic en la perilla te abrirá un menú, gira la perilla y selecciona print from sd y da clic, te abrirá el contenido de la tarjeta SD, girando la perilla, puedes buscar el código que deseas imprimir y cuando lo tengas seleccionado da clic y así comenzara a calentar la boquilla y si seleccionaste cama caliente también.
+
+
+.. figure:: /imagenes/mi3/2020/general/imi1.jpg
+
+
+.. figure:: /imagenes/mi3/2020/general/imi2.jpg
+
+
+.. figure:: /imagenes/mi3/2020/general/imi3.jpg
+
+
+.. figure:: /imagenes/mi3/2020/general/imi4.jpg
+
+
+Una vez que la temperatura haya subido, la impresora comenzara a imprimir y se va a dirigir hacia el centro la impresora debe de imprimir bien y recuerda la boquilla nunca debe de chocar con la cama nunca.
+
+
+.. figure:: /imagenes/mi3/2020/general/imi5.jpg
+
+
+Paso 2
+
+
+Ya que ha terminado de imprimir, para retirar la pieza podemos apoyarnos con una espátula, la colocamos por una esquina y hacemos un poco de presión para que se levante la pieza, observa bien la imagen como se coloca la espátula, no se empuja se hace una palanca para poder retirar la pieza.
+
+
+.. figure:: /imagenes/mi3/2020/general/imi6.jpg
+
+
+.. figure:: /imagenes/mi3/2020/general/imi7.jpg
+
+
+Como colocar el filamento.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Coloquemos el filamento en la impresora Mi3
+
+primero vamos a colocar nuestro porta carrete, en nuestro perfil vertical izquierdo, debajo del direct drive encontraremos una perforación ahí vamos a colocar nuestro porta carrete, y lo vamos a fijar con un tornillo M3x35mm y una tuerca normal.
+Veamos las imágenes.
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi1.jpg
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi2.jpg
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi3.jpg
+
+
+Ya que esta colocado el porta carrete, y fijo al perfil, vamos a colocar nuestro filamento que vamos a utilizar, los siguientes pasos que vamos a realizar son para colocar el filamento, por primera vez y para cambiarlo en caso de ser necesario.
+
+
+Paso 1
+
+
+vamos a  sacarle punta al filamento con nuestras pinzas de corte o con un sacapuntas de metal esto nos ayudara a que  el filamento sea conducido hasta el fondo de la boquilla
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi4.jpg
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi5.jpg
+
+
+paso 2
+
+
+introduce el filamento en el orificio del brazo del direct drive  como se muestra en la imagen 1, después   flexiona el brazo hacia arriba y direcciona  el filamento empujándolo para que entre en la parte inferior del conector y así sea dirigido al tubo bowden, imagen 2
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi6.jpg
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi7.jpg
+
+
+te recomendamos que empujes el filamento, hasta que este cerca de entrar a la boquilla, el tubo es color blanco y es un poco traslucido se puede apreciar donde esta el filamento, como se ve en la siguiente imagen.
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi8.jpg
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi9.jpg
+
+
+Paso 3
+
+
+ coloca el carrete de filamento es su lugar observa como en la siguiente imagen.
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi10.jpg
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi11.jpg
+
+
+Paso 4
+
+
+enciende la impresora , veras que encendió la pantalla en ella da un clic a la perilla, y te abrirá el menú gira la perilla y selecciona control y da clic, te abrirá un nuevo menú, ahora vuelve a girar la perilla y selecciona temperature y da clic, te abrirá un nuevo menú gira la perilla y selecciona nozzle y da clic gira la perilla y coloca una temperatura apropiada para el material que vayas a colocar y ya que esta la cantidad das clic para comience a calentar la boquilla. veamos las imágenes
+
+
+.. Note::
+   Recordemos que el PLA comienza a ser maleable desde 180ºC hasta 215ºC  y  el ABS de 220ºC hasta 240ºC.
+   Temperatura sugerida para cambiar el filamento o colocarlo por primera vez.
+   PLA 206 ºC   ABS 228 ºC
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi12.jpg
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi13.jpg
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi14.jpg
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi15.jpg
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi16.jpg
+
+
+una vez que indicaste la temperatura la pantalla regresara de forma automática a la pantalla principal donde puedes ver que la temperatura esta subiendo y cunado llegue a la temperatura seguimos con el siguiente paso.
+
+
+Paso 5
+
+
+vamos a safar el tubo bowden del conector de la boquilla, para poder guiar el filamento hasta el interior de la boquilla,muy bien para retirar el tubo solo debes de presionar hacia abajo el aro plástico del  conector y jalar el tubo hacia arriba para que salga sin ningún problema.
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi17.jpg
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi18.jpg
+
+
+Ya que este fuera del conector empuja el filamento unos 5 cm mas y asegurate de que entre en el orificio de la boquilla, presiona hacia abajo el tubo y asegurate de que no se safe jalándolo hacia arriba .
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi19.jpg
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi20.jpg
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi21.jpg
+
+
+Y listo una vez que el material comienza a entrar en la boquilla lo empujamos un poco mas y veras que sale un filamento delgado por la boquilla esto quiere decir que el filamento esta bien colocado.
+
+
+.. figure:: /imagenes/mi3/2020/filamento/fi22.jpg
+
+
+Una vez que el filamento ya esta colocado correctamente se apaga la impresora y se enciende nuevamente, esperamos a que la temperatura de la boquilla baje, y una vez que haya bajado, apagamos la impresora  esto nos ayudara  a que la boquilla no se tape .
+
+
+El filamento que coloquemos puede leudarse colocado todo el tiempo hasta que se termine.
+
+
+Si deseamos cambiar de material o de color de filamento, tienes que repetir los pasos de calentar la boquilla y ahora en lugar de empujar el filamento lo tenemos que sacar para realizar el cambio, recuerda esto siempre debes de calentar la boquilla para realizar esta acción.
+
+
+Una vez que el material esta cargado ya esta lista la impresora para imprimir.
+
+
+
+
 4 - MANTENIMIENTO
 -----------------------
+
+calibración de impresora
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Calibremos nuestra impresora Mi3
+
+Lo importante de este proceso es dejar la boquilla ligeramente separada de la plataforma de impresión, y que el eje X quede bien nivelado.
+
+
+Lo importante de tener una buena calibración, es que podemos mandar a imprimir y asegurar que la boquilla cuando llegue al centro no raspara con la cama ya que si lo hace podemos dañar nuestra impresora.
+Ademas el tener tu impresora calibrada te ayuda que tu pieza tenga mejor presentación, desde que comience a imprimir la base. Uniforme y firme.
+
+
+Paso 1
+
+
+debemos alinear el eje X, tomamos un Flexómetro y y medimos haya una misma distancia entre el motor del eje Z y la pieza que sostiene las varillas del eje X, pueden tomar colocar cualquier distancia, lo importante es que en cada lado sea la misma distancia veamos con atención las imágenes.
+
+
+.. figure:: /imagenes/mi3/2020/calibracion/cai1.jpg
+
+
+.. figure:: /imagenes/mi3/2020/calibracion/cai2.jpg
+
+
+Paso 2
+
+
+Mandar un auto-home, esta indicación la vamos a realizar desde la pantalla.
+Enciendes la impresora, Das clic en la perilla de la impresora, y veras que cambia la pantalla, gira la perilla y selecciona prepare y da clic te abrirá una pantalla nueva y aparecerá un menú, gira la perilla y selecciona auto-home y da clic.
+
+
+Enseguida de dar clic veras que la impresora se mueve. La boquilla deberá quedar como se muestra en  la imagen 3.
+
+
+.. figure:: /imagenes/mi3/2020/calibracion/cai3.jpg
+
+
+.. figure:: /imagenes/mi3/2020/calibracion/cai4.jpg
+
+
+.. figure:: /imagenes/mi3/2020/calibracion/cai5.jpg
+
+
+paso 3
+
+
+si su boquilla queda muy alta o separada de la cama de impresión necesitamos aflojar el sensor inductivo y girarlo ajustando su altura, para que la boquilla baje mas es importante que el sensor lo giremos como si lo fueras a sacar para que pueda bajar la boquilla mas.
+
+
+.. Note::
+   la boquilla nunca debe de chocar con la cama debe de quedar ligeramente separada
+
+
+Entonces con unas pinzas mecánicas aflojamos la tuerca inferior del sensor inductivo.
+Y lo ajustamos ya sea hacia arriba o hacia abajo.
+
+
+.. figure:: /imagenes/mi3/2020/calibracion/cai6.jpg
+
+La boquilla debe de quedar separada de la cama mas o menos el grosor de una tarjeta de presentación.
+
+
+Ya que se ajusto el sensor repetimos la operación de mandar auto-home para revisar la distancia con la tarjeta
+
+
+Paso 4
+Ya que ha quedado a esa separación  vamos a volver a dar clic en la perilla de la pantalla, seleccionamos prepare y das clic, aparcera el siguiente menú ahora seleccionamos disable steppers para poder mover los ejes X,Y con las manos.
+
+
+.. figure:: /imagenes/mi3/2020/calibracion/cai7.jpg
+
+
+Paso 5 ahora vamos a comenzar a mover la plataforma de impresión hacia atrás y con una llave allen de 2 mm y unas pinzas mecánicas aflojamos o apretamos el tornillo con el resorte de cada esquina según sea el caso, para poder pasar la tarjeta de presentación entre la cama y la boquilla
+
+
+.. figure:: /imagenes/mi3/2020/calibracion/cai8.jpg
+
+
+.. figure:: /imagenes/mi3/2020/calibracion/cai9.jpg
+
+
+y así sucesivamente vamos a mover el eje X o el eje Y para poder revisar que en cada esquina  tenga la misma separación como se ve en las imágenes.
+
+
+.. figure:: /imagenes/mi3/2020/calibracion/cai10.jpg
+
+
+.. figure:: /imagenes/mi3/2020/calibracion/cai11.jpg
+
+
+.. figure:: /imagenes/mi3/2020/calibracion/cai12.jpg
+
+
+.. figure:: /imagenes/mi3/2020/calibracion/cai13.jpg
+
+
+.. figure:: /imagenes/mi3/2020/calibracion/cai14.jpg
+
+
+Paso 6
+una vez que ajustamos cada esquina, para que haya una separación del grosor de una tarjeta de presentación, volvemos a dar un autohome y revisamos que la boquilla haya quedado ligeramente separada.
+
+
+Y listo podemos comenzar a realizar una impresión.
+
+
+.. figure:: /imagenes/mi3/2020/calibracion/cai15.jpg
 
 
 5 - PROBLEMAS FRECUENTES
