@@ -209,8 +209,7 @@ y listo asi se tendra que ver tu impresora ya desempacada
 Conexiones de la impresora MM1 V1.5
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-En este punto podemos observar como se debe conectar correctamente nuestra impresora 3D,
-es muy importante que llevemos acabo las indicaciones.
+En este punto podemos observar como se debe conectar correctamente nuestra impresora 3D,es muy importante que llevemos acabo las indicaciones.
 
 Primero tenemos que identificar nuestros conectores.
 
@@ -233,8 +232,7 @@ Primero tenemos que identificar nuestros conectores.
 
 Conexión del modulo sencillo.
 
-Para poder imprimir con modulo sencillo(modulo que viene de fabrica), es
-necesario conectarlo de esta forma.
+Para poder imprimir con modulo sencillo(modulo que viene de fabrica), es necesario conectarlo de esta forma.
 
 .. Note::
     Cuando imprimimos con este modulo es muy importante tener conectado
@@ -242,7 +240,7 @@ necesario conectarlo de esta forma.
     la impresión (impresoras anteriores a la 198).
     A partir de la impresora con número de serie 198, el seguro de doble extrusor ya no es necesario ni se incluye en el equipo ni en ninguno de los     módulos, ya que se ha logrado incluir esta característica en el firmware de la tarjeta controladora; si el número de tu equipo es anterior al mencionado y deseas actualizar el firmware, puedes ponerte en contacto con el equipo de soporte a traves de nuestro `foro <http://makermex.com/forum>`_ .
 
-      .. figure:: /imagenes/mm1/general/mm5.png
+.. figure:: /imagenes/mm1/general/mm5.png
 
 
 2 - COMPONENTES
@@ -347,24 +345,17 @@ necesario conectarlo de esta forma.
 Primera impresion
 ^^^^^^^^^^^^^^^^^^
 
-Para realizar tu primera impresión antes que nada es necesario descargar un
-software de diseño donde te genere un archivo STL, nosotros recomendamos
-Blender.
+Para realizar tu primera impresión antes que nada es necesario descargar un software de diseño donde te genere un archivo STL, nosotros recomendamos Blender.
 
 ̈́¿Que es Blender?
 
-Blender es un software destinado especialmente al modelado 3D, iluminación, animación
-y creación de gráficos tridimensionales. este programa usa la técnica de procesado de nodos,
-edición de vídeos, escultura y pintura digital.
+Blender es un software destinado especialmente al modelado 3D, iluminación, animación y creación de gráficos tridimensionales. este programa usa la técnica de procesado de nodos, edición de vídeos, escultura y pintura digital.
 
 ¿Que es un archivo STL?
 
-Es un formato de archivo informático de diseño asistido por computadora (CAD)
-que define geometría de objetos 3D, excluyendo información como color,
-texturas o propiedades físicas que sí incluyen otros formatos CAD.
+Es un formato de archivo informático de diseño asistido por computadora (CAD) que define geometría de objetos 3D, excluyendo información como color,texturas o propiedades físicas que sí incluyen otros formatos CAD.
 
-Una vez teniendo tu diseño en formato STL debes pasar tu diseño a un software
-que te genere un código G y pueda ser leído por tu impresora.
+Una vez teniendo tu diseño en formato STL debes pasar tu diseño a un software que te genere un código G y pueda ser leído por tu impresora.
 
 El software CURA versión 15.01 es donde pasaras tu diseño. Cura es un software
 que nos va a permitir convertir los archivos STL que contienen nuestro diseño 3D
@@ -388,7 +379,7 @@ https://ultimaker.com/en/products/cura-software/list
 -Software pronterface
 
 .. figure:: /imagenes/mm1/general/pronterface.png
-             :width: 150px
+           :width: 150px
 
 te dejamos el link donde lo puedes descargar
 
@@ -397,7 +388,7 @@ http://koti.kapsi.fi/~kliment/printrun/
 -Software Blender
 
 .. figure:: /imagenes/mm1/general/Blender_logo.png
-             :width: 150px
+           :width: 150px
 
 te dejamos el link donde lo puedes descargar
 
@@ -425,6 +416,7 @@ Selecciona los archivos que deseas abrir y da clic en instalar. Se recomienda
 tener las opciones como se muestran en la imagen.
 
 .. figure:: /imagenes/mm1/cura/curm2.png
+
 .. figure:: /imagenes/mm1/cura/curm3.png
 
 Paso 3
@@ -433,6 +425,7 @@ Una vez que los archivos del software se instalen te aparecerá una ventana, sel
 siguiente y finalizar
 
 .. figure:: /imagenes/mm1/cura/curm4.png
+
 .. figure:: /imagenes/mm1/cura/curm5.png
 
 Paso 4
@@ -440,6 +433,7 @@ Paso 4
 Después te aparecerá esta ventana le das siguiente y terminar.
 
 .. figure:: /imagenes/mm1/cura/curm6.png
+
 .. figure:: /imagenes/mm1/cura/curm7.png
 
 Paso 5
@@ -511,6 +505,7 @@ En estas dos casillas se pueden seleccionar los tipos de material de soporte y
 de plataforma de adhesión
 
 .. figure:: /imagenes/mm1/cura/curm14.png
+
 .. figure:: /imagenes/mm1/cura/curm15.png
 
 Paso 10
@@ -525,10 +520,11 @@ de la retracción se puede utilizar :
     Por ultimo en end gcode
     vas copiar el punto y coma y lo colocaras antes de G90 para que se quede comentado este paso.
 
-    .. figure:: /imagenes/mm1/cura/curm17.png
-    .. figure:: /imagenes/mm1/cura/curm18.png
-    .. figure:: /imagenes/mm1/cura/curm19.png
+.. figure:: /imagenes/mm1/cura/curm17.png
 
+.. figure:: /imagenes/mm1/cura/curm18.png
+
+.. figure:: /imagenes/mm1/cura/curm19.png
 
 Uso de la pantalla
 ^^^^^^^^^^^^^^^^^^^^
@@ -555,8 +551,7 @@ esta puede ir desde:
 | -Un mensaje pre-programado                        |
 +---------------------------------------------------+
 
-La pantalla tiene una perilla multifuncional que puede girar y a su vez seleccionar
- los menús de la pantalla, para acceder a algún menú solo giras y oprimes la perilla.
+La pantalla tiene una perilla multifuncional que puede girar y a su vez seleccionar los menús de la pantalla, para acceder a algún menú solo giras y oprimes la perilla.
 
 .. figure:: /imagenes/mm1/pantalla/p1.png
 
@@ -597,6 +592,7 @@ por:
 +------------------+
 
 .. figure:: /imagenes/mm1/pantalla/p4.png
+
 .. figure:: /imagenes/mm1/pantalla/p5.png
 
 -Disable stepper
@@ -739,6 +735,7 @@ En TEMPERATURE encontraremos las siguientes opciones las cuales son las que nos
 interesan.
 
 .. figure:: /imagenes/mm1/pantalla/p17.png
+
 .. figure:: /imagenes/mm1/pantalla/p18.png
 
 1.- Al darle clic se activa, y girando la perilla podemos colocar una temperatura
@@ -805,22 +802,29 @@ esta suelto, cuando decimos la palabra modulo nos referimos a la parte donde se 
 la boquilla, para poder colocar se realiza de la siguiente manera, lo deberás colocar
 en la cruz, sujetarlo con el clip y conectar sus cables.
 
-                          .. figure:: /imagenes/mm1/primer/pri1.jpg
-                                    :width: 320px
-                          .. figure:: /imagenes/mm1/primer/pri2.jpg
-                                    :width: 320px
-                          .. figure:: /imagenes/mm1/primer/pri3.jpg
-                                    :width: 320px
-                          .. figure:: /imagenes/mm1/primer/pri4.jpg
-                                    :width: 320px
-                          .. figure:: /imagenes/mm1/primer/pri5.jpg
-                                    :width: 320px
-                          .. figure:: /imagenes/mm1/primer/pri6.jpg
-                                    :width: 320px
-                          .. figure:: /imagenes/mm1/primer/pri7.jpg
-                                    :width: 320px
-                          .. figure:: /imagenes/mm1/primer/pri8.jpg
-                                    :width: 320px
+.. figure:: /imagenes/mm1/primer/pri1.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri2.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri3.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri4.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri5.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri6.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri7.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri8.jpg
+          :width: 320px
 
 Paso 2
 
@@ -828,7 +832,7 @@ Después de haber coloca con éxito tu modulo ahora colocaremos el Tubo Bowden
 (es la pequeña manguera blanca) en el conector del sistema extrusor (es un aro de goma azul)
 , posteriormente sacaremos punta al filamento e introduciremos el filamento a la boquilla
 
-                          .. figure:: /imagenes/mm1/primer/pri9.jpg
+.. figure:: /imagenes/mm1/primer/pri9.jpg
 
 .. Note::
 
@@ -836,20 +840,26 @@ Después de haber coloca con éxito tu modulo ahora colocaremos el Tubo Bowden
   introducirlo en el tubo, lo hacemos de dos maneras: utilizando un sacapuntas
   de metal y/o con pinzas de corte
 
-                          .. figure:: /imagenes/mm1/primer/pri10.jpg
-                                    :width: 320px
-                          .. figure:: /imagenes/mm1/primer/pri11.jpg
-                                    :width: 320px
-                          .. figure:: /imagenes/mm1/primer/pri12.jpg
-                                    :width: 320px
-                          .. figure:: /imagenes/mm1/primer/pri13.jpg
-                                    :width: 320px
-                          .. figure:: /imagenes/mm1/primer/pri14.jpg
-                                    :width: 320px
-                          .. figure:: /imagenes/mm1/primer/pri15.jpg
-                                    :width: 320px
-                          .. figure:: /imagenes/mm1/primer/pri16.jpg
-                                    :width: 320px
+.. figure:: /imagenes/mm1/primer/pri10.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri11.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri12.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri13.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri14.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri15.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri16.jpg
+          :width: 320px
 
 Paso 3
 
@@ -857,17 +867,17 @@ Encendemos la impresora y calentamos la boquilla recordemos que la temperatura a
 utilizarse en PLA es de 204°C y si se llegara a utilizar ABS se tendría que colocar
 en 230°C.
 
-                          .. figure:: /imagenes/mm1/primer/pri17.jpg
+.. figure:: /imagenes/mm1/primer/pri17.jpg
 
-                          .. figure:: /imagenes/mm1/primer/pri18.jpg
+.. figure:: /imagenes/mm1/primer/pri18.jpg
 
-                          .. figure:: /imagenes/mm1/primer/pri19.jpg
+.. figure:: /imagenes/mm1/primer/pri19.jpg
 
-                          .. figure:: /imagenes/mm1/primer/pri20.jpg
+.. figure:: /imagenes/mm1/primer/pri20.jpg
 
-                          .. figure:: /imagenes/mm1/primer/pri21.jpg
+.. figure:: /imagenes/mm1/primer/pri21.jpg
 
-                          .. figure:: /imagenes/mm1/primer/pri22.jpg
+.. figure:: /imagenes/mm1/primer/pri22.jpg
 
 Paso 4
 
@@ -883,10 +893,11 @@ la punta de la boquilla, ya podremos saber que el material esta colocado correct
    filamento girando los engranes en sentido normal a las manecillas del reloj.
    Este paso se hace para cambiar el filamento o retirar un sobrante y colocar un carrete nuevo.
 
-                            .. figure:: /imagenes/mm1/primer/pri23.jpg
-                                      :width: 320px
-                            .. figure:: /imagenes/mm1/primer/pri24.jpg
-                                      :width: 320px
+.. figure:: /imagenes/mm1/primer/pri23.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri24.jpg
+          :width: 320px
 
 Paso 5
 
@@ -901,46 +912,49 @@ seleccionaras el archivo STL que previamente has modelado o bien ya tenias a la 
 Ya seleccionado le damos en la opción abrir. Inmediatamente en cuanto des clic
 en abrir el archivo STL se cargara en cura
 
-                            .. figure:: /imagenes/mm1/primer/pri25.png
+.. figure:: /imagenes/mm1/primer/pri25.png
 
-                            .. figure:: /imagenes/mm1/primer/pri26.png
+.. figure:: /imagenes/mm1/primer/pri26.png
 
-                            .. figure:: /imagenes/mm1/primer/pri27.png
+.. figure:: /imagenes/mm1/primer/pri27.png
 
 2.- Retira la memoria SD de la impresora, e inserta en tu computadora, observa bien
 como cambian los iconos al momento de insertar la memoria, en automático puedes guardar
 tu código G en la tarjeta SD dando clic sobre el icono en cura de la tarjeta SD.
 
-                            .. figure:: /imagenes/mm1/primer/pri28.png
-                                      :width: 320px
-                            .. figure:: /imagenes/mm1/primer/pri29.png
-                                      :width: 320px
+.. figure:: /imagenes/mm1/primer/pri28.png
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri29.png
+          :width: 320px
 
 Una vez que das clic en el icono de la tarjeta SD se ha guardado tu código en la
 tarjeta y deberás sacarla hasta que te aparezca la leyenda de que se ha guardo en
 la tajeta SD.
 
-                            .. figure:: /imagenes/mm1/primer/pri30.png
+.. figure:: /imagenes/mm1/primer/pri30.png
 
 Paso 6
 
 Listo puede retirar su tajeta SD y volverla a colocar en la impresora, encender
 la misma y mandar a imprimir.
 
-                            .. figure:: /imagenes/mm1/primer/pri31.jpg
-                                      :width: 320px
-                            .. figure:: /imagenes/mm1/primer/pri32.jpg
-                                      :width: 320px
+.. figure:: /imagenes/mm1/primer/pri31.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri32.jpg
+          :width: 320px
 
 Listo la impresora comenzará a calentar la cama caliente y después la boquilla,
 o solo comenzará a calentar ambas partes, esto se debe a la versión de cura que
 hayas descargado. También tiene mucho que ver los parámetros que le coloque a su
 impresión, en esto incluye la temperatura colocada para la impresión.
 
-                            .. figure:: /imagenes/mm1/primer/pri33.jpg
-                                      :width: 320px
-                            .. figure:: /imagenes/mm1/primer/pri34.jpg
-                                      :width: 320px
+.. figure:: /imagenes/mm1/primer/pri33.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri34.jpg
+          :width: 320px
 
 En cuanto la temperatura que colocamos en el Código G llegue en la pantalla comenzará
 a imprimir, lo primero que hará es irse a su origen de los ejes X,Y y Z. Y sacara
@@ -949,21 +963,20 @@ un poco de material y se va a hacia el centro, para comenzar a imprimir.
 La primer capa siempre es la mas importante debe de quedar un poco aplastada hacia
 la cama caliente, para ser mas exactos así como se muestra en las imágenes.
 
-                            .. figure:: /imagenes/mm1/primer/pri37.jpg
-                                      :width: 320px
-                            .. figure:: /imagenes/mm1/primer/pri39.jpg
-                                      :width: 320px
-                            .. figure:: /imagenes/mm1/primer/pri40.jpg
-                                      :width: 320px
+.. figure:: /imagenes/mm1/primer/pri37.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri39.jpg
+          :width: 320px
+
+.. figure:: /imagenes/mm1/primer/pri40.jpg
+          :width: 320px
 
 Ya que termino la impresión solo retiramos la pieza con ayuda de un cutter o una
 espátula tratamos de levantar la pieza por una esquina y hacemos una palanca
 para que comience a desprenderse, también podemos apoyarnos con las manos para despegarla.
 
-                            .. figure:: /imagenes/mm1/primer/pri41.jpg
-
-
-
+.. figure:: /imagenes/mm1/primer/pri41.jpg
 
 4 - MANTENIMIENTO
 -----------------------
@@ -1048,11 +1061,11 @@ PLA así que vamos a calentar a 210°C para que pueda salir mas rápido el mater
 Bien calentamos con la pantalla recuerda da clic a la perilla elige control->
 temperatura-> nozzle y sube a 210°C da clic y listo comenzara a calentar la boquilla.
 
-                        .. figure:: /imagenes/mm1/destape/db1.jpg
+.. figure:: /imagenes/mm1/destape/db1.jpg
 
 cuando la temperatura llegue podemos sacar el filamento que tiene.
 
-                        .. figure:: /imagenes/mm1/destape/db2.jpg
+.. figure:: /imagenes/mm1/destape/db2.jpg
 
 Paso 2
 
@@ -1064,9 +1077,9 @@ cuenta que las pinzas no se deben de cerrar solo es de apoyo para poder liberar 
 Recuerda cuando presiones el plástico del conector neumático debes de jalar el
 tubo hacia arriba para que salga.
 
-                        .. figure:: /imagenes/mm1/destape/db3.jpg
+.. figure:: /imagenes/mm1/destape/db3.jpg
 
-                        .. figure:: /imagenes/mm1/destape/db4.jpg
+.. figure:: /imagenes/mm1/destape/db4.jpg
 
 Paso 3
 
@@ -1076,7 +1089,7 @@ tratar de purgar la boquilla manualmente y asi poder ver si se resuelve el probl
 Al meter el filamento en la boquilla vamos a presionar para ver si sale si no lo
 hace entonces lo vamos a sacar rápidamente hacia arriba
 
-                        .. figure:: /imagenes/mm1/destape/db5.jpg
+.. figure:: /imagenes/mm1/destape/db5.jpg
 
 Cuando el material esta atascado en la punta de la boquilla comenzara a pegarse
 a el filamento nuevo. Esta operación la puedes repetir varias veces y hasta que
@@ -1085,7 +1098,7 @@ veas que ya no sale material carbonizado,
 Si esto te funciona y vez que sale material por la parte de la punta de la boquilla,
 puedes volver a colocar el tubo y filamento para volver a realizar una impresión.
 
-                        .. figure:: /imagenes/mm1/destape/db6.jpg
+.. figure:: /imagenes/mm1/destape/db6.jpg
 
 Si aun no sale material por la punta de la boquilla, entonces puede ser que esta
 siga tapada y para destaparla hay que seguir los siguientes pasos
@@ -1095,19 +1108,19 @@ Paso 4
 Apaga la impresora, retira el clip de sujeción del modulo y desconecta los conectores
 de la impresora para poder retirar el modulo completo y poder desarmarlo.
 
-                        .. figure:: /imagenes/mm1/destape/db7.jpg
+.. figure:: /imagenes/mm1/destape/db7.jpg
 
 Desconecta los siguientes conectores
 
-                        .. figure:: /imagenes/mm1/destape/db9.jpg
+.. figure:: /imagenes/mm1/destape/db9.jpg
 
-                        .. figure:: /imagenes/mm1/destape/db10.jpg
+.. figure:: /imagenes/mm1/destape/db10.jpg
 
-                        .. figure:: /imagenes/mm1/destape/db11.jpg
+.. figure:: /imagenes/mm1/destape/db11.jpg
 
 Solo se dejara conectado el seguro de doble extrusora.
 
-                        .. figure:: /imagenes/mm1/destape/db12.jpg
+.. figure:: /imagenes/mm1/destape/db12.jpg
 
 .. Note::
 
@@ -1115,28 +1128,28 @@ Solo se dejara conectado el seguro de doble extrusora.
 
 Desmontamos el modulo de la cruz
 
-                        .. figure:: /imagenes/mm1/destape/db13.jpg
+.. figure:: /imagenes/mm1/destape/db13.jpg
 
 Paso 5
 
 Vamos a desarmar el Módulo, para poder llegar a la boquilla.
 
-                        .. figure:: /imagenes/mm1/destape/db14.jpg
+.. figure:: /imagenes/mm1/destape/db14.jpg
 
 Primero debemos retirar los tornillos que sujetan la pieza plástica del sensor
 inductivo, estos tornillos se retiran con ayuda de una llave allen de 2.5mm
 
-                        .. figure:: /imagenes/mm1/destape/db15.jpg
+.. figure:: /imagenes/mm1/destape/db15.jpg
 
-                        .. figure:: /imagenes/mm1/destape/db16.jpg
+.. figure:: /imagenes/mm1/destape/db16.jpg
 
 Después vamos a retirar los tornillos que sujetan el MDF al módulo, son los que
 se muestran en círculos rojos, son 3 de la parte inferior y 2 de la parte superior
 se retiran con la llave allen de 2.5mm.
 
-                        .. figure:: /imagenes/mm1/destape/db17.jpg
+.. figure:: /imagenes/mm1/destape/db17.jpg
 
-                        .. figure:: /imagenes/mm1/destape/db18.jpg
+.. figure:: /imagenes/mm1/destape/db18.jpg
 
 Paso 6
 
@@ -1144,24 +1157,24 @@ Vamos a remover el MDF para poder liberar la boquilla se retira  girándolo haci
 afuera. Esto para poder llegar a ala parte donde se encuentra la boquilla.Sujetamos
 el MDF con el dedo pulgar e indice.
 
-                        .. figure:: /imagenes/mm1/destape/db23.jpg
+.. figure:: /imagenes/mm1/destape/db23.jpg
 
-                        .. figure:: /imagenes/mm1/destape/db24.jpg
+.. figure:: /imagenes/mm1/destape/db24.jpg
 
 Ya que tenemos el MDF en la posición que se muestra solo resta empujarlo como
 indica la flecha esto para que pueda liberarse la boquilla y así poder limpiarla
 mas fácil.
 
-                        .. figure:: /imagenes/mm1/destape/db26.jpg
+.. figure:: /imagenes/mm1/destape/db26.jpg
 
-                        .. figure:: /imagenes/mm1/destape/db27.jpg
+.. figure:: /imagenes/mm1/destape/db27.jpg
 
 Cuando este libre el MDF con mucho cuidado vamos a retirar la boquilla por el
 orificio mas grande del MDF.
 
-                        .. figure:: /imagenes/mm1/destape/db28.jpg
+.. figure:: /imagenes/mm1/destape/db28.jpg
 
-                        .. figure:: /imagenes/mm1/destape/db29.jpg
+.. figure:: /imagenes/mm1/destape/db29.jpg
 
 Paso 7
 
@@ -1169,21 +1182,21 @@ Vamos a retirar el Conector Neumático de la boquilla, en  este paso vamos a suj
 la boquilla con mucho cuidado, con unas pinzas mecánicas, vamos a sujetar
 el conector y aflojarlo para poder retirarlo.
 
-                        .. figure:: /imagenes/mm1/destape/db30.jpg
+.. figure:: /imagenes/mm1/destape/db30.jpg
 
-                        .. figure:: /imagenes/mm1/destape/db31.jpg
+.. figure:: /imagenes/mm1/destape/db31.jpg
 
 Paso 8
 
 Vamos a conectar el ventilador pequeño a la impresora y también el conector de 6
 pines para poder calentar la boquilla.
 
-                        .. figure:: /imagenes/mm1/destape/db32.jpg
+.. figure:: /imagenes/mm1/destape/db32.jpg
 
 Después de conectar el módulo encendemos la impresora para mandar a calentar la
 boquilla
 
-                        .. figure:: /imagenes/mm1/destape/db33.jpg
+.. figure:: /imagenes/mm1/destape/db33.jpg
 
 
 Pues bien utilizando la pantalla vamos a mandar a calentar la boquilla, según el
@@ -1195,18 +1208,18 @@ En el ejemplo es PLA y para este caso utilizamos una temperatura de 207°C. Una 
 que esta caliente la boquilla la sujetaremos de la parte superior con las pinzas
 mecánicas.
 
-                        .. figure:: /imagenes/mm1/destape/db34.jpg
+.. figure:: /imagenes/mm1/destape/db34.jpg
 
 Ya que esta caliente con ayuda de una broca de 3mm la vamos a introducir dentro
 de la boquilla y con nuestras manos vamos a girar la broca, sin presionar solo
 giramos la broca lento y sacamos para ir retirando los residuos que se adhieran
 a la broca.
 
-                        .. figure:: /imagenes/mm1/destape/db35.jpg
+.. figure:: /imagenes/mm1/destape/db35.jpg
 
-                        .. figure:: /imagenes/mm1/destape/db37.jpg
+.. figure:: /imagenes/mm1/destape/db37.jpg
 
-                        .. figure:: /imagenes/mm1/destape/db38.jpg
+.. figure:: /imagenes/mm1/destape/db38.jpg
 
 Esta parte podemos realizar la tecnica las veces que sean necesarias hasta que ya no
 tengan residuos la boquilla .
@@ -1214,11 +1227,11 @@ tengan residuos la boquilla .
 Después de haber hecho esto con la broca procedemos a limpiar la punta de la boquilla
 con un cabello de cobre de un cable calibre 14 o 12.
 
-                        .. figure:: /imagenes/mm1/destape/db39.jpg
+.. figure:: /imagenes/mm1/destape/db39.jpg
 
 En esta parte también podemos introducir varias veces el cable dentro de la punta.
 
-                        .. figure:: /imagenes/mm1/destape/db40.jpg
+.. figure:: /imagenes/mm1/destape/db40.jpg
 
 Paso 9
 
@@ -1228,14 +1241,14 @@ trozo de filamento presionamos y luego en un solo movimiento lo sacamos, posteri
 cortamos el trozo de filamento que tenga residuos. Hacemos esto las veces que sea necesario,
 hasta que  veamos que cuando saquemos el material ya no tenga residuos negros.
 
-                      .. figure:: /imagenes/mm1/destape/db41.jpg
+.. figure:: /imagenes/mm1/destape/db41.jpg
 
-                      .. figure:: /imagenes/mm1/destape/db42.jpg
+.. figure:: /imagenes/mm1/destape/db42.jpg
 
 Después de hacer esta purga podemos observar que nuestra boquilla esta limpia y
 que tiene un escape de material libre.
 
-                      .. figure:: /imagenes/mm1/destape/db43.jpg
+.. figure:: /imagenes/mm1/destape/db43.jpg
 
 Paso 10
 
@@ -1246,24 +1259,24 @@ estaba al inicio.
 
 Colocamos el conector neumático
 
-                      .. figure:: /imagenes/mm1/destape/db44.jpg
+.. figure:: /imagenes/mm1/destape/db44.jpg
 
 Colocamos el MDF en la boquilla, asegurate de que entre en la ranura mas pequeña
 para que se mantenga fija la boquilla.
 
-                      .. figure:: /imagenes/mm1/destape/db45.jpg
+.. figure:: /imagenes/mm1/destape/db45.jpg
 
 Colocamos la boquilla en el orificio de la pieza plástica y giramos el MDF como
 estaba al principio.
 
-                      .. figure:: /imagenes/mm1/destape/db46.jpg
+.. figure:: /imagenes/mm1/destape/db46.jpg
 
-                      .. figure:: /imagenes/mm1/destape/db47.jpg
+.. figure:: /imagenes/mm1/destape/db47.jpg
 
 Por ultimo colocamos los 5 tornillos que retiramos  para poder fijar el MDF con
 la pieza plástica. El sensor inductivo y listo nuestro modulo debe de verse así como antes.
 
-                      .. figure:: /imagenes/mm1/destape/db48.jpg
+.. figure:: /imagenes/mm1/destape/db48.jpg
 
 Como limpiar la boquilla video
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1283,7 +1296,7 @@ nivelación de la plataforma de impresión, que generalmente, es mediante la
 compresión de resortes, y esto puede ser bastante tardado si no se tiene la paciencia
 necesaria, y muchas veces no queda bien calibrada.
 
-                      .. figure:: /imagenes/mm1/auto/an1.jpg
+.. figure:: /imagenes/mm1/auto/an1.jpg
 
 La solución para este problema es que la impresora 3D se auto nivele de manera
 automática durante la impresión, esto se logra modificando el código G de la pieza
@@ -1310,7 +1323,7 @@ Settings.
 
 En este ejemplo la impresora a usar tiene un área de trabajo de 400x400x350 milímetros.
 
-                      .. figure:: /imagenes/mm1/auto/an2.png
+.. figure:: /imagenes/mm1/auto/an2.png
 
 
 Una vez definida el área de trabajo se procede a definir los puntos de nivelación.
@@ -1323,7 +1336,7 @@ los puntos en que se quiere nivelar, el firmware Marlin ya tiene unos puntos
 seleccionados, sin embargo se pueden modificar al gusto o necesidad del usuario,
 en este ejemplo se eligieron las siguientes coordenadas para los tres puntos:
 
-                      .. figure:: /imagenes/mm1/auto/an3.png
+.. figure:: /imagenes/mm1/auto/an3.png
 
 .. Note::
    Las coordenadas de los puntos no deben exceder el área de trabajo, ya que se
@@ -1333,7 +1346,7 @@ Por último se configura la velocidad de auto nivelación, una velocidad moderad
 es de 1500 mm/min la cual se obtuvo mediante varias pruebas, la línea que se
 modifica se encuentra debajo de la modificación anterior.
 
-                    .. figure:: /imagenes/mm1/auto/an4.png
+.. figure:: /imagenes/mm1/auto/an4.png
 
 Ahora sólo se carga este Marlin a la impresora 3D.
 
@@ -1342,7 +1355,7 @@ mediante un software libre, en este ejemplo el software CURA.
 
 Configuración en el Software CURA
 
-                    .. figure:: /imagenes/mm1/auto/an5.png
+.. figure:: /imagenes/mm1/auto/an5.png
 
 Para la auto calibración es necesario hacer una modificación en el Software CURA
 (software que genera código G mediante modelos 3D).
@@ -1353,27 +1366,27 @@ la barra de herramientas la pestaña Machine y selecciones su modelo de impresor
 Si usted no cuenta con opciones de impresoras, puede agregar su máquina seleccionando
 Add new machine.
 
-                    .. figure:: /imagenes/mm1/auto/an6.png
+.. figure:: /imagenes/mm1/auto/an6.png
 
 2.- Lo siguiente es seleccionar su pieza a imprimir y acomodar los parámetros de
 impresión a sus necesidades (los parámetros de impresión están ubicados en las
 pestañas Basic y Avanced). Cuando termine de configurar los parámetros de impresión,
 diríjase a la pestaña Start/End-GCode y selecciones start.gcode.
 
-                    .. figure:: /imagenes/mm1/auto/an7.png
+.. figure:: /imagenes/mm1/auto/an7.png
 
 3.- Al haber realizado el paso anterior, se encontrará con la primera parte del
 código G de su pieza en la parte media inferior izquierda de su pantalla, a este
 código se le agregará una línea con el código “G29”, esta línea se agregará después
 de la línea con el código “G28 Z0” y antes de la línea con el código “G1 Z15.0 F”.
 
-                    .. figure:: /imagenes/mm1/auto/an8.png
+.. figure:: /imagenes/mm1/auto/an8.png
 
 4.- Ahora simplemente se guarda el código en la memoria SD presionando el botón
 de Save Toolpath y ya se tendrá el código G con auto nivelación en la memoria SD
 lista para colocarse en la impresora 3D y mandar a imprimir.
 
-                    .. figure:: /imagenes/mm1/auto/an9.png
+.. figure:: /imagenes/mm1/auto/an9.png
 
 
 MODULOS
@@ -1414,20 +1427,20 @@ Montaje
 Con el fin de empezar a imprimir de una manera doble material debe poner el módulo
 en el apoyo universal transversal de los módulos por su MM1.
 
-                          .. figure:: /imagenes/mm1/doble/md3.jpg
+.. figure:: /imagenes/mm1/doble/md3.jpg
 
-                          .. figure:: /imagenes/mm1/doble/md4.jpg
+.. figure:: /imagenes/mm1/doble/md4.jpg
 
 Vamos a colocar nuestro segundo extrusor como colocamos el primero solo que este
 va colocado en la parte derecha.
 
-                          .. figure:: /imagenes/mm1/doble/md5.jpg
+.. figure:: /imagenes/mm1/doble/md5.jpg
 
 Debe conectar el segundo extrusor en el cable de 6 pines con la etiqueta "2". 
 La primera máquina de extrusión y el sensor inductivo se conectan de la misma manera
 del módulo individual.
 
-                          .. figure:: /imagenes/mm1/doble/md6.jpg
+.. figure:: /imagenes/mm1/doble/md6.jpg
 
 Parametros de uso
 ^^^^^^^^^^^^^^^^^^^
@@ -1437,26 +1450,26 @@ puede hacer esto mediante la modificación de la configuración del equipo de su
 
 1.- Diríjase a la etiqueta machine
 
-                          .. figure:: /imagenes/mm1/doble/md7.jpg
+.. figure:: /imagenes/mm1/doble/md7.jpg
 
 2.- Una vez en machine diríjase a machine settings y de clic.
 
-                          .. figure:: /imagenes/mm1/doble/md8.png
+.. figure:: /imagenes/mm1/doble/md8.png
 
 3.- Diríjase a Extruder count, damos clic en la pestaña de un lado y selecciona
 el número 2 y seleccionamos OK.
 
-                          .. figure:: /imagenes/mm1/doble/md9.jpg
+.. figure:: /imagenes/mm1/doble/md9.jpg
 
 4.- Misma página a ent ahora volvemos a la rar a machine > machine settings > y
 ahora verificamos que los offset se encuentren en cero.
 
-                          .. figure:: /imagenes/mm1/doble/md10.jpg
+.. figure:: /imagenes/mm1/doble/md10.jpg
 
 5.- Ahora modificaremos lo datos de impresión según el material utilizado y
 los parámetros del filamento.
 
-                          .. figure:: /imagenes/mm1/doble/md11.png
+.. figure:: /imagenes/mm1/doble/md11.png
 
 5.1.- Ahora se modificaran los parámetros de cura con los datos de filamento las
 capas las paredes el leyendo y la retracción que se desea hacer así como la
@@ -1494,7 +1507,7 @@ se modificara solo “speed (mm/s)” que normalmente es de 15 a 20 Y en “dist
 por lo regular se utilizan parámetros de 5 hasta 8 mm.
 
 
-                          .. figure:: /imagenes/mm1/doble/md12.jpg
+.. figure:: /imagenes/mm1/doble/md12.jpg
 
 
 Usted necesitará un modelo que se corta en dos partes, dejando Cura para saber
@@ -1504,22 +1517,22 @@ usted puede cortar los modelos por sí mismo con un software de modelado 3D como
 En Cura debe importar la primera parte del modelo que se va a imprimir con la
 primera extrusora.
 
-                          .. figure:: /imagenes/mm1/doble/md13.png
+.. figure:: /imagenes/mm1/doble/md13.png
 
 Posteriormente se debe importar la parte del modelo que se va a imprimir con la
 segunda extrusora.
 
-                          .. figure:: /imagenes/mm1/doble/md14.png
+.. figure:: /imagenes/mm1/doble/md14.png
 
 
 Por último, debe unirlos haciendo clic derecho en el espacio de trabajo en Cura
 y seleccionando la opción "Dual fusión de extrusión".
 
-                          .. figure:: /imagenes/mm1/doble/md15.png
+.. figure:: /imagenes/mm1/doble/md15.png
 
 Así queda la figura. la segunda extrusora imprimirá las partes en rojo
 
-                          .. figure:: /imagenes/mm1/doble/md16.png
+.. figure:: /imagenes/mm1/doble/md16.png
 
 Ya que esta unida la pieza en el software cura, para poder mandar a imprimir,
 es necesario sacar nuestro código en la Tarjeta SD, así como lo hemos hecho en
@@ -1539,7 +1552,7 @@ para que puedas hacer un buen uso de tu Módulo Flexy.
 En este manual vamos a colocar nuestro módulo Flexy e imprimir lo primero que tenemos
 que hacer es tener bien identifiquemos los componentes de este Módulo.
 
-                            .. figure:: /imagenes/mm1/flex/fle1.jpg
+.. figure:: /imagenes/mm1/flex/fle1.jpg
 
 +--------------------------------+
 |1.- Módulo inferior  (boquilla )|
@@ -1566,11 +1579,11 @@ Paso 1
 
 Colocaremos el Módulo 1 por debajo de la cruz hasta que llegue a su limite.
 
-                            .. figure:: /imagenes/mm1/flex/fle2.jpg
-                                      :width: 500px
+.. figure:: /imagenes/mm1/flex/fle2.jpg
+          :width: 500px
 
-                            .. figure:: /imagenes/mm1/flex/fle3.jpg
-                                      :width: 500px
+.. figure:: /imagenes/mm1/flex/fle3.jpg
+          :width: 500px
 
 
 Paso 2
@@ -1578,14 +1591,14 @@ Paso 2
 Ahora colocamos nuestro clip de sujeción, este es un paso importante ya que es legal
 parte de apoyo entre la cruz y el modulo.
 
-                            .. figure:: /imagenes/mm1/flex/fle4.jpg
-                                      :width: 500px
+.. figure:: /imagenes/mm1/flex/fle4.jpg
+          :width: 500px
 
-                            .. figure:: /imagenes/mm1/flex/fle5.jpg
-                                      :width: 500px
+.. figure:: /imagenes/mm1/flex/fle5.jpg
+          :width: 500px
 
-                            .. figure:: /imagenes/mm1/flex/fle6.jpg
-                                      :width: 500px
+.. figure:: /imagenes/mm1/flex/fle6.jpg
+          :width: 500px
 
 hasta este punto el módulo 1 esta anclado a la cruz central.
 
@@ -1594,7 +1607,7 @@ Paso 3
 Colocamos el módulo 2 en la parte superior del módulo 1. Es de suma importancia
 ya que esta es la parte en donde se distribuye el filamento a utilizar.
 
-                            .. figure:: /imagenes/mm1/flex/fle7.jpg
+.. figure:: /imagenes/mm1/flex/fle7.jpg
 
 El Módulo 2  debe de embonar bien con el Módulo 1
 
@@ -1604,39 +1617,39 @@ Ahora colocaremos los tornillos M3x16mm para unir y fijar ambas partes del
 Módulo Flexy. Para poder colocarlos necesitaremos la ayuda de una llave Allen
 "L" de 2.5mm
 
-                            .. figure:: /imagenes/mm1/flex/fle8.jpg
+.. figure:: /imagenes/mm1/flex/fle8.jpg
 
 Gira un poco el engrane grande para poder colocar los dos tornillos que van en
 la parte que señala la flecha.
 
-                            .. figure:: /imagenes/mm1/flex/fle9.jpg
-                                      :width: 320px
+.. figure:: /imagenes/mm1/flex/fle9.jpg
+          :width: 320px
 
-                            .. figure:: /imagenes/mm1/flex/fle10.jpg
-                                      :width: 320px
+.. figure:: /imagenes/mm1/flex/fle10.jpg
+          :width: 320px
 
-                            .. figure:: /imagenes/mm1/flex/fle11.jpg
-                                      :width: 320px
+.. figure:: /imagenes/mm1/flex/fle11.jpg
+          :width: 320px
 
 
 Paso 5
 
 Colocamos la guía de filamento en el perfil superior trasero como se ve en las imágenes.
 
-                            .. figure:: /imagenes/mm1/flex/fle12.jpg
-                                      :width: 320px
+.. figure:: /imagenes/mm1/flex/fle12.jpg
+          :width: 320px
 
-                            .. figure:: /imagenes/mm1/flex/fle13.jpg
-                                      :width: 320px
+.. figure:: /imagenes/mm1/flex/fle13.jpg
+          :width: 320px
 
 Paso 6
 
 Vamos a conectar los cables del módulo, pasamos los cables por encima del perfil
 superior izquierdo y  conectamos los cables.
 
-                            .. figure:: /imagenes/mm1/flex/fle14.jpg
+.. figure:: /imagenes/mm1/flex/fle14.jpg
 
-                            .. figure:: /imagenes/mm1/flex/fle15.jpg
+.. figure:: /imagenes/mm1/flex/fle15.jpg
 
 Paso 7
 
@@ -1648,13 +1661,13 @@ Ya que conectamos todos los conectores pasamos a conectar el motor con su cable.
 
 Primero conectamos el motor
 
-                            .. figure:: /imagenes/mm1/flex/fle16.jpg
+.. figure:: /imagenes/mm1/flex/fle16.jpg
 
 Después conectamos este cable en la parte que dice M1 de la parte
 trasera de la impresora, si ya cuentas con un cable conectado en esta sección, solo
 retíralo y conecta el del motor nuevo
 
-                            .. figure:: /imagenes/mm1/flex/fle17.jpg
+.. figure:: /imagenes/mm1/flex/fle17.jpg
 
 Paso 8
 
@@ -1693,11 +1706,11 @@ rest la tarjeta madre y deje de calentar al volverla a encender nos ayuda a que
 la boquilla se enfrié con ayuda del ventilador pequeño ya que es de metal y
 si se deja apagada puede ocasionarnos un atasco porque el calor.
 
-                            .. figure:: /imagenes/mm1/flex/fle18.jpg
-                                      :width: 320px
+.. figure:: /imagenes/mm1/flex/fle18.jpg
+          :width: 320px
 
-                            .. figure:: /imagenes/mm1/flex/fle19.jpg
-                                      :width: 320px
+.. figure:: /imagenes/mm1/flex/fle19.jpg
+          :width: 320px
 
 Parametros de uso
 ^^^^^^^^^^^^^^^^^^^
@@ -1722,23 +1735,23 @@ Te dejamos los demás parámetros que hemos usado para el Ninjaflex y TPE.
    solo para el filamento PLA soft se usaran los siguientes parámetros
 
 
-                            .. figure:: /imagenes/mm1/flex/fle22.png
-                                      :width: 320px
+.. figure:: /imagenes/mm1/flex/fle22.png
+          :width: 320px
 
-                            .. figure:: /imagenes/mm1/flex/fle23.png
-                                      :width: 320px
+.. figure:: /imagenes/mm1/flex/fle23.png
+          :width: 320px
 
-                            .. figure:: /imagenes/mm1/flex/fle20.png
-                                      :width: 320px
+.. figure:: /imagenes/mm1/flex/fle20.png
+          :width: 320px
 
-                            .. figure:: /imagenes/mm1/flex/fle21.png
-                                      :width: 320px
+.. figure:: /imagenes/mm1/flex/fle21.png
+          :width: 320px
 
-                            .. figure:: /imagenes/mm1/flex/fle24.png
-                                      :width: 320px
+.. figure:: /imagenes/mm1/flex/fle24.png
+          :width: 320px
 
-                            .. figure:: /imagenes/mm1/flex/fle25.png
-                                      :width: 320px
+.. figure:: /imagenes/mm1/flex/fle25.png
+          :width: 320px
 
 Listo amigos una vez que tenemos estos parámetros en nuestro cura podemos sacar
 nuestro código G en la tarjeta SD y mandar a imprimir como lo hemos hecho en la
@@ -1781,11 +1794,11 @@ El módulo de pastas se compone de lo siguiente:
 
 Estación de bombeo y accesorios.
 
-                        .. figure:: /imagenes/mm1/pastas/m1p1.jpg
+.. figure:: /imagenes/mm1/pastas/m1p1.jpg
 
 Cabezal de impresión.
 
-                        .. figure:: /imagenes/mm1/pastas/m1p2.jpg
+.. figure:: /imagenes/mm1/pastas/m1p2.jpg
 
 Montaje
 ^^^^^^^^
@@ -1797,7 +1810,7 @@ Paso 1
 
 Cortamos una manguera de nivel, a la medida de 50cm de largo
 
-                        .. figure:: /imagenes/mm1/pastas/m1p3.jpg
+.. figure:: /imagenes/mm1/pastas/m1p3.jpg
 
 Paso 2
 
@@ -1806,16 +1819,16 @@ otro extremo.
 
 Luer lock hembra
 
-                        .. figure:: /imagenes/mm1/pastas/m1p5.jpg
+.. figure:: /imagenes/mm1/pastas/m1p5.jpg
 
 Luer lock macho
 
-                        .. figure:: /imagenes/mm1/pastas/m1p7.jpg
+.. figure:: /imagenes/mm1/pastas/m1p7.jpg
 
 debe de quedar de la siguiente forma, esto nos serira ya que es la manguera de
 nivel de nuestro modulo.
 
-                        .. figure:: /imagenes/mm1/pastas/m1p8.jpg
+.. figure:: /imagenes/mm1/pastas/m1p8.jpg
 
 Paso 3
 
@@ -1823,31 +1836,31 @@ Para poder realizar este paso vamos a necesitar una jeringa y esta la tendremos
 que montar en la estación de bombeo, también se colocara la manguera en
 la jeringa y la puntilla.
 
-                        .. figure:: /imagenes/mm1/pastas/m1p9.jpg
+.. figure:: /imagenes/mm1/pastas/m1p9.jpg
 
 
 Abra el empaque de la jeringa y observe bien como se debe de colocar el luer lock
 macho en la jeringa. Como tienen esta ceunta con una rosca se tendra que girar la
 puntilla o el luer lock para que se mantenga.
 
-                        .. figure:: /imagenes/mm1/pastas/m1p10.jpg
+.. figure:: /imagenes/mm1/pastas/m1p10.jpg
 
-                        .. figure:: /imagenes/mm1/pastas/m1p11.jpg
+.. figure:: /imagenes/mm1/pastas/m1p11.jpg
 
-                        .. figure:: /imagenes/mm1/pastas/m1p12.jpg
+.. figure:: /imagenes/mm1/pastas/m1p12.jpg
 
 Una vez que ya has colocado la puntilla y la manguera en la jeringa, ya podras
 retirar o colocar una puntilla u otra cuando se requiera un cambio.Ahora vamos a
 colocar la jeringa en la estación de bombeo. Debemos asegurarnos que la jeringa
 este bien sujeta desde la parte central y hasta el embolo.
 
-                        .. figure:: /imagenes/mm1/pastas/m1p13.jpg
+.. figure:: /imagenes/mm1/pastas/m1p13.jpg
 
-                        .. figure:: /imagenes/mm1/pastas/m1p14.jpg
+.. figure:: /imagenes/mm1/pastas/m1p14.jpg
 
-                        .. figure:: /imagenes/mm1/pastas/m1p15.jpg
+.. figure:: /imagenes/mm1/pastas/m1p15.jpg
 
-                        .. figure:: /imagenes/mm1/pastas/m1p16.jpg
+.. figure:: /imagenes/mm1/pastas/m1p16.jpg
 
 De esta forma es como se coloca la jeringa en la estación de bombeo.
 
@@ -1860,13 +1873,13 @@ De esta forma es como se coloca la jeringa en la estación de bombeo.
    bajar la base, y así poder colocar bien el embolo de la jeringa y en el orificio
    de la base plástica.
 
-                        .. figure:: /imagenes/mm1/pastas/m1p17.jpg
+.. figure:: /imagenes/mm1/pastas/m1p17.jpg
 
 Para terminar con este paso solo deberás conectar el motor de la estación de bombeo.
 
-                        .. figure:: /imagenes/mm1/pastas/m1p19.jpg
+.. figure:: /imagenes/mm1/pastas/m1p19.jpg
 
-                        .. figure:: /imagenes/mm1/pastas/m1p20.jpg
+.. figure:: /imagenes/mm1/pastas/m1p20.jpg
 
 Paso 4
 
@@ -1878,13 +1891,13 @@ abajo para lograrlo.
 Después se coloca el cabezal como se muestras en las imágenes y se asegura con el
 clip de sujeción.
 
-                        .. figure:: /imagenes/mm1/pastas/m1p21.jpg
+.. figure:: /imagenes/mm1/pastas/m1p21.jpg
 
-                        .. figure:: /imagenes/mm1/pastas/m1p22.jpg
+.. figure:: /imagenes/mm1/pastas/m1p22.jpg
 
-                        .. figure:: /imagenes/mm1/pastas/m1p23.jpg
+.. figure:: /imagenes/mm1/pastas/m1p23.jpg
 
-                        .. figure:: /imagenes/mm1/pastas/m1p24.jpg
+.. figure:: /imagenes/mm1/pastas/m1p24.jpg
 
 Paso 5
 
@@ -1892,7 +1905,7 @@ Una vez que el cabezal esta asegurado vamos a conectar sus conectores en este
 cabezal solo se conectan 2 cables y el seguro de la doble extrusora, recuerda
 que los cables deben de pasar por encima de los perfiles superiores.
 
-                        .. figure:: /imagenes/mm1/pastas/m1p25.jpg
+.. figure:: /imagenes/mm1/pastas/m1p25.jpg
 
 .. Note::
 
@@ -1906,36 +1919,36 @@ utilizar dos tipos de puntillas.
 
 Vamos a colocar una puntilla de plástico.
 
-                        .. figure:: /imagenes/mm1/pastas/m1p26.jpg
+.. figure:: /imagenes/mm1/pastas/m1p26.jpg
 
 Se coloca en la parte derecha del modulo viendo el modulo de frente. Y con ayuda
 de unas pinzas de punta empujamos la puntilla junto con la manguera de
 nivel para que estas queden aseguradas.
 
-                        .. figure:: /imagenes/mm1/pastas/m1p27.jpg
+.. figure:: /imagenes/mm1/pastas/m1p27.jpg
 
-                        .. figure:: /imagenes/mm1/pastas/m1p28.jpg
+.. figure:: /imagenes/mm1/pastas/m1p28.jpg
 
 Debemos empujar hasta que la puntilla este colocada en el fondo del espacio como
 se ve en la imagen
 
-                        .. figure:: /imagenes/mm1/pastas/m1p29.jpg
+.. figure:: /imagenes/mm1/pastas/m1p29.jpg
 
 Ahora vamos a colocar la puntilla que tiene la punta de metal, esta puntilla
 se va a colocar en el espacio izquierdo del cabezal como se muestra en la imagen
 y también se utiliza una pinza de punta para poder empujarlo hasta el fondo.
 
-                        .. figure:: /imagenes/mm1/pastas/m1p30.jpg
+.. figure:: /imagenes/mm1/pastas/m1p30.jpg
 
-                        .. figure:: /imagenes/mm1/pastas/m1p31.jpg
+.. figure:: /imagenes/mm1/pastas/m1p31.jpg
 
 Al igual que la otra puntilla debe de entrar en la ranura disponible.
 
-                        .. figure:: /imagenes/mm1/pastas/m1p32.jpg
+.. figure:: /imagenes/mm1/pastas/m1p32.jpg
 
 Entonces nuestro modulo de pastas así tendra que ver.
 
-                        .. figure:: /imagenes/mm1/pastas/m1p33.jpg
+.. figure:: /imagenes/mm1/pastas/m1p33.jpg
 
 Parametros de uso
 ^^^^^^^^^^^^^^^^^^^
@@ -2036,14 +2049,14 @@ Advanced
 |Enable cooling fan.        Si |
 +------------------------------+
 
-                        .. figure:: /imagenes/mm1/pastas/m1p34.jpg
+.. figure:: /imagenes/mm1/pastas/m1p34.jpg
 
-                        .. figure:: /imagenes/mm1/pastas/m1p35.png
+.. figure:: /imagenes/mm1/pastas/m1p35.png
 
 
 Tiene que resultar esto
 
-                        .. figure:: /imagenes/mm1/pastas/m1p36.jpg
+.. figure:: /imagenes/mm1/pastas/m1p36.jpg
 
 Problemas frecuentes
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -2083,7 +2096,7 @@ Si usted es un desarrollador que le gustaría ayudar, no dudes en contactarnos.
 Esta extensión es gratis, sin embargo se puede donar para apoyar el desarrollo y
 apreciar la obra que se ha hecho.
 
-                          .. figure:: /imagenes/mm1/cnc/cnc1.png
+.. figure:: /imagenes/mm1/cnc/cnc1.png
 
 +---------------------------------------------------------------+
 | CARACTERÍSTICAS                                               |
@@ -2127,16 +2140,16 @@ del software.
 Abrimos la pestaña: Download and installation
 Damos clic en: Google Drive repository
 
-                          .. figure:: /imagenes/mm1/cnc/cnc2.png
+.. figure:: /imagenes/mm1/cnc/cnc2.png
 
 En la pestaña siguiente seleccionamos el BlenderCAM de acuerdo a nuestro sistema
 operativo.
 
-                          .. figure:: /imagenes/mm1/cnc/cnc3.png
+.. figure:: /imagenes/mm1/cnc/cnc3.png
 
 DESCRIPCIÓN DEL ÁREA DE TRABAJO
 
-                          .. figure:: /imagenes/mm1/cnc/cnc4.png
+.. figure:: /imagenes/mm1/cnc/cnc4.png
 
 En la imagen 1, se muestra la pantalla de inicio de BlenderCAM versión 2.70 a.
 a continuación se describirá las áreas de trabajo de una forma básica.
@@ -2169,7 +2182,7 @@ después de la instalación de BlenderCAM puede no aparecer el modo CAM, a conti
 se explicara como entrar en el modo CAM, seguido de  activar el BlenderCAM complemento
 para un mejor aprovechamiento del software.
 
-                          .. figure:: /imagenes/mm1/cnc/cnc5.png
+.. figure:: /imagenes/mm1/cnc/cnc5.png
 
 8.- Ir a al panel User Preference , seleccionar File y abrir la carpeta User Preferences.
 También se puede llegar con el siguiente comando Ctrl+Alt+U.
@@ -2184,7 +2197,7 @@ El segundo paso es guiar a BlenderCAM a buscar una ruta alternativa, para los co
 Cuando BlenderCAM se ejecute, buscara la ruta para Add-ons correspondiente a los scrips,
 de esta manera una fuente externa Add-on, se puede utilizar en Blender.
 
-                          .. figure:: /imagenes/mm1/cnc/cnc6.png
+.. figure:: /imagenes/mm1/cnc/cnc6.png
 
 13.- Ir a al panel User Preference , seleccionar File y abrir la carpeta User Preferences.
 También se puede llegar con el siguiente comando Ctrl+Alt+U.
@@ -2197,7 +2210,7 @@ queden guardados.
 
 Entrar al modo CAM
 
-                          .. figure:: /imagenes/mm1/cnc/cnc7.png
+.. figure:: /imagenes/mm1/cnc/cnc7.png
 
 
 1.	Ir a la barra superior (User Preference), desplegar la ventana Engine
@@ -2208,9 +2221,11 @@ Entrar al modo CAM
 Con el modo BlenderCAM podemos empezar a trabajar, en esta ocasión solo se llevara
 a cabo el proceso de gravado.
 
-                          .. figure:: /imagenes/mm1/cnc/cnc8.png
-                          .. figure:: /imagenes/mm1/cnc/cnc9.png
-                          .. figure:: /imagenes/mm1/cnc/cnc10.png
+.. figure:: /imagenes/mm1/cnc/cnc8.png
+
+.. figure:: /imagenes/mm1/cnc/cnc9.png
+
+.. figure:: /imagenes/mm1/cnc/cnc10.png
 
 Descripción de los parámetros CAM
 
@@ -2249,7 +2264,7 @@ La operación, en la misma carpeta donde se ejecutó el BlenderCAM antes de inst
 
 CAM info & warnings
 
-                          .. figure:: /imagenes/mm1/cnc/cnc12.png
+.. figure:: /imagenes/mm1/cnc/cnc12.png
 
 CAM operation setup
 
@@ -2258,61 +2273,61 @@ a continuación mostraremos las siguientes estrategias o procesos.
 
 * 	PARALLEL: trayectorias paralelas en cualquier ángulo
 
-                          .. figure:: /imagenes/mm1/cnc/cnc13.png
+.. figure:: /imagenes/mm1/cnc/cnc13.png
 
 * 	CROSS
 
-                          .. figure:: /imagenes/mm1/cnc/cnc14.png
+.. figure:: /imagenes/mm1/cnc/cnc14.png
 
 * 	BLOCK
 
-                          .. figure:: /imagenes/mm1/cnc/cnc15.png
+.. figure:: /imagenes/mm1/cnc/cnc15.png
 
 *   SPIRAL
 
 Adecuado para objetos curvos
 
-                          .. figure:: /imagenes/mm1/cnc/cnc16.png
+.. figure:: /imagenes/mm1/cnc/cnc16.png
 
 * 	CIRCLES
 
 Adecuado para objetos curvos
 
-                          .. figure:: /imagenes/mm1/cnc/cnc17.png
+.. figure:: /imagenes/mm1/cnc/cnc17.png
 
 * 	WATERLINE EXPER.
 
 Realiza mejores acabados, pero se define como un proceso experimental para el usuario.
 
-                          .. figure:: /imagenes/mm1/cnc/cnc18.png
+.. figure:: /imagenes/mm1/cnc/cnc18.png
 
 * 	OUTLINE FILL
 
-                          .. figure:: /imagenes/mm1/cnc/cnc19.png
+.. figure:: /imagenes/mm1/cnc/cnc19.png
 
 * 	CUTOUT
 
 Este proceso se utilizará para gravado, ya que marca el contorno dentro, sobre o
 fuera de la línea de nuestro objeto o curva
 
-                          .. figure:: /imagenes/mm1/cnc/cnc20.png
+.. figure:: /imagenes/mm1/cnc/cnc20.png
 
 * 	POCKET
 
-                          .. figure:: /imagenes/mm1/cnc/cnc21.png
+.. figure:: /imagenes/mm1/cnc/cnc21.png
 
 * 	DRILL
 
 Detecta círculos o cuatros en cualquier curva 2D y los convierte en una operación
 de perforación
 
-                          .. figure:: /imagenes/mm1/cnc/cnc22.png
+.. figure:: /imagenes/mm1/cnc/cnc22.png
 
 * 	CARVE
 
 Proyecta curvas 2D y 3D en la superficie
 
-                          .. figure:: /imagenes/mm1/cnc/cnc23.png
+.. figure:: /imagenes/mm1/cnc/cnc23.png
 
 Algunas de las operaciones o estrategias combinarán los siguientes parámetros.
 
@@ -2351,7 +2366,7 @@ Algunas de las operaciones o estrategias combinarán los siguientes parámetros.
 
 CAM optimization
 
-                          .. figure:: /imagenes/mm1/cnc/cnc24.png
+.. figure:: /imagenes/mm1/cnc/cnc24.png
 
 
 * Reduce path points: Ayuda a reducir el número de comandos en el código g,
@@ -2377,19 +2392,19 @@ CAM Material size and position
   mismas que el área de trabajo, si esta opción no está activada  se nos abre una
   ventana extra para indicar las dimensiones
 
-                          .. figure:: /imagenes/mm1/cnc/cnc25.png
+.. figure:: /imagenes/mm1/cnc/cnc25.png
 
 
 * Position object: Esta opcion es muy útil, ya que automáticamente  envía al
   objeto al origen del material que hemos definido
 
-                          .. figure:: /imagenes/mm1/cnc/cnc26.png
+.. figure:: /imagenes/mm1/cnc/cnc26.png
 
-                          .. figure:: /imagenes/mm1/cnc/cnc27.png
+.. figure:: /imagenes/mm1/cnc/cnc27.png
 
 	CAM Movement
 
-                          .. figure:: /imagenes/mm1/cnc/cnc28.png
+.. figure:: /imagenes/mm1/cnc/cnc28.png
 
 * Movement type: Aplica para algunas estrategias, establece como se mueve la
   cuchilla en el material
@@ -2419,7 +2434,7 @@ mejor opción.
 
 	CAM operation area
 
-                        .. figure:: /imagenes/mm1/cnc/cnc29.png
+.. figure:: /imagenes/mm1/cnc/cnc29.png
 
 * Use layers: utiliza capas para la operación
 
@@ -2438,7 +2453,7 @@ mejor opción.
 
 CAM federate
 
-                        .. figure:: /imagenes/mm1/cnc/cnc30.png
+.. figure:: /imagenes/mm1/cnc/cnc30.png
 
 * Feedrate/minute: Velocidad de avance en un minute
 
@@ -2452,7 +2467,7 @@ CAM federate
 
 CAM cutter
 
-                        .. figure:: /imagenes/mm1/cnc/cnc31.png
+.. figure:: /imagenes/mm1/cnc/cnc31.png
 
 * Tool number: Define el número de la herramienta
 
@@ -2464,7 +2479,7 @@ CAM cutter
 CAM Machine
 
 
-                        .. figure:: /imagenes/mm1/cnc/cnc32.png
+.. figure:: /imagenes/mm1/cnc/cnc32.png
 
 
 * Postprocesador: Define el formateo del archive de salida. Si la maquina no está
@@ -2480,7 +2495,7 @@ CAM Machine
 CAM chains
 
 
-                        .. figure:: /imagenes/mm1/cnc/cnc33.png
+.. figure:: /imagenes/mm1/cnc/cnc33.png
 
 Es una herramienta que permite encadenar operaciones como simulaciones, es decir,
 tener un conjunto de operaciones y realizarlas de una manera consecutiva, es muy
@@ -2493,23 +2508,23 @@ superficie del material
 1.-	Ejecutamos BlenderaCAM
 2.-	En este ocasión importaremos un archivo .svg
 
-                        .. figure:: /imagenes/mm1/cnc/cnc34.png
+.. figure:: /imagenes/mm1/cnc/cnc34.png
 
-                        .. figure:: /imagenes/mm1/cnc/cnc35.png
+.. figure:: /imagenes/mm1/cnc/cnc35.png
 
 3.- En el panel CAM operations, seleccionamos el objeto, en este caso curva y
 agregaremos una operación. Como siguiente le daremos nombre a la operación y al
 archivo
 4.-	Los parámetros que se utilizaran serán los siguientes
 
-                        .. figure:: /imagenes/mm1/cnc/cnc36.png
+.. figure:: /imagenes/mm1/cnc/cnc36.png
 
 El nombre de la operación es cutout, esta parte es opcional al igual que el nombre
 del archivo. Al terminar los parámetros para el proceso, se recomienda calcular la
 trayectoria que funciona también como una simulación, si se quiere exportar el código G
 es necesario calcular la trayectoria (Calculate path).
 
-                        .. figure:: /imagenes/mm1/cnc/cnc37.png
+.. figure:: /imagenes/mm1/cnc/cnc37.png
 
 La accion como se mencionaba es Cutout, en esta ocasión la trayectoria será
 sobre la línea. No es recomendable utilizar la opcion de Don’t merge outlines…
@@ -2520,19 +2535,19 @@ la altura de capa se dejaría en 2.5mm con un desbaste total de 5mm, se dejó es
 parámetro ya que el material que desbastaremos es un material blando y no tendrá
 problema
 
-                        .. figure:: /imagenes/mm1/cnc/cnc38.png
+.. figure:: /imagenes/mm1/cnc/cnc38.png
 
 El tipo de movimiento que se utilizo fue Meander por la cantidad de trayectorias
 Uno de los datos más importantes es la altura de movimiento libre. 5mm es un excelente
 parámetro para asegurarnos de que el modulo no chocara con el material y podrá ser óptimo.
 
-                        .. figure:: /imagenes/mm1/cnc/cnc39.png
+.. figure:: /imagenes/mm1/cnc/cnc39.png
 
 Es importante definir el área del material en nuestro caso es: 20 x 20 x 3 (cm),
 después de definir el área es importante situar el objeto en el área correcto,
 podemos utilizar position objet.
 
-                        .. figure:: /imagenes/mm1/cnc/cnc40.png
+.. figure:: /imagenes/mm1/cnc/cnc40.png
 
 Para obtener el código G damos clic en exportar g code, que se encuentra en el
 panel de operaciones. El código g se nos genera dentro de la carpeta de instalación
