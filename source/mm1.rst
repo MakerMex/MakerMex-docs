@@ -968,76 +968,68 @@ para que comience a desprenderse, también podemos apoyarnos con las manos para 
 4 - MANTENIMIENTO
 -----------------------
 
-Calibración de impresora "distancia cama-boquilla" MM1 V1.5
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Calibración de la cama de impresora MM1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Paso 1
+para este manual vamos encender nuestra impresora y como paso numero 1 debes revisar que la base del sensor este bien ajustado revisa los tornillos conuna llave allen,como se ve en las imagenes.
 
-Identificar el sensor Z. En la parte superior se encuentra un LED que al detectar
-la cama enciende y genera el posicionamiento del eje Z. Por la parte inferior tiene
-una tuerca que al detenerla y girando el cuerpo del sensor podemos subir o bajar
-dicho sensor hasta que quede en una distancia adecuada en relación a la boquilla.
+.. figure:: /imagenes/mm1/calibracion/calibracion2/ca215.JPG
 
-                          .. figure:: /imagenes/mm1/general/mm6.png
+.. figure:: /imagenes/mm1/calibracion/calibracion2/ca21.JPG
 
-Una vez identificado el sensor (es la pequeña pieza metálica en la boquilla),
-hacemos un Auto Home para que se posicione en las coordenadas X0, Y0, Z0.
-Después manualmente subiremos o bajaremos según sea el caso, tomaremos el eje Z hasta que
-quede una distancia cama-boquilla milimétrica. Una forma fácil de calibrar la
-distancia cama-boquilla es poner una tarjeta de presentación o bien un objeto con
-las mismas dimensiones, después de haber colocado esto en la cama y subir el eje
-hasta que la hoja este casi atorada pero que aun se pueda mover.
+ya que etsa encendida veras la pantalla asi
 
-                          .. figure:: /imagenes/mm1/general/mm7.png
+.. figure:: /imagenes/mm1/calibracion/calibracion2/ca22.JPG
 
-Ahora después de haber obtenido la distancia adecuada aflojamos la tuerca y giramos
-el sensor subiendo o bajando dependiendo donde estaba colocado hasta que el LED
-encienda.
+vas dar un clic enla perilla, gira la perilla y sellecciona prepare, da clic y vuleve  agirar la perilla para seleccionar la opcion de autohome y da clic para que la impresora se vaya al origen.
 
-                          .. figure:: /imagenes/mm1/general/mm8.png
+.. figure:: /imagenes/mm1/calibracion/calibracion2/ca23.JPG
 
-                          .. figure:: /imagenes/mm1/general/mm9.png
+.. figure:: /imagenes/mm1/calibracion/calibracion2/ca24.JPG
 
-Una vez prendido el LED del sensor aseguramos la tuerca que lo compone y listo ya
-tenemos el auto home calibrado. Posteriormente tendremos que revisar todas las
-esquinas de la cama estas deben de estar a la mima distancia que el la posición
-dada en el auto home.
+.. figure:: /imagenes/mm1/calibracion/calibracion2/ca25.JPG
 
-                          .. figure:: /imagenes/mm1/general/mm10.png
+tu impresora se movera en la esquina inferior derecha, cuando la paltaforma haya subido y hago su paro, deberas observar si la boquilla queda separada o muy cerca dela boquilla.
 
-                          .. figure:: /imagenes/mm1/general/mm11.png
+.. figure:: /imagenes/mm1/calibracion/calibracion2/ca24.JPG
 
-Para calibrar el resto de la cama tendremos que ir a las opciones de la pantalla
-vamos identificar la opción de move axis esto para poder movernos en la cama por
-medio de los ejes independientemente.
+se cual sea le caso de como haya quedado la boquilla, vamos acalibrar la cama, bien una vez que ya mandaste auto-home coloca lago debajo d ela impresora para que la cama no vaya a desender y una vez que ya hayas asegurado que la cama no se baja, da clic nuevemante en prepare, y selecciona la parte de disable steppers y da clic.
 
-                          .. figure:: /imagenes/mm1/general/mm12.png
+.. figure:: /imagenes/mm1/calibracion/calibracion2/ca25.JPG
 
-Primero moveremos el eje Y hasta la posición que indica la imagen, si el LED se
-apaga quiere decir que no detecta la cama y tenemos que subirla unos cuantos milímetros
-mas hasta que la el LED encienda, si fuera el caso de que el LED permanece encendido
-pero la boquilla esta rozando demasiado la cama tendremos que aflojar el resorte
-hasta que la boquilla quede mas liberada, para poder saber de que quedo en la en la
-distancia correcta, esta debe de tener la misma distancia cama-boquilla que en el Auto Home.
+con tus manos lleva el modulo de impresion a la esquina inferior izquierda y pasa una tarjeta de presentacion entre la cama y la boquilla,se tine la distancia de la tarjeta esta bien si esta muy floja deberas soltar un poco el tornillo que tiene el resorte de esta esquina o si no pasa la tarjeta deberas soltar un poco el resorte para que se nivele.
 
-                          .. figure:: /imagenes/mm1/general/mm13.png
+.. figure:: /imagenes/mm1/calibracion/calibracion2/ca26.JPG
 
-Para subir o bajar la cama nos apoyamos con unas pinzas de punta y una llave
-Allen M3, deteniendo la tuerca de seguridad con las pinzas y girando el tornillo
-con la llave.
+.. figure:: /imagenes/mm1/calibracion/calibracion2/ca27.JPG
 
-                          .. figure:: /imagenes/mm1/general/mm14.png
+.. figure:: /imagenes/mm1/calibracion/calibracion2/ca28.JPG
 
-Una vez calibrando este extremo de la cama nos movemos hacia el otro extremo sobre
-el eje X y repetimos el paso anterior.
+y asi deberas ir a cada esquina y dar la compensación de altura segun sea el caso en cada una, en el sieguinete ejemplo se muestra como la boquilla esta muy despegada, y se muestra como se da esa compensación.
 
-                          .. figure:: /imagenes/mm1/general/mm15.png
+.. figure:: /imagenes/mm1/calibracion/calibracion2/ca29.JPG
 
-Repetimos los mismos pasos para el otro extremo.
+.. figure:: /imagenes/mm1/calibracion/calibracion2/ca210.JPG
 
-                          .. figure:: /imagenes/mm1/general/mm16.png
+y ahora se  muestra una imagen despues de dar la compensación de altura y el resto de las esquinas.
 
-Y listo ya tienes tu cama calibrada y tu impresora lista para imprimir tus diseños.
+.. figure:: /imagenes/mm1/calibracion/calibracion2/ca211.JPG
+
+.. figure:: /imagenes/mm1/calibracion/calibracion2/ca212.JPG
+
+por ultimo revisemos el centro tambien
+
+.. figure:: /imagenes/mm1/calibracion/calibracion2/ca213.JPG
+
+en esta parte final si ya ajsutaste las esquinas y en el cnetro hay algo de espacio puedes ajustra el sensor inductivo subiendolo un poco si esta despegada la boquilla, o bajandolo si esta muy pegada.
+
+.. figure:: /imagenes/mm1/calibracion/calibracion2/ca214.JPG
+
+da un auto-home y listo puedes realizar tu prueba de impresion y obserbar que la cama quedo calibrada.
+
+.. Note::
+   es muy importante este dato el sensor inductivo tiene un rango de calibracion,comienza a detectar el metal de la cama en un rango de 2.5 a 2.8mm de distancia, asi que si subes el sensor mas de esta distancia, la boquilla chocara con la cama y no se dentendra y puedes lastimar tu boquilla gravemente.
+   y si bajas el sensor mas que la punta d ela boquilla, está quedara en una posición muy despegada d ela cama.
 
 
 5 - PROBLEMAS FRECUENTES
