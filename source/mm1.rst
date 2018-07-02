@@ -246,6 +246,56 @@ Para poder imprimir con modulo sencillo(modulo que viene de fabrica), es necesar
 2 - COMPONENTES
 -----------------
 
+Al adquirir tu impresora MM1 contaras con los siguientes componentes
+
+* 1 extrusor empacado.
+* 1 kit de cables de refaccion
+* 5m de filamento muestra
+* 1 caja de accesorios
+* 1 varilla lisa
+* 1 modulo de impresion
+* 1 tarjeta SD
+
+ en la siguinete imagen veras los componentes que vienen extras en tu paquete.
+
+.. figure:: /imagenes/mm1/general/mm5.png
+
+en la siguiente imagen se muestra el contenido de la caja de accesorios.
+
+* A guia de cables
+
+* B cable miniusb a USB
+
+* C cable de motor para extrusora
+
+* D cable de alimentacion
+
+* E llave española para boquilla
+
+* F juego de 3 thermoresistores
+
+* G llave allen de 1.5 mm y opresores
+
+* H lector sd
+
+* I  juego de 6 calzas antiderrapantes
+
+* J desarmador de ceramica
+
+* K placa de aluminio
+
+* L micro para eje Z
+
+.. figure:: /imagenes/mm1/desempaque/des33.JPG
+
+en la siguiente imagen te mostramos la extrusora
+
+.. figure:: /imagenes/mm1/general/mm5.png
+
+en la siguiente imagen te mostramos el modulo de impresion con su tubo bowden y su clip de sujeccion, cabe mencionar que este componente ya viene montado.
+
+.. figure:: /imagenes/mm1/general/mm5.png
+
 +----------------------------------------------------------+---------------------+
 |                  Características Técnicas                | Tarjeta controladora|
 +----------------------------------------------------------+---------------------+
@@ -258,61 +308,30 @@ Para poder imprimir con modulo sencillo(modulo que viene de fabrica), es necesar
 |Voltaje necesario 12 Volts                                |                     |
 +----------------------------------------------------------+---------------------+
 
-.. figure:: /imagenes/mm1/general/mm1.png
+.. figure:: /imagenes/mm1/general/mm5.png
 
-.. figure:: /imagenes/mm1/general/mm2.png
+.. figure:: /imagenes/mm1/general/mm5.png
 
-+---------------------------------+
-|¿Qué incluye mi impresora?       |
-+---------------------------------+
+.. figure:: /imagenes/mm1/general/mm5.png
 
-1.- Cable USB
+.. figure:: /imagenes/mm1/general/mm5.png
 
-2.- Cable de fuente
++--------+
+|ventajas|
++--------+
 
-3.- Tarjeta SD
 
-4.- Z mecánico
+- Impresión 3D de alta calidad en una amplia gama de materiales
+- Cabezal intercambiable para cada módulo de impresión.
+- Plataforma open source.
+- Facilidad de reemplazo de pieza.
+- Posibilidad de modificar y personalizar.
+- Soporte personalizado.
 
-5.- Seguro doble extrusor
-
-6.- Soporte filamento
-
-7.- Kit cable Rep Rap
-
-8.- Desarmador cerámico
-
-9.- Kit refacciones de boquilla Hexagón
-    a) Opresores
-    b) Llave Allen
-    c) Llave española
-    d) Placa de aluminio
-
-10.- Kit refacciones generales
-    a) Lector tarjeta SD
-    b) Juego de termistores
-    c) Calzas
-    d) Piezas K1, K2
-    e) 2 tensores T
-    f) Guía de cables V
-
-.. Note::
-
-    A partir de la impresora con número de serie 198, el seguro de doble extrusor ya no es necesario ni se incluye en el equipo ni en ninguno de los     módulos, ya que se ha logrado incluir esta característica en el firmware de la tarjeta controladora; si el número de tu equipo es anterior al mencionado y deseas actualizar el firmware, puedes ponerte en contacto con el equipo de soporte a traves de nuestro `foro <http://makermex.com/forum>`_ .
-
-.. figure:: /imagenes/mm1/general/mm3.png
-
-.. Note::
-
-  Como un comentario adicional se pueden encontrar
-  todos nuestros manuales virtuales, tutoriales, descarga de softwares ya sea
-  Cura, Blender y Pronterface. Todo lo mencionado se encuentra disponibles en Wiki MakerMex
-  http://makermex.com/wiki/index.html, también se es acreedor a dos horas
-  de asesoría/soporte técnico por vídeo-llamada o presencial (Se agenda con un día de anticipación).
-
+esta impresora cuenta con un sistema modular te dejamos la lista de sus modulos compatibles.
 
 +--------------------+
-|MÓDULOS DE IMPRESIÓN|
+|modulos de impresion|
 +--------------------+
 
 - Módulo de Pastas (Imprime chocolate, barro, arcilla, cerámica, entre una gran variedad de materiales pastosos)
@@ -324,20 +343,6 @@ Para poder imprimir con modulo sencillo(modulo que viene de fabrica), es necesar
 - Módulo Flexible (El diseño de este módulo ayuda a imprimir materiales flexibles como NinjaFlex, TPE y PLA Soft)
 
 - Módulo Doble (Combina con dos materiales de impresión, incluye 2 boquillas Hexagón)
-
-
-+--------+
-|VENTAJAS|
-+--------+
-
-
-- Impresión 3D de alta calidad en una amplia gama de materiales
-- Cabezal intercambiable para cada módulo de impresión.
-- Plataforma open source.
-- Facilidad de reemplazo de pieza.
-- Posibilidad de modificar y personalizar.
-- Soporte personalizado.
-
 
 3 - PRIMEROS PASOS
 -------------------
@@ -363,6 +368,144 @@ en piezas físicas en un solo entorno de trabajo.
 
 Todos los softwares que utilizamos son opens source o código libre,
 esto quiere decir que los puedes descargar de la web sin costo.
+
+te dejamos el manual de primera impresion una vez que desempacaste la impresora te invitamos que realices esta prueba, conecta tu impresora y toma el filamneto de prueba
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi1.JPG
+
+da clic en la perilla, te abrira un menú, gira la perilla para sellecionar control y da clic para entrar a temperature.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi2.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi3.JPG
+
+ahora selecciona nozzle y da clic para entrar.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi4.JPG
+
+ya que estas dentro gira la perilla y sube la temperatura a 200 grados o 202,y da clic.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi5.JPG
+
+al dar clic volveras a esta pantalla observa como estan las flechas de la parte superior, cuando esten en esta posicion solo da clic para regresar a la pantalla principal
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi6.JPG
+
+cuando estes en la pantalla principal veras como sube la temperatura de la boquilla 1.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi7.JPG
+
+en lo que sube la temperatura vamos a realizar una punta en el filamneto lo puedes realizar de dos formas con unas pinzas de punta o con un sacapuntas de metal.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi8.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi9.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi10.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi11.JPG
+
+ya que la temperatura llego al lo que indicamos, colocaremos el filamneto en la extrusora.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi12.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi13.JPG
+
+para colocra el filamento bajamos la perilla que se muestra en la imagenes
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi14.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi15.JPG
+
+y podemos abrir un poco la pieza que tiene el balero, asi como se muetsra en la imagen.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi16.JPG
+
+colocamos la punta del filamento en la ranura asi como se ve en la imagen
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi17.JPG
+
+giramos el engrane en sentido contrario a las manecillas de un reloj para que el filamento suba
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi18.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi19.JPG
+
+podemos jalar con cuidado la punta del filamento para dejar un tramo de 65cm aproximadamente.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi20.JPG
+
+colocamos el filamneto dentro del tubo bowden hasta que llegue a la boquilla y comience a salir por la punta.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi21.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi22.JPG
+
+y subimos la palanca que hara la compresión para que el filamneto no se  salga de la extrusora.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi23.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi24.JPG
+
+si el filamneto no sale gira un poco mas el engrane como se indico antes hasta que veas que comience a salir el filamento por la boquilla.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi25.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi26.JPG
+
+si no sale el filamento por la boquilla no te preocupes puedes liberar el tubo de la parte del modulo, solo necesitaras unas pinzas de punta observa como se colocan y presiona hacia abajo el plastico negro del conector neumatico y saca el tubo haca arriba.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi27.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi28.JPG
+
+ahoara sera mas sencillo que coloques el filamneto dentro de la boquilla.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi29.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi30.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi31.JPG
+
+ya para terminar da clica  a la perilla entraras al menú principal, gira la perilla selecciona print from SD para entrar a la tarjeta y da clic
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi32.JPG
+
+selecciona el codigo y da clic.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi33.JPG
+
+en cuanto selecciones el codilo la cama comenzara a calentar, y despues la boquilla.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi34.JPG
+
+una vez que la impresora llegue a las temperaturas relizara un home y comenzara a imprimir.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi35.JPG
+
+observa que la impresion comeince asi como se ve en las imagenes.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi36.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi37.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi38.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi39.JPG
+
+asi se vera tu impresora completa
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi40.JPG
+
+y pues la impresora seguira realizando su impresion capa por capa hasta terminar.
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi41.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi42.JPG
+
+.. figure:: /imagenes/mm1/primer/newmanual/pi43.JPG
+
+una vez que termine la impresora no la apagues, deja que se enfrie la boquilla,hasta llegar a la temperatura ambiente una vez que este entre 25 y 30 grados puedes apagarla.
 
 Descarga de Software
 ^^^^^^^^^^^^^^^^^^^^^^
