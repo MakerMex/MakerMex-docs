@@ -537,8 +537,117 @@ te dejamos el link donde lo puedes descargar
 
 https://www.blender.org/download/
 
-instalación de cura para la impresora MM1
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Instalación de cura 3.2.1 para la impresora MM1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+primero vamos a la pagina de ultimaker y descargamos el software
+
+.. figure:: /imagenes/mm1/curanew/np1.png
+
+da clic en descragar libre
+
+.. figure:: /imagenes/mm1/curanew/np2.png
+
+si deseas agrgar informacion adelante normalmente descargan el software sin dar informacion
+
+.. figure:: /imagenes/mm1/curanew/np3.png
+
+una vez que se descargue en tu computadora abre el ejecutable.
+
+.. figure:: /imagenes/mm1/curanew/np4.png
+
+.. figure:: /imagenes/mm1/curanew/np5.png
+
+comnezara en breve la compilacion
+
+.. figure:: /imagenes/mm1/curanew/np6.png
+
+cuando aparezaca esta ventana da clic en finish
+
+.. figure:: /imagenes/mm1/curanew/np7.png
+
+y la aplicacion se comenzara a abrir
+
+.. figure:: /imagenes/mm1/curanew/np8.png
+
+se abriara esta plataforma
+
+.. figure:: /imagenes/mm1/curanew/np9.png
+
+da clic en preferences, aqui podras cambiar el lenguaje, instalar maquinas,hacerperfiles,configuraciones de cura entre otras cosas mas.
+
+.. figure:: /imagenes/mm1/curanew/np10.png
+
+.. figure:: /imagenes/mm1/curanew/np11.png
+
+.. figure:: /imagenes/mm1/curanew/np12.png
+
+vamos aimpresoras y agregaremosuna impresora
+
+.. figure:: /imagenes/mm1/curanew/np13.png
+
+se abrira una ventana asi da clic en custom
+
+.. figure:: /imagenes/mm1/curanew/np14.png
+
+selecciona la opcion que aparece y da clic en agregar impresora.
+
+.. figure:: /imagenes/mm1/curanew/np15.png
+
+cloca las dimensiones de la impresora, y los demas opciones que se muestran en esta imagen.
+
+.. figure:: /imagenes/mm1/curanew/np16.png
+
+ahora da clic en extruder 1 y coloca los siguientes parametros.
+
+.. figure:: /imagenes/mm1/curanew/np17.png
+
+selcciona la impresora MM1 y da cerrar a la ventana
+
+.. figure:: /imagenes/mm1/curanew/np18.png
+
+ahora utilizaremos la configuracion de impresion perzanalozada
+
+.. figure:: /imagenes/mm1/curanew/np19.png
+
+el primer parametrso es calidad antes de continuar te recomendamos que coloques los parametros que aparecen en cada imagen, pero en la siguiente imagen puedes dar clic al engrane y podras instalar los parametros que estan ocultos.
+
+.. figure:: /imagenes/mm1/curanew/np20.png
+
+.. figure:: /imagenes/mm1/curanew/np21.png
+
+el siguiente parametrso es el perimetro te dejamos la iamgen para que instales los paremtros ocultos como se menciona arriba.
+
+.. figure:: /imagenes/mm1/curanew/np22.png
+
+ahora sigue el parametro de relleno
+
+.. figure:: /imagenes/mm1/curanew/np23.png
+
+ahora sigue el parametro de material donde colocaras las temperaturas de impresion
+
+.. figure:: /imagenes/mm1/curanew/np24.png
+
+sigue el parametro de velocidad
+
+.. figure:: /imagenes/mm1/curanew/np25.png
+
+sigue el parametro de refrigeracion
+
+.. figure:: /imagenes/mm1/curanew/np26.png
+
+por ultimo estan 3 parametrsos el de soporte, modos especiales y experimental, en soporte solo se cativa si deseas colocar material de soporte, cuando tu pieza tiene volodos.
+
+.. figure:: /imagenes/mm1/curanew/np27.png
+
+.. figure:: /imagenes/mm1/curanew/np28.png
+
+en esta ultima imagen puedes ver las opciones que puedes interactuar en cura.
+
+.. figure:: /imagenes/mm1/curanew/np29.png
+
+Instalación de cura 14.12 para la impresora MM1
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Paso 1
 
