@@ -258,7 +258,7 @@ Al adquirir tu impresora MM1 contaras con los siguientes componentes
 
  en la siguinete imagen veras los componentes que vienen extras en tu paquete.
 
-.. figure:: /imagenes/mm1/componentes/com1.JPG
+.. figure:: /imagenes/mm1/componentes/comp1.jpg
 
 en la siguiente imagen se muestra el contenido de la caja de accesorios.
 
@@ -286,15 +286,15 @@ en la siguiente imagen se muestra el contenido de la caja de accesorios.
 
 * L micro para eje Z
 
-.. figure:: /imagenes/mm1/componentes/com8.JPG
+.. figure:: /imagenes/mm1/componentes/comp8.jpg
 
 en la siguiente imagen te mostramos la extrusora
 
-.. figure:: /imagenes/mm1/componentes/com6.JPG
+.. figure:: /imagenes/mm1/componentes/comp6.jpg
 
 en la siguiente imagen te mostramos el modulo de impresion con su tubo bowden y su clip de sujeccion, cabe mencionar que este componente ya viene montado.
 
-.. figure:: /imagenes/mm1/componentes/com7.JPG
+.. figure:: /imagenes/mm1/componentes/comp7.jpg
 
 +----------------------------------------------------------+---------------------+
 |                  Características Técnicas                | Tarjeta controladora|
@@ -308,13 +308,13 @@ en la siguiente imagen te mostramos el modulo de impresion con su tubo bowden y 
 |Voltaje necesario 12 Volts                                |                     |
 +----------------------------------------------------------+---------------------+
 
-.. figure:: /imagenes/mm1/componentes/com2.JPG
+.. figure:: /imagenes/mm1/componentes/comp2.jpg
 
-.. figure:: /imagenes/mm1/componentes/com3.JPG
+.. figure:: /imagenes/mm1/componentes/comp3.jpg
 
-.. figure:: /imagenes/mm1/componentes/com4.JPG
+.. figure:: /imagenes/mm1/componentes/comp4.jpg
 
-.. figure:: /imagenes/mm1/componentes/com5.JPG
+.. figure:: /imagenes/mm1/componentes/comp5.jpg
 
 +--------+
 |ventajas|
